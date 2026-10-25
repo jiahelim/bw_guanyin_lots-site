@@ -1,14 +1,24 @@
 /**
 * Language toggle (EN / 中文)
 * - Elements tagged data-lang="en" or data-lang="zh" are shown only in that language.
-* - Language comes from ?lang=en|zh in the URL, defaults to zh, and is kept on internal links.
+* - Language comes from ?lang=en|zh in the URL, else the browser's language (zh-* gives zh), else en, and is kept on internal links.
 * - The pill renders into #langToggle if the page has one, otherwise fixed top right below #header.
 */
 (function() {
   "use strict";
 
   var LANGS = ['en', 'zh'];
-  var DEFAULT_LANG = 'zh';
+  var DEFAULT_LANG = 'en';
+
+  // First browser language we support, e.g. zh-CN or zh-TW gives zh
+  function browserLang() {
+    var prefs = navigator.languages || [navigator.language || ''];
+    for (var i = 0; i < prefs.length; i++) {
+      var base = String(prefs[i]).toLowerCase().split('-')[0];
+      if (LANGS.indexOf(base) !== -1) return base;
+    }
+    return DEFAULT_LANG;
+  }
 
   var css =
     'html[lang="en"] [data-lang="zh"], html[lang="zh"] [data-lang="en"] { display: none !important; }' +
@@ -20,7 +30,7 @@
 
   function getLang() {
     var lang = new URLSearchParams(window.location.search).get('lang');
-    return LANGS.indexOf(lang) === -1 ? DEFAULT_LANG : lang;
+    return LANGS.indexOf(lang) === -1 ? browserLang() : lang;
   }
 
   function withLang(href, lang) {
