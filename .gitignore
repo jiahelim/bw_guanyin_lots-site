@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / design source files
+*.pdn
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
