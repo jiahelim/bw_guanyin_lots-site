@@ -62,7 +62,8 @@ body{
   z-index:2;
   -webkit-animation: floatQian 5s;
   animation: floatQian 5s;
-  animation-fill-mode: forwards; 
+  animation-fill-mode: forwards;
+  cursor: pointer;
 }
 
 
@@ -631,14 +632,21 @@ img {
 		}
 	}
 
+	function openLot() {
+		sessionStorage.setItem("number", random_num);
+		window.location.href = withLang("./lots/" + random_num + ".html");
+	}
+
 	$("#flowCta").on("click", function () {
 		if (flowState === "drawn") {
-			sessionStorage.setItem("number", random_num);
-			window.location.href = withLang("./lots/" + random_num + ".html");
+			openLot();
 		} else {
 			drawLot();
 		}
 	});
+
+	// The drawn stick links to its lot too
+	$(".qian").on("click", openLot);
 
 	updateFlow();
 
