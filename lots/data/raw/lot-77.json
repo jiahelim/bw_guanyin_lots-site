@@ -1,0 +1,38 @@
+{
+  "n": 77,
+  "zh": {
+    "grade": "中签",
+    "poem": ["梦中说得是多财", "声名云外终虚来", "水远山遥难信实", "贵人指点笑颜开"],
+    "jieyue": ["如梦说梦", "声名莫望", "只待好时", "贵人指示"],
+    "shiyi": ["此卦梦中得宝之象，", "凡事虚多少实也。"],
+    "explain": "财富虽多却在梦中，名声虽高并不真实。太遥远的东西难以确定其真实性，只有贵人指点后才能笑逐颜开。",
+    "divination": ["此签为中签。", "像在梦中说梦一样，不要期待什么声名。", "若想有一个好的结果，应当让贵人给予指点和帮助。"],
+    "items": [
+      ["家宅情况", "应积善祈福得庇佑"], ["自身情况", "有阻碍"], ["投资理财", "虚而不实"],
+      ["经商买卖", "难以成功"], ["工农商业", "谋望宜小心"], ["工作事业", "脚踏实地，务实经营"], ["学业考试", "努力以赴，加倍用功"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "不太顺利，多积善祈福"], ["出门在外", "到达目的地的时间延迟"], ["畜养动物", "有损失"],
+      ["寻人", "毫无音信"], ["寻失物", "在远方"], ["官司诉讼", "会和解"], ["迁徙搬家", "等待时机"],
+      ["转换变更", "宜审慎而行"], ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦梦中得宝之象。所祈求之事是虚假的成分多，实在的成分少。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Much wealth you have in your dreams,", "What’s in a name but an empty word.", "Things found beyond seas and mountains hard to be real,", "Only help from a patron will put a smile on your face."],
+    "interpretation": ["Dreams are dreams, do not hanker after fame.", "Wait for the right moment when your distinguished patron will guide you."],
+    "meaning": ["Treasures appear only in dreams;", "many things are not what they appear to be."],
+    "explain": "Although wealth is abundant it is present only in dreams. Although reputation is high, it is not real. It is very difficult to ascertain the authenticity of things far away, only guidance from a benefactor can put a smile on your face.",
+    "divination": ["This is a neutral lot.", "Like talking in a dream, do not have too much expectation on fame.", "If you wish to have a good outcome, you must be ready to accept guidance and assistance from a benefactor."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection"], ["Self", "Obstruction"],
+      ["Investment and financial management", "False"], ["Business", "Difficult to be successful"],
+      ["Agriculture and commerce", "Be careful in seeking hope"], ["Career", "Down-to-earth and pragmatic management"], ["Academic and examination", "Advisable to work double hard"],
+      ["Marriage", "Not suitable"], ["Birth", "Not so smooth, work harder to do good, pray for blessings"], ["Traveller", "Delayed"], ["Husbandry", "Damages"],
+      ["Missing person", "No news"], ["Missing things", "Far away"], ["Lawsuit", "Amiable settlement"],
+      ["Migrating and moving house", "Wait for right time"], ["Change", "Should be cautious"],
+      ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' (18 items). en uses 'Traveller'."
+}

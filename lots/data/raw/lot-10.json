@@ -1,0 +1,39 @@
+{
+  "n": 10,
+  "zh": {
+    "grade": "中签",
+    "poem": ["石藏无价玉和珍", "只管他乡外客寻", "宛如持灯更觅火", "不如收拾枉劳心"],
+    "jieyue": ["姻缘会遇", "何事不成", "须无限意", "眼前是真"],
+    "shiyi": ["此卦持灯觅火之象。", "凡事待时成就也。"],
+    "explain": "自己就是石头中蕴藏的珍贵宝玉，颇富才智，却一味的奢望于贵人相助和异地求财，这多么像拿着灯找火，十足的枉劳心思。",
+    "divination": ["此签为中签。", "所有的姻缘都会出现，做任何事情均可成功。", "虽可以不限制自己的想象力，但得相信，自己眼前的一切才是真切的。"],
+    "items": [
+      ["家宅情况", "不太吉利"], ["自身情况", "平安"], ["投资理财", "困难"],
+      ["经商买卖", "困难"], ["工农商业", "年底会吉利"], ["工作事业", "脚踏实地，等待时机"], ["学业考试", "专心学习，定会进步。"],
+      ["爱情婚姻", "双方投合"], ["怀孕生育", "女孩"], ["出门在外", "有变数"], ["畜养动物", "难养"],
+      ["寻人", "见到"], ["寻失物", "难寻回"], ["官司诉讼", "吃亏"], ["迁徙搬家", "旧居平安"],
+      ["转换变更", "宜按兵不动"], ["治病健康", "宜作祈福回向"], ["祖坟牌位", "虽平安仍可多祈福"]
+    ],
+    "summary": "此卦持灯觅火之象。所祈求之事需等待时机，之后才会成功。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Hidden within are priceless jade and gems,", "Yet one searches in foreign lands for the same.", "Like one who seeks light while holding a lamp,", "Save your troubles, pack up and head home."],
+    "interpretation": ["Marriage will come, everything can be accomplished.", "Don’t limit yourself, what is before you is real and genuine."],
+    "meaning": ["A man holds a lamp and still looks for light.  Be patient and wait, success will be at hand."],
+    "explain": "You are the precious jade hidden in the stone. While you possess talents and wisdom, yet you constantly desire for benefactor help, and seek wealth in other lands. This is just like holding a lamp to seek light, a complete waste of effort.",
+    "divination": ["This is a neutral lot.", "All that is fated will come, doing anything can be successful. Although you do not need to limit your imagination, you have to believe what is before you is real and genuine."],
+    "items": [
+      ["Household", "Not so favorable"], ["Self", "Safe"],
+      ["Investment and financial management", "Challenging"], ["Business", "Challenging"],
+      ["Agriculture and commerce", "Auspicious at year end"], ["Career", "Be down-to-earth, and wait for the opportunity."],
+      ["Academic and examination", "Concentrate on studying, you will surely make progress."], ["Marriage", "Suitable"], ["Birth", "Girl"],
+      ["Traveller", "Variable"], ["Husbandry", "Difficult to rear"], ["Missing person", "Will be found"],
+      ["Missing things", "Difficult to find"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Safer to remain put"],
+      ["Change", "Best not change"], ["Sickness", "Do vast offerings & dedications to get well"],
+      ["Ancestral grave", "Although  safe, you can still pray for more blessings"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 学业考试 value ends with 。 in the image (only item that does). en 'Ancestral grave: Although  safe' has a double space (kept). Double spaces after colons in en items trimmed."
+}

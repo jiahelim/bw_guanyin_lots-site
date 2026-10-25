@@ -1,0 +1,37 @@
+{
+  "n": 39,
+  "zh": {
+    "grade": "下签",
+    "poem": ["天边消息实难思", "切莫多心望强求", "若把石头磨作镜", "曾知枉费己工夫"],
+    "jieyue": ["千般用计", "枉费功夫", "不如守旧", "着甚来由"],
+    "shiyi": ["此卦守常安静之象。", "凡事守己则吉也。"],
+    "explain": "远方将有消息传来，好坏难以猜测。切记不要一个心思就想着好事，是坏消息的可能也许更大。如果想把粗劣的石头磨成明亮的镜子，这种枉费工夫的事最好不要去做。",
+    "divination": ["此签为下签。", "耗尽心机，不停地奔波忙碌，到头来也是白费工夫。", "保持原来的样子又有什么不好呢？"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "多加防护"], ["投资理财", "成果平平"],
+      ["经商买卖", "会有阻碍"], ["工农商业", "有利可图"], ["工作事业", "宜保持现状"], ["学业考试", "成绩未如理想，要多下苦功"],
+      ["爱情婚姻", "不相合"], ["怀孕生育", "女孩"], ["出门在外", "还在途中"], ["畜养动物", "有损失"],
+      ["寻人", "难找到"], ["寻失物", "到头也是一场空"], ["官司情况", "会亏输"], ["迁徙搬家", "一般"], ["转换变更", "安分守己为佳"],
+      ["治病健康", "宜祈福回向，平安"], ["祖坟牌位", "大吉大利"]
+    ],
+    "summary": "此卦守常安静之象。所祈求之事能安分守己则吉祥。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["A message from afar is hard to predict,", "Yet do not place too much hope nor high expectations.", "Know that to turn a stone into a mirror,", "Will be both laborious and fruitless."],
+    "interpretation": ["All efforts and schemes will be in vain.", "Better to remain as-is and plan accordingly."],
+    "meaning": ["Stick to established ways and be still.", "Keep things as they are and you will be fine."],
+    "explain": "News from afar is difficult to predict if it's good or bad.  Remember not to think about good things only, the possibility of bad news may be greater. It will be a waste of one's efforts trying to polish a rough stone into a clear mirror. Best not do it.",
+    "divination": ["This is an inauspicious lot.", "Despite putting in so much effort running around, busying yourself continuously, all your efforts will be wasted in the end. So what is wrong with remaining status quo?"],
+    "items": [
+      ["Household", "Safe"], ["Self", "Take precautions"],
+      ["Investment and financial management", "Average"], ["Business", "Obstruction"],
+      ["Agriculture and commerce", "There are gains"], ["Career", "Maintain status quo"], ["Academic and examination", "Grades are not as expected, more hard work is needed"],
+      ["Marriage", "Not suitable"], ["Birth", "Girl"], ["Traveller", "On the way"], ["Husbandry", "Damage"],
+      ["Missing person", "Difficult To find"], ["Missing things", "Empty"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Average"],
+      ["Change", "Maintain status quo"], ["Sickness", "Do vast offerings & pray for blessing to be safe"], ["Ancestral grave", "Very Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh poem last half-line read as 曾知枉费己工夫 (glyph looks like 己, not 已; as printed). zh item key printed as 官司情况 (not 官司诉讼) and 畜养动物; extra 迁徙搬家 item. en 'Difficult To find' capital T as printed; double spaces after colons in 'Change:' and 'Sickness:' trimmed; double space after 'bad.' in explain kept."
+}

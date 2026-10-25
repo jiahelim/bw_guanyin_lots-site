@@ -1,0 +1,37 @@
+{
+  "n": 89,
+  "zh": {
+    "grade": "上签",
+    "poem": ["出入营谋大吉昌", "似玉无瑕石里藏", "若得贵人来指引", "斯时得宝喜风光"],
+    "jieyue": ["如石藏玉", "贵人指示", "得祇称心", "欢怀得意"],
+    "shiyi": ["此卦石藏珍宝之象，", "凡事称心大吉也。"],
+    "explain": "在家和在外的谋求都必定大吉大利，现在却像无暇宝玉一样藏在石中。如果遇到贵人指引，那时定会升官发财，风光无限。",
+    "divination": ["此签为上签。", "像石头中埋藏的宝玉，须有贵人来发现，才能获得称心如意的地位和重视。"],
+    "items": [
+      ["家宅情况", "吉利"], ["自身情况", "身心康泰"], ["投资理财", "称心如愿"],
+      ["经商买卖", "成功"], ["工农商业", "尚需努力"], ["工作事业", "善用才华而发挥所长"], ["学业考试", "更上一层楼"],
+      ["爱情婚姻", "双方能成"], ["怀孕生育", "男孩"], ["出门在外", "还在途中"], ["畜养动物", "需辛勤照料"],
+      ["寻人", "找到"], ["寻失物", "还在"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "吉利"], ["转换变更", "安守经营"],
+      ["治病健康", "安康"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦石藏珍宝之象。所祈求之事能称心如意，非常吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Plans and schemes are faring well.", "Like rare jade concealed in a stone,", "If led by a man of wealth and power,", "You will receive jewels and treasures."],
+    "interpretation": ["Like jade hidden in a stone, someone will guide you to fulfill your destiny.", "You will be happy and delighted."],
+    "meaning": ["Gems hidden in the stones, everything is auspicious and according to your heart’s desires."],
+    "explain": "Everything is thriving for you, be it at home or outside, like a flawless gem embedded in a rock. If you receive guidance from a benefactor, you will definitely enjoy higher status, make a fortune and shine with infinite beauty.",
+    "divination": ["This is an auspicious lot.", "You are like a precious jade buried in the stone, a benefactor needs to discover you, so you can gain the status and recognition according to your wishes."],
+    "items": [
+      ["Household", "Auspicious"], ["Self", "Healthy"],
+      ["Investment and financial management", "After one’s desire"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Need to put in some efforts."], ["Career", "Use your talents to your best ability"], ["Academic and examination", "Study progress to the next level"],
+      ["Marriage", "Suitable for both parties"], ["Birth", "Boy"], ["Traveller", "Still on the way"], ["Husbandry", "Manage diligently"],
+      ["Missing person", "Found"], ["Missing things", "Still there"], ["Lawsuit", "Victorious"], ["Migrating/move house", "Propitious"],
+      ["Change", "Continue to manage"], ["Sickness", "Healthy"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "jieyue 得祇称心: glyph read as 祇 (could be intended 祗; no bottom dot visible at zoom). zh item 寻失物 is printed with a semicolon (寻失物；还在) instead of a colon; key/value split anyway. zh explain prints 无暇 (for 无瑕; the poem uses 瑕), kept as printed. Extra item 迁徙搬家; zh key 畜养动物; en key printed 'Migrating/move house' (not 'Migrating and moving house'); en key 'Traveller'."
+}

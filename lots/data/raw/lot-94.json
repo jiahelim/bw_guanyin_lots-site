@@ -1,0 +1,37 @@
+{
+  "n": 94,
+  "zh": {
+    "grade": "下签",
+    "poem": ["君子莫体小人为", "事若差池惹是非", "琴鸣须用知音听", "守常安静得相宜"],
+    "jieyue": ["知音方许", "闲事莫理", "待得贵人", "无不欢喜"],
+    "shiyi": ["此卦要逢知己之象，", "凡事守常则吉也。"],
+    "explain": "君子不要做出小人的行为，如果处事出了差错也会惹来是非。琴要弹给懂音乐的人听，如果自己能静心安守，也许会等来贵人的帮助。",
+    "divination": ["此签为下签。", "一切事情，只有在面对知音时才可以应允。至于闲事，更是不要去理睬。", "待到时机成熟，得到贵人相助，自然一切都会欢喜。"],
+    "items": [
+      ["家宅情况", "出门应谨慎小心"], ["自身情况", "恐会遭遇小人"], ["投资理财", "宜等待时机"],
+      ["经商买卖", "宜谨慎小心"], ["工农商业", "勿轻举妄动，保持现状"], ["工作事业", "安分守法，静待机缘"], ["学业考试", "加倍用功，不进则退"],
+      ["爱情婚姻", "适宜推迟"], ["怀孕生育", "女孩"], ["出门在外", "还在途中"], ["畜养动物", "有损失"],
+      ["寻人", "多方面寻找"], ["寻失物", "赶快寻找"], ["官司诉讼", "会和解"], ["迁徙搬家", "宜原地不动"], ["转换变更", "静候而保持原状"],
+      ["治病健康", "须良医，否则有阻"], ["祖坟牌位", "不利。宜和合共识做决定。"]
+    ],
+    "summary": "此卦要逢知己之象。所祈求之事宜怀着耐心而坚守常态，则会吉祥。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["The virtuous think not like the villains,", "Whose conduct shows their faults and differences.", "Only the tutored will appreciate the fine music,", "Remain and quietly wait for the rare company."],
+    "interpretation": ["Stay away from gossips and wait for a mutual friend who knows and understands you and brings joy to you."],
+    "meaning": ["One will meet a genuine and mutual friend.", "Maintain things as-is and everything will turn out right."],
+    "explain": "A gentleman should not behave like a villain. If things go wrong, it might also invite trouble. Play the qin only to people who appreciate music. Keep a quiet vigil and perhaps benefactors may come to your aid.",
+    "divination": ["If it’s a bosom friend, you can agree to their requests on all matters, and ignore other idle matters. When the right time comes & you can get a benefactor’s help, naturally everything will be joyous."],
+    "items": [
+      ["Household", "Be cautious when out"], ["Self", "May meet vile people"],
+      ["Investment and financial management", "Wait for rt. time"], ["Business", "Take precautions"],
+      ["Agriculture and commerce", "Don't act rashly, keep the status quo"], ["Career", "Be law-abiding, wait for the opportunity"], ["Academic and examination", "Work harder, else won’t improve"],
+      ["Marriage", "Should delay"], ["Birth", "Girl"], ["Traveller", "On the way"], ["Husbandry", "Damage"],
+      ["Missing person", "Try harder"], ["Missing things", "Search quickly"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Do not move"], ["Change", "Hold on, stay put"],
+      ["Sickness", "Need a good Doctor otherwise will have obstacles"], ["Ancestral grave", "Not favorable"]
+    ],
+    "summary": null
+  },
+  "notes": "zh item 出门在外 uses a full-width semicolon (出门在外；还在途中) instead of a colon in the image; key/value split anyway. EN Divination lacks the usual opening 'This is an inauspicious lot.' line (zh has 此签为下签。). EN mixes straight and curly apostrophes as printed."
+}

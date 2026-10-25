@@ -1,0 +1,39 @@
+{
+  "n": 29,
+  "zh": {
+    "grade": "中签",
+    "poem": ["宝剑出匣耀光明", "在匣全然不惹尘", "今得贵人携出现", "有威有势众人钦"],
+    "jieyue": ["宝剑出匣", "光辉万里", "贵人指引", "无不观美"],
+    "shiyi": ["此卦宝剑出匣之象。", "凡事有威有势也。"],
+    "explain": "像宝剑一样，以前在匣中就一尘不染，现在出匣更是明洁光亮。得到贵人提携，也就更有威势，也令众人十分钦佩。",
+    "divination": ["此签为中签。", "像出匣的宝剑一样，光辉照万里。如果遇上贵人指引，必将获得成功，让众人赞美不已。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "吉祥"], ["投资理财", "顺利"],
+      ["经商买卖", "成功"], ["工农商业", "宜早规划易成办"], ["工作事业", "提升专精技能，有助未来"], ["学业考试", "真才实学，终会进步"],
+      ["爱情婚姻", "好"], ["怀孕生育", "女孩"], ["出门在外", "途中被耽误"], ["畜养动物", "有损失"],
+      ["寻人", "找到"], ["寻失物", "在南方"], ["官司诉讼", "和解"], ["迁徙搬家", "会兴旺"], ["转换变更", "改变会得到利益"],
+      ["治病健康", "需还愿"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦宝剑出匣之象。所祈求之事可做得有声有势。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The supreme sword, unsheathed, dazzles,", "No dust or filth can make its shine frazzles.", "As a distinguished person now is here,", "A might and power for all to hear."],
+    "interpretation": ["The supreme sword is drawn, dazzling many for miles.", "With guidance from a distinguished person, all will be good to behold."],
+    "meaning": ["A powerful sword is drawn from its sheath.", "A show of power and might."],
+    "explain": "Like a precious sword that is untainted by even a speck of dust when in the sheath.  Now, it is even brighter and shinier when out of the sheath. With the help from a nobleman, it is even more powerful, and admired by everyone.",
+    "divination": ["This is a neutral lot.", "Like an unsheathed precious sword that glitters and shines for miles.", "If you meet a nobleman and are guided by him, you'll certainly attain success and be praised by all men."],
+    "items": [
+      ["Household", "Do good, pray for blessings"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Favorable"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Plan early to succeed"], ["Career", "Enhance specialized skills for the future"],
+      ["Academic and examination", "True talent will eventually progress"], ["Marriage", "Good"],
+      ["Birth", "Girl"], ["Traveller", "Delay enroute"], ["Husbandry", "Damage"],
+      ["Missing person", "Can find"], ["Missing things", "South"], ["Lawsuit", "Amiable settlement"],
+      ["Migrating and moving house", "Will do well"], ["Change", "Change will lead to benefits"],
+      ["Sickness", "Make good a forgotten promise"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en Celestial Message has extra spaces as printed ('Career:  Enhance', 'Lawsuit:  Amiable', 'moving  house'); normalized to single spaces in items. en.divination split into 3 lines because the image starts 'If you meet...' on a new line. en.explain has a mid-sentence line break after 'when' (layout artifact, joined)."
+}

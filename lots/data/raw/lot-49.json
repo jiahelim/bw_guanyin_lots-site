@@ -1,0 +1,37 @@
+{
+  "n": 49,
+  "zh": {
+    "grade": "中签",
+    "poem": ["天寒地冻水成冰", "何须贪吝取功名", "只好守己静处坐", "待时兴变自然明"],
+    "jieyue": ["水结成冰", "冰消成水", "若是营谋", "到底如是"],
+    "shiyi": ["此卦水结成冰之象。", "凡事不用枉求也。"],
+    "explain": "处在天寒地冻，滴水成冰的困境中，何必贪婪吝啬于求取功名？只宜安分守己地在静处端坐，等待好运来时自然才会前景光明。",
+    "divination": ["此签为中签。", "水可以结成冰，冰也可融化为水。如果要营谋，其结果也是如此。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "积善祈求庇佑保平安"], ["投资理财", "有难度"],
+      ["经商买卖", "有阻碍"], ["工农商业", "有亏损"], ["工作事业", "不宜激进谋求功名"], ["学业考试", "成绩不甚理想，宜多培福"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "有危险"], ["出门在外", "到达的时间会延迟"], ["畜养动物", "有损失"],
+      ["寻人", "找到"], ["寻失物", "无法找到"], ["官司诉讼", "宜和解"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜保持原状"],
+      ["治病健康", "难以痊愈"], ["祖坟牌位", "和合大吉"]
+    ],
+    "summary": "此卦水结成冰之象。所祈求之事没必要枉费精力去求取。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The winter’s cold freezes the water to ice.", "Why hanker after fame and glory?", "Best to remain and contemplate quietly,", "All will be clear when the leaves grow again."],
+    "interpretation": ["Cold water freezes to solid ice.  Ice melts into water.  The success of any plan or scheme is up to Heaven to decide."],
+    "meaning": ["Cold water turns into ice.  Do not attempt anything beyond your capability to have or do."],
+    "explain": "Just like being stuck in a difficult situation where freezing winter turns dripping water into ice, why bother to seek fame? Best to wait quietly for good luck to come, then the future will be bright and naturally clear.",
+    "divination": ["This is a neutral lot.", "Cold water freezes to ice and ice melts into water.  If you have a plan, the result will be as so."],
+    "items": [
+      ["Household", "Restless"], ["Self", "Accumulate merits, pray for protection & blessings"],
+      ["Investment and financial management", "Challenging"], ["Business", "Obstruction"],
+      ["Agriculture and commerce", "Loss"], ["Career", "Not suitable to seek fame aggressively"], ["Academic and examination", "Accumulate more merits thru’ blessings if your results are not satisfactory"],
+      ["Marriage", "Not suitable"], ["Birth", "Precarious"], ["Traveller", "Late on arriving"], ["Husbandry", "Loss"],
+      ["Missing person", "Will be found"], ["Missing things", "Cannot be found"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Maintain status quo"], ["Change", "Remain as present"],
+      ["Sickness", "Difficult to recover"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. Question mark after 功名 in zh explain read as full-width ？."
+}

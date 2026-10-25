@@ -1,0 +1,37 @@
+{
+  "n": 97,
+  "zh": {
+    "grade": "中签",
+    "poem": ["当风点烛空疏影", "恍惚铺成镜里花", "几度儿童来收拾", "岂知收拾总成空"],
+    "jieyue": ["富贵在天", "贫穷是命", "不用求谋", "皆是前定"],
+    "shiyi": ["此卦当风点烛之象。", "凡事虚名不利也。"],
+    "explain": "对着风点蜡烛当然点不燃，即使点燃了，烛光疏影，如同镜中的恍惚之花。儿童看了几度要来收拾，但这一切只是收获虚名幻影而已。",
+    "divination": ["此签为中签。", "富贵由天注定，贫穷为命中带来，不需要尽心费力地去追求谋划，", "一切都是前世已经确定了的。"],
+    "items": [
+      ["家宅情况", "宜积善祈福庇佑"], ["自身情况", "谨慎小心"], ["投资理财", "得到利益"],
+      ["经商买卖", "谨慎小心"], ["工农商业", "谋事宜谨慎"], ["工作事业", "谨慎，不宜冒进"], ["学业考试", "加倍用功"],
+      ["爱情婚姻", "一般"], ["怀孕生育", "有惊吓"], ["出门在外", "毫无音信"], ["畜养动物", "有损失"],
+      ["寻人", "没有踪影"], ["寻失物", "凶多吉少，多半找不回"], ["官司情况", "会亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "不变为上"],
+      ["疾病情况", "极力忏悔消业障"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦当风点烛之象。所祈求之事如果是为了贪图虚名，则不吉利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Fleeting shadows cast by a candle in the wind,", "Reflect in the mirror like a bed of many flowers.", "Mystified, the child wants to keep the flowers,", "Only to find that these are only virtual and unreal."],
+    "interpretation": ["It is predestined how wealth is distributed and Who will be poor.", "Since it’s already decided, it is pointless to seek anything."],
+    "meaning": ["As a lighted candle flickers in the wind, it is not good to aim for an empty title."],
+    "explain": "It is not possible to light a candle in the wind. Even if one manages to do so, the candle flame will only cast fleeting shadows, like vague reflections of flowers in a mirror. Children would look at it several times and want to pick it up, but this is all an illusion.",
+    "divination": ["This is a neutral lot.", "Wealth is predestined by Heaven. Poverty is brought about by one's fate. There is no need to waste your effort in pursuing and scheming. Everything has been determined by your past lives."],
+    "items": [
+      ["Household", "Accumulate merits, pray for protection & blessings."], ["Self", "Take precautions"],
+      ["Investment and financial management", "Has gains"], ["Business", "Be prudent"],
+      ["Agriculture and commerce", "Be cautious in planning"], ["Career", "Be cautious, don't take risks"], ["Academic and examination", "Double your efforts"],
+      ["Marriage", "Average"], ["Birth", "There is a scare"], ["Traveller", "No news"], ["Husbandry", "Damage"],
+      ["Missing person", "No sign of"], ["Missing things", "Ominous, likely lost"], ["Lawsuit", "Loss"], ["Change", "Migrating and moving house:  Maintain status quo"],
+      ["Sickness", "Do sincere repentance to clear obstacles"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "EN items: image prints one merged line 'Change:  Migrating and moving house:  Maintain status quo' (Change has no value of its own); kept literally as a single Change pair, so EN has 17 items vs zh 18 (zh 转换变更 = 不变为上). EN 'Missing person: No sign of' is truncated in the image. zh keys 官司情况, 疾病情况. zh divination: second line ends with a comma and the image breaks the line there; kept as a separate array element. EN interpretation capitalises 'Who' mid-sentence as printed."
+}

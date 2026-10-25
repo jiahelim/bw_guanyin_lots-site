@@ -1,0 +1,28 @@
+{
+  "n": 90,
+  "zh": {
+    "grade": "上签",
+    "poem": ["忽言一信向天飞", "泰山宝贝满船归", "若问路途成好事", "前头仍有贵人推"],
+    "jieyue": ["若问功名", "前有贵人", "更添喜气", "财禄丰盈"],
+    "shiyi": ["此卦功名成就之象，", "凡事宜进大吉也。"],
+    "explain": "忽然一道好消息普天飞传，却是满载财宝衣锦还乡。如果要问未来还能有多大成就，前进途中还会遇到贵人提携。",
+    "divination": ["此签为上签。", "如果询问前程功名，还会遇到贵人相助，将更添欢欣之事，以至于财禄丰盈，富贵绵长。"],
+    "items": [
+      ["", "此签所昭示的是诸事吉祥，所求的事也必定十分顺利。"]
+    ],
+    "summary": "此卦功名成就之象。所祈求之事可以放心大胆地去做，一切都会大吉大利。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["A message sent suddenly from the heavens,", "And ships return with treasures piled high as mountains.", "If you seek to know what good things lie at the fore,", "Then be told that help from someone will push you forth."],
+    "interpretation": ["If you are seeking fame and fortune, go ahead where you will find help.", "The situation is made more joyous as wealth and treasures abound everywhere."],
+    "meaning": ["You will have both achievements and fame.", "You should continue to go forward and do not hesitate."],
+    "explain": "A sudden good news from the heavens, it is a home- coming full of treasures. If you want to ask how much you can achieve in the future, you will meet noble people to help you along the way.",
+    "divination": ["This is an auspicious lot.", "If you ask about your future prospects of fame and fortune, you will meet benefactors who will come to your aid, have even more joyful events, wealth and prosperity."],
+    "items": [
+      ["", "This Lot indicates that everything will be good and auspicious. Whatever you wish for will be realised."]
+    ],
+    "summary": null
+  },
+  "notes": "事项 / Celestial Message on both pages is a single free-text sentence, not key/value pairs; stored as one pair with an empty key. EN explain keeps the image's 'home- coming' spacing."
+}

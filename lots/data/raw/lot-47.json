@@ -1,0 +1,37 @@
+{
+  "n": 47,
+  "zh": {
+    "grade": "上签",
+    "poem": ["锦上添花色愈鲜", "运来禄马喜双全", "时人莫恨功名晚", "一举登科四海传"],
+    "jieyue": ["守旧变新", "运至功成", "遂平生志", "尽皆是命"],
+    "shiyi": ["此卦锦上添花之象。", "凡事大吉大利也。"],
+    "explain": "能锦上添花则色彩会更加鲜艳，好运一来也自然会喜得俸禄骏马双全。不要抱怨功名来的太晚了.不管何时，只要一登高位就会四海扬名。",
+    "divination": ["此签为上签。", "坚守于现有的成就基础上，而开拓创新；等待好运的到来，可获得更大的成功，使得平生的志向得以实现，这一切其实也都是命中注定。"],
+    "items": [
+      ["家宅情况", "积善祈求庇佑（吉利）"], ["自身情况", "平安"], ["投资理财", "吉利"],
+      ["经商买卖", "有阻碍，勿退怯"], ["工农商业", "有八成的业绩"], ["工作事业", "朝理想迈进，会成功"], ["学业考试", "业精于勤"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "生男"], ["出门在外", "到达的时间会延迟"], ["畜养动物", "一般"],
+      ["寻人", "会自己出现眼前"], ["寻失物", "在西北方"], ["官司诉讼", "宜和解"], ["迁徙搬家", "吉利"], ["转换变更", "适宜改变"],
+      ["治病健康", "积善祈福保平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦锦上添花之象。所祈求之事皆非常吉利。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["As flowers woven in to liven a silk brocade,", "Luck arrives to bring you both rank and fortune.", "Honor and fame can never be late in coming.", "Topping an imperial exam to spread your name across the four seas."],
+    "interpretation": ["As you wait for the old to transit to the new, your time to succeed will come.  This is your life’s ambition and destiny."],
+    "meaning": ["Adding flowers to a silk brocade is to make what is already very good even better.  Everything will be extremely auspicious and favorable."],
+    "explain": "To have embroidery weaved into a brocade will make it more vivid and brilliant.  When good luck comes, you will naturally be happy to have both rank and fortune.  Do not complain that honour and fame come too late.  Once you reach a high position, your reputation will spread far and wide.",
+    "divination": ["This is an auspicious lot.", "If you add more innovations to your existing achievements, greater success will be achieved when good luck comes.  Your life’s ambitions will be realized. All these are in fact predestined."],
+    "items": [
+      ["Household", "Accumulate merits, pray for protection & blessings (Propitious)"], ["Self", "Safe"],
+      ["Investment and financial management", "Propitious"], ["Business", "Obstacles but don’t give up"],
+      ["Agriculture and commerce", "80% results"], ["Career", "Work hard towards your ambition will succeed"], ["Academic and examination", "Be diligent and you will see results."],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "Will arrive late at destination"], ["Husbandry", "Average"],
+      ["Missing person", "Will appear on their own"], ["Missing things", "North-west"], ["Lawsuit", "Should settle"], ["Migrating and moving house", "Propitious"], ["Change", "Suitable to change"],
+      ["Sickness", "Accumulate merits and pray for blessings"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' on both pages. zh explain contains a half-width period after 太晚了 ('太晚了.不管何时') as printed. Double spaces after periods in en kept as printed."
+}

@@ -1,0 +1,38 @@
+{
+  "n": 8,
+  "zh": {
+    "grade": "上签",
+    "poem": ["茂林松柏正兴旺", "雨雪风霜总莫为", "异日忽然成大用", "功名成就栋梁材"],
+    "jieyue": ["路上亨通", "终身有功", "田蚕丰熟", "家道兴隆"],
+    "shiyi": ["此卦松柏茂林之象。", "凡事有贵气也。"],
+    "explain": "如同茂盛树林中的苍翠松柏，正处于兴旺时期，即使风霜雨雪也毫无危厄。将来如果被人委用，不仅会功成名就，而且定然成为栋梁之材。",
+    "divination": ["此签为上签。", "人生之路通达顺利，万事最终都能获得成功。", "所播种的一切，都会成熟丰收，家境富裕，事业也必定兴旺。"],
+    "items": [
+      ["家宅情况", "吉利"], ["自身情况", "顺利"], ["投资理财", "中等、平常"],
+      ["经商买卖", "兴旺"], ["工农商业", "顺利"], ["工作事业", "顺心"], ["学业考试", "有成果"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "男孩"], ["出门在外", "会有音信传来"], ["畜养动物", "有损失"],
+      ["寻人", "会自己出现"], ["寻失物", "找到"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"],
+      ["转换变更", "不宜"], ["治病健康", "平安无碍"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦松柏茂林之象。所祈求之事有富贵之气息。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Pines and cypresses thrive and flourish,", "No rain, snow, wind or frost can make them perish.", "Someday when one proves his mettle,", "A bulwark of society would be his mantle."],
+    "interpretation": ["A safe and easy journey.  Success in your whole life.", "Crops will grow in abundance.", "Your family will grow in prestige and wealth."],
+    "meaning": ["Cypresses and pine trees are growing in abundance.", "There is an air of nobility in everything."],
+    "explain": "Just like the lush cypress and pine trees in a flourishing forest, you are at your prime, even inclement weather like wind, frost, rain,& snow can do nothing to you. Should you get entrusted and engaged by someone in the future, you will not only be famous, but also a great pillar,  and a bulwark of society.",
+    "divination": ["This is an auspicious lot.", "Your life will be smooth sailing, your endeavors will be successful. All that you sow will bear a bountiful harvest, your family will be wealthy and your business will prosper."],
+    "items": [
+      ["Household", "Auspicious"], ["Self", "Smooth-sailing"],
+      ["Investment and financial management", "Average"], ["Business", "Prosperous"],
+      ["Agriculture and commerce", "Smooth"], ["Career", "Everything goes well"],
+      ["Academic and examination", "Success in study"], ["Marriage", "Successful"], ["Birth", "Boy"],
+      ["Traveller", "There will be news"], ["Husbandry", "Some loss"], ["Missing person", "Will appear on own"],
+      ["Missing things", "Will be found"], ["Lawsuit", "Reasonable settlement"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Not recommended"], ["Sickness", "Safe"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en.explain printed 'rain,& snow' (no space) and 'pillar,  and' (double space); kept as printed. en.interpretation printed on 3 deliberate lines, split accordingly. Double spaces after colons in en items trimmed."
+}

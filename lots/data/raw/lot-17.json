@@ -1,0 +1,39 @@
+{
+  "n": 17,
+  "zh": {
+    "grade": "中签",
+    "poem": ["莫听闲言说是非", "晨昏只好念弥陀", "若将狂话为真实", "画饼如何止得饥"],
+    "jieyue": ["心中不定", "枉看经文", "恰似画饼", "食也难吞"],
+    "shiyi": ["此封画饼充饥之象。", "诸事多虚少实也。"],
+    "explain": "不要相信闲言，也不要说他人的是非，多用时间礼佛敬神。如果把虚言也当成了真话，其结果必定如画饼充饥空欢喜。",
+    "divination": ["此签为中签。", "如果自己心神不定，即便想要研读经文，却心不在焉、视而不见，岂非枉费心神。恰如在纸张上画的饼，即使吃进嘴里，也难以吞下。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "顺利"], ["投资理财", "顺利"],
+      ["经商买卖", "不要急于求成"], ["工农商业", "宜趁早筹划"], ["工作事业", "提防闲言是非"], ["学业考试", "宜收拾心情学习"],
+      ["爱情婚姻", "进展不顺畅"], ["怀孕生育", "平安"], ["出门在外", "到达的时间会延迟"], ["畜养动物", "不利"],
+      ["寻人", "找到"], ["寻失物", "找不回"], ["官司诉讼", "宜和解"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "不变"], ["治病健康", "应当要还愿答谢"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此封画饼充饥之象。所祈求之事虚假的成分多，真实的成分少。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Pay no heed to gossip and spread no scandals.", "Chant the Buddhist prayers day and night.", "If you believe the lies and fallacies,", "You are drawing cakes to fill your hunger."],
+    "interpretation": ["Prayers are wasted on a distracted and discontented heart.", "Like cakes in a painting, you cannot consume them to satisfy your hunger."],
+    "meaning": ["This is from a Chinese proverb where a man tries to satisfy his hunger by drawing a cake.", "The hunger is real but the food is not."],
+    "explain": "Turn a deaf ear to gossip and do not gossip about others. Spend more time praying to Buddha & Bodhisattvas. If you take untrue words as truths, and believe in falsehoods, it would be like drawing a cake to relieve your hunger. Your joy will be in vain.",
+    "divination": ["This is a neutral lot.", "Prayers are wasted on a distracted, discontented heart. This will be like drawing cakes on paper, you cannot consume them to satisfy your hunger."],
+    "items": [
+      ["Household", "Accumulate merits and pray for blessings"], ["Self", "Smooth"],
+      ["Investment and financial management", "Smooth"], ["Business", "Don't rush for success"],
+      ["Agriculture and commerce", "Plan early"], ["Career", "Be careful of gossips"],
+      ["Academic and examination", "Better to concentrate on learning"], ["Marriage", "Progress is not smooth"],
+      ["Birth", "Safe"], ["Traveller", "Arrived at destination be delayed"], ["Husbandry", "Not smooth"],
+      ["Missing person", "Found"], ["Missing things", "Not found"], ["Lawsuit", "Should settle"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Don’t change"],
+      ["Sickness", "Repay wish by doing good"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 诗意 and 签语 both print 此封 (likely typo for 此卦) - preserved. en Business uses straight apostrophe (Don't), Change uses curly (Don’t), as printed. en double spaces after periods normalized. Extra 迁徙搬家 / Migrating row present."
+}

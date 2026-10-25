@@ -1,0 +1,37 @@
+{
+  "n": 13,
+  "zh": {
+    "grade": "中签",
+    "poem": ["自小生在富贵家", "眼前万物总奢华", "蒙君赐紫金腰带", "四海声名定可夸"],
+    "jieyue": ["囚人逢赦", "病即安然", "龙门得遇", "名遍皇都"],
+    "shiyi": ["此卦龙门得遇之象。", "凡事有变大吉也。"],
+    "explain": "从小生长在富贵人家，至今过着奢侈的生活。一旦得到君王的赏识，定能名扬四海，人人夸赞。",
+    "divination": ["此签为中签。", "若是犯罪入狱者必遇大赦，得了病的也必定无大碍，在升迁的路上也会大功告成，并因此名声广播，众人羡慕。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "应积善祈福"], ["投资理财", "下半年吉利"],
+      ["经商买卖", "宜推迟"], ["工农商业", "中等"], ["工作事业", "宜积极努力"], ["学业考试", "宜精勤用功"],
+      ["爱情婚姻", "双方匹配"], ["怀孕生育", "女孩"], ["出门在外", "祈求庇佑保平安"], ["畜养动物", "一般"],
+      ["寻人", "找见"], ["寻失物", "在东方"], ["官司诉讼", "有理"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "不变"], ["治病健康", "平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦龙门得遇之象。所祈求之事如有变化则会非常吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["You were born to a wealthy family,", "Into a life of riches and prestige.", "Once the King grants you a golden mantle,", "Across the seven seas, your fame will rattle."],
+    "interpretation": ["Prisoners will be pardoned. The sick will be cured.", "Once at the Dragon gate, your fame will spread."],
+    "meaning": ["You have earned the passage to pass through the Dragon Gate, so events will turn out well."],
+    "explain": "Being born to a wealthy family, you have lived a luxurious life since young. Once the King bestowed you a gift, it will made you world famous, and be praised by everyone.",
+    "divination": ["This is a neutral lot.", "Prisoners will be pardoned and the sick will be cured. You will also be successful on your way to promotion and because of this, your reputation will spread far and wide, with many envying you."],
+    "items": [
+      ["Household", "Accumulate merits and pray for blessings"], ["Self", "Accumulate merits and pray for blessings"],
+      ["Investment and financial management", "Auspicious in 2nd half of year"], ["Business", "Should delay"],
+      ["Agriculture and commerce", "Average"], ["Career", "Should work hard"], ["Academic and examination", "Should work harder"],
+      ["Marriage", "Suitable"], ["Birth", "Girl"], ["Traveller", "Pray for protection"], ["Husbandry", "Average"],
+      ["Missing person", "Will be found"], ["Missing things", "East"], ["Lawsuit", "Reasonable settlement"],
+      ["Migrating and moving house", "Stay put"], ["Change", "Should not change"], ["Sickness", "Safe"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items have an extra 迁徙搬家 row (18 vs 17 in lot 1) and use 畜养动物 where lot 1 has 家养动物; en has matching 'Migrating and moving house' row and 'Traveller' label. en explain typo 'it will made' preserved."
+}

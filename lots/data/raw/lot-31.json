@@ -1,0 +1,39 @@
+{
+  "n": 31,
+  "zh": {
+    "grade": "中签",
+    "poem": ["清闲无忧静处坐", "饥时吃饭困时卧", "放下身心不用忙", "必定不招冤与祸"],
+    "jieyue": ["守旧安然", "叩问神仙", "直待时来", "事亦偶然"],
+    "shiyi": ["此卦守旧安然之象。", "凡事待时则吉也。"],
+    "explain": "清静无为，纯任自然，饭后喝茶困倦就睡。闲下身心不用忙忙碌碌，就一定不会招来冤屈祸患。",
+    "divination": ["此签为中签。", "保持现状，多敬神礼佛，必定怡然平安。", "即使时运到来，生活状态发生变化，那也是偶然的。"],
+    "items": [
+      ["家宅情况", "积善祈求庇佑保平安"], ["自身情况", "平安"], ["投资理财", "坚守现状，等待时机"],
+      ["经商买卖", "适宜推延"], ["工农商业", "年中以后会有收获"], ["工作事业", "保持现状，等待时机"], ["学业考试", "多生恭敬心会吉祥"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "女孩"], ["出门在外", "已到达目的地"], ["畜养动物", "安稳"],
+      ["寻人", "难找到"], ["寻失物", "并未丢失"], ["官司诉讼", "会和解"], ["迁徙搬家", "吉利"], ["转换变更", "维持现状"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦守旧安然之象。所祈求之事应等待时机的来临，则吉祥顺利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["An idle life of ease and quiet,", "Drinks tea after a hearty meal, rests when one is weary.", "Laid your burdens to rest, live life with no hurry,", "No grief or disaster will ever come along."],
+    "interpretation": ["Stay calm and let things remain.  The celestial advice for your question is to wait for the time to come when things will eventually fall in place."],
+    "meaning": ["Take it easy and let things remain.", "Everything will turn out well in time to come."],
+    "explain": "Have an idle life of peace and nature, enjoy a cup of tea after a meal and rest when tired. Relax yourself with no need to lead a busy life, and you will not encounter misfortunes and disasters.",
+    "divination": ["This is a neutral lot.", "Maintain the current status, make more offerings to the Buddha, and you will be safe and sound. When the time comes, things will fall in naturally."],
+    "items": [
+      ["Household", "Accumulate merits and pray for blessings"], ["Self", "Safe"],
+      ["Investment and financial management", "Maintain current situation & wait for right time"], ["Business", "Should postpone"],
+      ["Agriculture and commerce", "After mid-year, there'll be gains."], ["Career", "Keep status quo & wait"],
+      ["Academic and examination", "Auspicious to be respectful"],
+      ["Marriage", "Suitable"], ["Birth", "Girl"], ["Traveller", "Arrived"], ["Husbandry", "Safe & stable"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Not lost"], ["Lawsuit", "Amiable"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Stay same"],
+      ["Sickness", "Do vast offering and dedications"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh.explain begins its second sentence with 闲下身心 (poem has 放下身心), copied as printed."
+}

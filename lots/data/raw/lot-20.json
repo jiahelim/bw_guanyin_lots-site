@@ -1,0 +1,39 @@
+{
+  "n": 20,
+  "zh": {
+    "grade": "中签",
+    "poem": ["当春久雨喜开晴", "玉兔金乌渐渐明", "旧事消散新事遂", "看看一跳过龙门"],
+    "jieyue": ["神佛护持", "有灾无危", "途生平安", "到底荣归"],
+    "shiyi": ["此卦久雨初明之象。", "凡事遂意也。"],
+    "explain": "正当春天，绵绵细雨终于停了，天空突然放晴，太阳与月亮开始变得明朗。过去的事情过去了，新开始的事都很顺，万象更新，如同鱼跳过了龙门。",
+    "divination": ["此签为中签。", "有神灵、菩萨的保佑护持，即使有灾难发生，也没有实质性的危险。", "一生平安，最后能获得荣华富贵。"],
+    "items": [
+      ["家宅情况", "一般"], ["自身情况", "应积善祈福"], ["投资理财", "机缘未遇"],
+      ["经商买卖", "等待时机"], ["工农商业", "集多福等待时机"], ["工作事业", "时来运转，苦尽甘来"], ["学业考试", "培福修慧利考试"],
+      ["爱情婚姻", "如愿"], ["怀孕生育", "女孩"], ["出门在外", "路途受阻"], ["畜养动物", "不顺畅"],
+      ["寻人", "过些日子能找到"], ["寻失物", "找到"], ["官司诉讼", "和解"], ["迁徙搬家", "吉利"],
+      ["转换变更", "吉祥"], ["治病健康", "宜作大祈福回向平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦久雨初明之象。所祈求之事能顺心如愿。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["As the Spring weather clears after a wet spell,", "The Golden Crow and Jade Rabbit can now be seen.", "As the old dissipates, the new arrives,", "One jump is all it needs to clear the Dragon Gate."],
+    "interpretation": ["Protected by celestial beings, disasters may come but there will be no danger.", "Your whole life, you will be safe and sound, and enjoy honors and glory at the end."],
+    "meaning": ["The image of clear weather after continuous rain, signifies that everything will be in your favor."],
+    "explain": "With the arrival of spring, the continuous drizzle finally stops. The sky suddenly lightens. The sun and the moon begin to become brighter. What is past has passed. The future as a new beginning is smooth sailing. All things take on a new aspect, like a fish that leaps over the dragon gate.",
+    "divination": ["This is a neutral lot.", "Deities and bodhisattvas give their protection and support. Thus, even if disasters happen, there is no apparent danger. One will be safe and sound throughout one’s life. Ultimately, one will acquire status and wealth."],
+    "items": [
+      ["Household", "Average"], ["Self", "Accumulate merits and pray for blessings"],
+      ["Investment and financial management", "Opportunity not met"], ["Business", "Wait"],
+      ["Agriculture and commerce", "Accumulate merits and wait"], ["Career", "The time has come, hard times are over"],
+      ["Academic and examination", "Cultivate merits & wisdom to help in exams"],
+      ["Marriage", "As wished"], ["Birth", "Girl"], ["Traveller", "Obstruction"], ["Husbandry", "Not smooth"],
+      ["Missing person", "will find days later"], ["Missing things", "Wil be found"], ["Lawsuit", "Amicable settlement"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Auspicious"],
+      ["Sickness", "Do vast offerings and dedications"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 解曰 third half-line printed 途生平安 (as printed; 签解 paraphrase says 一生平安). zh divination printed as three deliberate lines. en typos preserved: 'Wil be found', lowercase 'will find days later'. en double spaces after periods normalized. Extra 迁徙搬家 / Migrating row present."
+}

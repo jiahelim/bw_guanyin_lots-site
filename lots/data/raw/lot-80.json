@@ -1,0 +1,37 @@
+{
+  "n": 80,
+  "zh": {
+    "grade": "上签",
+    "poem": ["直上仙岩要学仙", "此知一旦帝王宣", "青天日月常明照", "心正声名四海传"],
+    "jieyue": ["有始有终", "莫向西东", "心中用事", "贵人重重"],
+    "shiyi": ["此卦贵人接引之象，", "凡事和合大吉也。"],
+    "explain": "正要遗世隐居学神仙，不料得到重用。就像日月当空光照天下，心地正直也必定能声名遍天下。",
+    "divination": ["此签为上签。", "做事要有始有终，不要左右摇摆。", "心中筹划的事情，必定会得到众多贵人相助。"],
+    "items": [
+      ["家宅情况", "平安"], ["自身情况", "吉利"], ["投资理财", "有获利"],
+      ["经商买卖", "合心遂意"], ["工农商业", "有好收成"], ["工作事业", "顺利"], ["学业考试", "有好成绩"],
+      ["爱情婚姻", "双方相配"], ["怀孕生育", "男孩"], ["出门在外", "返回"], ["畜养动物", "兴盛"],
+      ["寻人", "见到"], ["寻失物", "在南方"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "吉利"], ["转换变更", "吉利"],
+      ["治病健康", "平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦贵人接引之象。所祈求之事若能合情合理、和合处理则大吉大利。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["On the way to the mountains to learn celestial ways,", "Yet the King stops and summons you.", "In clear skies, the Sun and the Moon beam on you,", "Your righteous heart and name spread across the four seas."],
+    "interpretation": ["Always complete what you have started, do not be distracted.", "No matter what burdens your mind, others will step up to assist you."],
+    "meaning": ["Someone of power and prestige will show you the way.", "Everything will be in harmony and auspicious."],
+    "explain": "Just when you are thinking of going to the mountains to learn the celestial ways, unexpectedly you get an important job.  Just like the light of the sun and moon shining on the world, an honest, righteous heart will surely be famous all over the world.",
+    "divination": ["This is an auspicious lot.", "Always complete what you have started, do not be swayed or distracted.", "Whatever you plan, there will be many noble people to assist you."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious and favorable"],
+      ["Investment and financial management", "There are profits"], ["Business", "To one’s liking"],
+      ["Agriculture and commerce", "There will be a good harvest"], ["Career", "Everything goes well."], ["Academic and examination", "Excellent grades"],
+      ["Marriage", "Mutual match"], ["Birth", "Boy"], ["Traveller", "Will return"], ["Husbandry", "Victorious"],
+      ["Missing person", "Will meet"], ["Missing things", "South"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Propitious"], ["Sickness", "Safe"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' on both pages. zh key printed 畜养动物. en key 'Traveller'. en Husbandry printed 'Victorious' (zh says 兴盛), copied as printed. Poem line 2 printed 此知 (not 岂知), copied as printed."
+}

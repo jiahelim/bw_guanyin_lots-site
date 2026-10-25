@@ -1,0 +1,38 @@
+{
+  "n": 6,
+  "zh": {
+    "grade": "中签",
+    "poem": ["投身岩下雕鸟居", "须是还他大丈夫", "拾得营谋谁可得", "通行天地此人无"],
+    "jieyue": ["食用无余", "身清喜贫", "待时利乐", "权与概人"],
+    "shiyi": ["此卦投岩铜鸟之象。", "凡事宜顺吉之兆。"],
+    "explain": "得此签者，如栖身居下的大雕一样，虽身处险境，却不失大丈夫的心胸与气概，所以你所获得的富贵荣禄，别人难以得到。最终你通行天地的能力也无人能比。",
+    "divination": ["此签为中签。", "吃的用的少有富余，却自身清正，安贫乐道。", "待到时机来临，获得的好处与快乐，也应衡量着帮助他人。"],
+    "items": [
+      ["家宅情况", "不太吉利"], ["自身情况", "一般"], ["投资理财", "一般"],
+      ["经商买卖", "有难度"], ["工农商业", "掌握时机，尽早规划"], ["工作事业", "厚植实力"], ["学业考试", "勤能补拙"],
+      ["爱情婚姻", "一般"], ["怀孕生育", "平安"], ["出门在外", "就快抵达"], ["畜养动物", "有损失"],
+      ["寻人", "见到"], ["寻失物", "见到"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"],
+      ["转换变更", "见机行事"], ["治病健康", "宜作大祈福回向"], ["祖坟牌位", "平安"]
+    ],
+    "summary": "此卦投岩铜鸟之象。所祈求之事宜顺应天时，则有吉祥之征兆。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Sacrifice yourself to dwell in a Condor’s cave,", "Perilous it may be but the stout heart that you are,", "Reap rewards that none can match,", "And none will roam the world as free as you."],
+    "interpretation": ["Food will be ample though there is little excess.  Life is poor and simple but contented.  Be patient and enjoy what you have, share your wealth and power with others."],
+    "meaning": ["Residing in a cave with a large condor.  Live life in accordance with your lot and fortune will follow."],
+    "explain": "Receiver of this lot is like a condor seeking shelter. Despite being in a perilous place, you did not lose the stout heart and spirit of a true man. Therefore, the riches, glory and fortune that you achieve is something no one else can do. It means your ability to traverse heaven and earth is also unmatchable by others.",
+    "divination": ["This is a neutral lot.", "Your resources may be scarce, but you lead a contented and upright life.", "When opportunity strikes you gain benefits and happiness, which you should also share with and help others."],
+    "items": [
+      ["Household", "Not favourable"], ["Self", "Average"],
+      ["Investment and financial management", "Average"], ["Business", "Challenging"],
+      ["Agriculture and commerce", "Seize the moment, Plan early"], ["Career", "Build up your own strength"],
+      ["Academic and examination", "Diligence needed"], ["Marriage", "Average"], ["Birth", "Safe"],
+      ["Traveller", "Reaching soon"], ["Husbandry", "Have damage"], ["Missing person", "Will find"],
+      ["Missing things", "Will be found"], ["Lawsuit", "Reasonable settlement"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Play by the ear"], ["Sickness", "Do vast offerings & dedications to get well"], ["Ancestral grave", "Safe"]
+    ],
+    "summary": null
+  },
+  "notes": "zh.shiyi and zh.summary print 投岩铜鸟 (铜 'copper') while the poem/explain say 雕 (condor); likely a typo for 雕鸟, copied as printed. Double spaces after colons in en items trimmed; double spaces after periods in en.interpretation/meaning kept as printed."
+}

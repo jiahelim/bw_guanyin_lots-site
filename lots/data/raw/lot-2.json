@@ -1,0 +1,38 @@
+{
+  "n": 2,
+  "zh": {
+    "grade": "下签",
+    "poem": ["鲤鱼未变守江河", "不可升腾更望高", "异日峥嵘身变化", "许君一跃跳龙门"],
+    "jieyue": ["得忍且忍", "得耐且耐", "须待时至", "功名还在"],
+    "shiyi": ["此卦鲤鱼未变之象。", "凡事忍耐待时也。"],
+    "explain": "正如鲤鱼还没变化为龙的时候，应安守在江河中等待时机；不可以奢望得到举荐，也不可奢望让上层了解而迅速升迁。需经历许多不平凡的时日，百倍的磨砺才能功成运转，一跃过龙门。",
+    "divination": ["此签为下签。", "在目前情势下，应百般忍耐，以等待合适的时机。", "要相信该你获得的永远都不会失去。"],
+    "items": [
+      ["家宅情况", "不平安，宜多造善修福"], ["自身情况", "应还愿答谢"], ["投资理财", "获利不多"],
+      ["工农商业", "吉利"], ["工作事业", "不宜烦躁冒进"], ["学业考试", "勤能补拙，继续努力"],
+      ["爱情婚姻", "有挑战"], ["怀孕生育", "应积善祈福"], ["出门在外", "平安"], ["家养动物", "不好，为之祈福"],
+      ["寻人", "见到"], ["寻失物", "在东南方向"], ["官司诉讼", "和解"], ["迁徙搬家", "会搬离"],
+      ["转换变更", "没有好处"], ["治病健康", "积善祈福保平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦鲤鱼未变之象。所祈求之事宜忍耐，等待时机的到来。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["In the waters, the Koi fish quietly grows,", "Not daring to aim high nor jump wide.", "Comes a day when it transforms and towers.", "The dragon’s gate will it leap over."],
+    "interpretation": ["You must put up with everything.  Be patient.  Wait for the right moment where you may build on your honor and reputation."],
+    "meaning": ["A Koi fish waiting patiently and unhurriedly as it completes its transformation into a dragon.", "Similarly, everything has its time and place and one must wait for the right time."],
+    "explain": "The carp stays quiet in the river before it transforms into a dragon awaiting the right timing; don't hope to be recommended or noticed by your superiors and get promoted quickly. You need to put in a lot of effort and work hard over a significant period of time to turn your fortune around and leap over the dragon gate in one fell swoop.",
+    "divination": ["This is an inauspicious lot.", "Given the present situation, you must be patient till the right moment comes. Believe that you will never lose what you deserve to get."],
+    "items": [
+      ["Household", "Not safe, do more good deeds and cultivate blessings"], ["Self", "Repay a wish doing good"],
+      ["Investment and financial management", "Not much profit"], ["Agriculture and commerce", "Propitious"],
+      ["Career", "Don’t be irritable and adventurous"], ["Academic and examination", "Diligence can make up for one's weaknesses, keep working hard"],
+      ["Marriage", "Challenging"], ["Traveller", "Safe and sound"],
+      ["Husbandry", "Not favorable but can pray to send dedications to the animals."], ["Missing person", "Will be found"],
+      ["Missing things", "Southeast"], ["Lawsuit", "Amiable settlement"], ["Migrating & Moving house", "Will move"],
+      ["Change", "No benefits"], ["Sickness", "Do good & Pray for protection"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items: no 经商买卖 row; has 迁徙搬家 (not in lot 1). en items: 16 rows, no Business and no Birth row (zh has 怀孕生育); uses 'Traveller'. Double spaces after periods in en.interpretation kept as printed."
+}

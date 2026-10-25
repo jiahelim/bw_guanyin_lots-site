@@ -1,0 +1,38 @@
+{
+  "n": 11,
+  "zh": {
+    "grade": "上签",
+    "poem": ["欲求胜事可非常", "争奈亲姻日暂忙", "到头竟必成鹿剑", "贵人指引贵人乡"],
+    "jieyue": ["有意兴变", "到底安然", "若问用事", "只近贵人"],
+    "shiyi": ["此卦因祸得福之象。", "凡事营谋吉利也。"],
+    "explain": "相求好事会非常好，只可惜一直为亲姻所忙碌。但最终仍会成为鹿卢剑一样的宝贵人才，更会遇到贵人指给富贵之路。",
+    "divination": ["此签为上签。", "心中总有意识地寻求变化，但最终仍可获得安然的结局。", "如要问怎么处理事情才会成功，唯有征询有识之士的意见。"],
+    "items": [
+      ["家宅情况", "非常吉祥"], ["自身情况", "顺利"], ["投资理财", "有收获"],
+      ["经商买卖", "成功"], ["工农商业", "一般"], ["工作事业", "得贵人指引而有所成"], ["学业考试", "有成"],
+      ["爱情婚姻", "双方投合"], ["怀孕生育", "男孩"], ["出门在外", "还没有到达目的地"], ["畜养动物", "一般"],
+      ["寻人", "见到"], ["寻失物", "在东方"], ["官司情况", "有理"], ["迁徙搬家", "搬迁后会更兴旺"],
+      ["转换变更", "吉祥"], ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦因祸得福之象。所祈求之事宜细心规划则会吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Eager and excited to pursue a victory,", "Yet made busy within the family.", "Eventually one will be like the imperial blade,", "As a savior will be found to lead the way."],
+    "interpretation": ["You have the desire for changes and all will be fine in the end.  If you need guidance, your distinguished patron and help is near."],
+    "meaning": ["What appears as misfortune turns out to be a blessing in disguise.", "Whatever you plan will be auspicious."],
+    "explain": "Pursuing good outcomes is very good, but it is a pity you are always busy with family matters. Eventually you will become a precious talent, even meeting a savior who points you the way to prosperity.",
+    "divination": ["This is an auspicious lot.", "There is always an intent to seek change. Yet it will turn out to be a safe ending. What can you do to succeed?  You only need to consult knowledgeable people for advice."],
+    "items": [
+      ["Household", "Very Propitious"], ["Self", "Smooth sailing"],
+      ["Investment and financial management", "Will reap gains"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Average"], ["Career", "Succeed eventually with guidance from patrons"],
+      ["Academic and examination", "Succeed"], ["Marriage", "Suitable"], ["Birth", "Boy"],
+      ["Traveller", "Have yet to reach destination"], ["Husbandry", "Average"], ["Missing person", "Found"],
+      ["Missing things", "East"], ["Lawsuit", "Reasonable"], ["Migrating and moving house", "More prosperous after relocation"],
+      ["Change", "Auspicious"], ["Sickness", "Pray for great blessings and do dedications"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh.poem line 3 prints 到头竟必成鹿剑 (confirmed by zoom; traditional texts read 成中箭, explain refers to 鹿卢剑). zh items key is 官司情况 (other lots use 官司诉讼). Double spaces after colons in en items trimmed; double spaces after periods/question mark kept."
+}

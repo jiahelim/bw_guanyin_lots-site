@@ -1,0 +1,38 @@
+{
+  "n": 3,
+  "zh": {
+    "grade": "下签",
+    "poem": ["临风冒雨去还乡", "正是其身似燕儿", "衔得泥来欲作垒", "到头垒坏复须泥"],
+    "jieyue": ["千般用计", "晨昏不停", "谁知此事", "到底劳心"],
+    "shiyi": ["此卦燕子衔泥之象。", "凡事劳心费力也。"],
+    "explain": "经历无数挫折，不辞辛苦，忙忙碌碌地奔波劳作，就像燕子顶风冒雨衔泥筑巢，但筑成的巢不断被毁坏，不得不反复衔泥重新筑巢。",
+    "divination": ["此签为下签。", "虽然心机用尽，从早到晚忙个不停，但结果仍不会有更多收获，只是白白地劳心费力罢了。"],
+    "items": [
+      ["家宅情况", "先凶后吉"], ["自身情况", "宜谨慎为上"], ["投资理财", "有收获"],
+      ["经商买卖", "成功"], ["工农商业", "能成，得费心思"], ["工作事业", "辛勤奔波"], ["学业考试", "须加倍用功"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "男孩"], ["出门在外", "吉祥"], ["畜养动物", "顺利"],
+      ["寻人", "见到"], ["寻失物", "找见"], ["官司诉讼", "有理"], ["迁徙搬家", "平安"],
+      ["转换变更", "吉祥"], ["治病健康", "应还愿答谢"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦燕子衔泥之象。所祈求之事虽劳心费力，却难有结果。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["A traveller returns, having braved the winds and rains.", "Laboring like a homing swallow,", "Which builds in vain a shelter of clay,", "That collapses and disappears whenever it rains."],
+    "interpretation": ["Even when one tries every way and means, slogs hard day and night, all efforts will eventually be in vain."],
+    "meaning": ["Like a swallow which tries to build a nest with clay to protect itself against the rains, everything is laborious"],
+    "explain": "One goes through countless setbacks, undeterred by hardships, rushing and busy working, just like a swallow who braves the wind and rain to build its nest with clay. However, the nest is constantly being damaged and the swallow has no choice but to repeatedly rebuild the nest.",
+    "divination": ["This is an inauspicious lot.", "Although you try every means working day and night, in the end, there are no additional gains and all efforts will turn out to be fruitless."],
+    "items": [
+      ["Household", "Bad times will pass, good times ahead"], ["Self", "Take precautions"],
+      ["Investment and financial management", "Gains available"], ["Business", "Can succeed"],
+      ["Agriculture and commerce", "Can succeed, takes effort"], ["Career", "Hard work"],
+      ["Academic and examination", "Need to work extra hard"], ["Marriage", "Not suitable"], ["Birth", "Boy"],
+      ["Traveller", "Propitious"], ["Husbandry", "Favorable"], ["Missing person", "Will be found"],
+      ["Missing things", "Found"], ["Lawsuit", "Reasonable settlement"], ["Migrating & Moving house", "Safe"],
+      ["Change", "Auspicious"], ["Sickness", "Repay wish doing good"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items use 畜养动物 (not 家养动物). en.meaning has no closing period in the image. 'Change:  Auspicious' has a double space after the colon in the image (trimmed)."
+}

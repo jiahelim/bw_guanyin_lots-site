@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <title>Goddess of Mercy Divine Lot</title>
+  <!-- Lots now live in the micro site under lots/; keep old links and the drawn number working -->
+  <script>
+    var number = parseInt(sessionStorage.getItem("number"), 10);
+    var target = number >= 1 && number <= 100 ? "lots/" + number + ".html" : "lots/index.html";
+    location.replace(target + location.search);
+  </script>
+</head>
+<body>
+  <a href="lots/index.html">观音灵签 · Divine Lots</a>
+</body>
+</html>

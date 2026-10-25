@@ -1,0 +1,38 @@
+{
+  "n": 61,
+  "zh": {
+    "grade": "中签",
+    "poem": ["日落吟诗月下歌", "逢场作戏笑呵呵", "相逢会遇难藏隐", "唱彩齐唱连理罗"],
+    "jieyue": ["佳人在屋", "吟唱诗曲", "一片欢心", "命中祸福"],
+    "shiyi": ["此卦守旧随时之象。", "凡事时吉利也。"],
+    "explain": "日落月生的空闲时吟诗唱歌，只图一时玩乐高兴。既然难以回避人群，不如大家一同喝彩，齐唱夫妻恩爱的民谣小调。",
+    "divination": ["此签为中签。", "有佳人在屋里吟诗唱曲，心情自然十分欢畅。", "这样的生活是福还是祸，也不必在意，因为一切都命中注定。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "吉祥"], ["投资理财", "顺畅"],
+      ["经商买卖", "顺利"], ["工农商业", "时机成熟"], ["工作事业", "守旧有成"], ["学业考试", "脱颖而出"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "女孩"], ["出门在外", "已到达目的地"], ["动物状况", "兴旺"],
+      ["寻人", "自己会出现"], ["寻失物", "有凶险"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"],
+      ["转换变更", "诸事皆吉"], ["治病健康", "即将痊愈"], ["祖坟牌位", "大吉大利"]
+    ],
+    "summary": "此卦守旧随时之象。所祈求之事遇到好时机就会顺利实现。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Recite poems in the days, sing songs at nights,", "Enjoy the fun and laughter in such gatherings.", "Such merry-making is rare and hard to hide,", "So sing to our hearts’ content as a cordial couple will like."],
+    "interpretation": ["A joyous scene where a beautiful woman entertains with songs and verses.", "One’s fortunes and misfortunes are preordained."],
+    "meaning": ["Let things stay status quo and wait for the right occasion.", "Things will be auspicious when the time is right."],
+    "explain": "When the night falls, recite poems and sing at leisure, just to seek an uproarious moment. When it is difficult to avoid others, it is better for everyone to applaud and sing together folk songs of the love of husband and wife.",
+    "divination": ["This is a neutral lot.", "When there are beautiful people at home singing poetry, the mood naturally  is very joyful. But there is no need to care whether such a life is a blessing or curse because all things are decreed by destiny."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Smooth"], ["Business", "Favorable"],
+      ["Agriculture and commerce", "Time is ripe"], ["Career", "Good to keep to the present"], ["Academic and examination", "Stand out"],
+      ["Marriage", "Successful"], ["Birth", "Girl"], ["Traveller", "Has arrived"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Appear on own"], ["Missing things", "Ominous"], ["Lawsuit", "Reasonable settlement"],
+      ["Migrating and moving house", "Auspicious"], ["Change", "All auspicious"],
+      ["Sickness", "Will make a full recovery soon"], ["Ancestral grave", "Very Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh animal key printed as 动物状况 (not 家养/畜养动物). Extra 迁徙搬家 / 'Migrating and moving house' row; en key 'Traveller'. zh shiyi '此卦守旧随时之象' identical to lot 59, as printed. en divination double space in 'naturally  is' and curly apostrophes kept as printed."
+}

@@ -1,0 +1,39 @@
+{
+  "n": 18,
+  "zh": {
+    "grade": "上签",
+    "poem": ["金乌西坠兔东升", "日夜循环至古今", "僧道得知无不利", "士农工商各从心"],
+    "jieyue": ["心中无事", "所作有功", "如弓上箭", "一发当空"],
+    "shiyi": ["此卦阴阳消长之象。", "凡事遂意之兆也。"],
+    "explain": "太阳西下，月亮东升，日夜循环、阴阳消长是从古到今的事。僧人道人知道了这一规律就能通天彻地，士农工商懂得这规律就能各随所愿。",
+    "divination": ["此签为上签。", "心中坦荡，不用多疑，认真做自己该做的事情。事情做好了功业自然会成，就像弦弓上的箭一样，一当射出自然会在空中前行。"],
+    "items": [
+      ["家宅情况", "平安"], ["自身情况", "吉祥"], ["投资理财", "顺利"],
+      ["经商买卖", "成功"], ["工农商业", "宜趁早筹划"], ["工作事业", "顺利"], ["学业考试", "有成效"],
+      ["爱情婚姻", "双方和合"], ["怀孕生育", "男孩"], ["出门在外", "已到达目的地"], ["畜养动物", "不太顺利"],
+      ["寻人", "自己回来"], ["寻失物", "过些时日能找到"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"],
+      ["转换变更", "吉祥"], ["治病健康", "应作大祈福回向"], ["祖坟牌位", "非常吉利"]
+    ],
+    "summary": "此卦阴阳消长之象。所祈求之事有顺心如意的征兆。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The Golden Crow sets as the Jade Rabbit rises,", "Days and nights cycle since the world begins.", "The Buddhist or Tao practitioners will gain much,", "So will the scholar, peasant, worker or merchant."],
+    "interpretation": ["Free your heart of cares. Your efforts will be rewarded.", "Like an arrow on a bow, it will be a clear shot on release."],
+    "meaning": ["The exchange of Yin and Yang symbolizes the natural order.", "Harmony will prevail as things take its natural cause."],
+    "explain": "The sun sets in the west and the moon rises from the east. The cycle of day & night, the ebb and flow of yin & yang are known facts since ancient times. When Monks & Taoists know this law, they can understand every phenomenon on earth. So scholars, peasants, worker and merchants who know this, will get what they wish for.",
+    "divination": ["This is an auspicious lot.", "Be magnanimous in your heart, there is no need to be overly suspicious, earnestly do the tasks you should do. Once these tasks have been completed, your work will naturally succeed. This is just like an arrow on a stretched bow string, once released, the arrow will naturally soar into the sky."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Smooth"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Better plan early"], ["Career", "Smooth"],
+      ["Academic and examination", "Productive"], ["Marriage", "Suitable"], ["Birth", "Boy"],
+      ["Traveller", "Has arrived"], ["Husbandry", "Not so favorable"], ["Missing person", "Return on his own"],
+      ["Missing things", "Will eventually be found"], ["Lawsuit", "Reasonable"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Auspicious"],
+      ["Sickness", "Should do vast offerings and dedications"], ["Ancestral grave", "Very Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en explain has a deliberate line break after the first sentence ('...from the east.'); joined into one string per schema. en 'take its natural cause' (sic) preserved. en double spaces after periods normalized. Extra 迁徙搬家 / Migrating row present."
+}

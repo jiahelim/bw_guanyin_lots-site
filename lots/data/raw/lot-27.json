@@ -1,0 +1,39 @@
+{
+  "n": 27,
+  "zh": {
+    "grade": "中签",
+    "poem": ["一谋一用一番机", "虑后思前不敢为", "时到贵人相助力", "如山壁立可安居"],
+    "jieyue": ["改旧成新", "寒花遇春", "从前阻滞", "今得称心"],
+    "shiyi": ["此卦屋好墙壁之象。", "凡事稳当无险也。"],
+    "explain": "所有的计划都流于文字，仍然瞻前顾后不敢施行。时机来时，得到贵人的帮助，方能立身坚固，平平安安。",
+    "divination": ["此签为中签。", "把旧日的东西换成崭新的，就会像寒冬里枯萎的花草遇到春风一样，会立即生机勃勃。虽然从前多有阻碍，不太顺利，但如今终于能够称心遂意了。"],
+    "items": [
+      ["家宅情况", "平安"], ["自身情况", "吉利"], ["投资理财", "有利益可得"],
+      ["经商买卖", "困难"], ["工农商业", "有收获"], ["工作事业", "改变方式，虽辛苦而有收获。"], ["学业考试", "有进步"],
+      ["爱情婚姻", "有阻碍"], ["怀孕生育", "女孩"], ["出门在外", "晚些时候到达目的地"], ["畜养动物", "顺利"],
+      ["寻人", "迟到达目的地"], ["寻失物", "没有踪影"], ["官司诉讼", "适宜和解"], ["迁徙搬家", "吉利"], ["转换变更", "吉利"],
+      ["治病健康", "需时间调养无大碍"], ["祖坟牌位", "守旧大吉"]
+    ],
+    "summary": "此卦屋好墙壁之象。所祈求之事稳妥而没有危险。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Every move is carefully planned,", "You consider much but fear to do much.", "Until such time when distinguished help arrive,", "Then a place steady as a rock you may find."],
+    "interpretation": ["Replace old with new.  Like the arrival of Spring when flowers bloom again, what was holding you back is now gone and things will go as you wish.."],
+    "meaning": ["A good house with strong walls, everything will be stable with minimum risk or danger."],
+    "explain": "All the plans are mere words, and still you are overly cautious, afraid to execute it. When opportunity comes, and with the help of a nobleman, you will be able to stand firm and enjoy peace.",
+    "divination": ["This is a neutral lot.", "Replace old things with brand new ones. It is like withered flowers and plants in winter that meet the  spring wind and they immediately become full of vitality. Even though there were lots of obstacles in the past and things were not going too smoothly,  but now things can finally be satisfactory to one's liking."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Gains available"], ["Business", "Difficult"],
+      ["Agriculture and commerce", "Have gains"], ["Career", "Changing to new, is difficult but rewarding."],
+      ["Academic and examination", "Progress"], ["Marriage", "Obstruction"], ["Birth", "Girl"],
+      ["Traveller", "Will reach late"], ["Husbandry", "Smooth"],
+      ["Missing person", "Will reach late"], ["Missing things", "No sign of."], ["Lawsuit", "Should settle"],
+      ["Migrating and moving house", "Auspicious"], ["Change", "Auspicious"],
+      ["Sickness", "Need time to rest, no big obstacles"], ["Ancestral grave", "Status quo will bring great luck"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 签解 崭新: glyph rendered in a font that may show the traditional-style component (嶄); transcribed as 崭. en.interpretation ends with a doubled period 'wish..' as printed. en.divination keeps double spaces ('the  spring', 'smoothly,  but') as printed."
+}

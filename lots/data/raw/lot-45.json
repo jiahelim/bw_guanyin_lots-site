@@ -1,0 +1,37 @@
+{
+  "n": 45,
+  "zh": {
+    "grade": "上签",
+    "poem": ["温柔自古胜刚强", "积善之门大吉昌", "若是有人占此卦", "宛如正渴遇琼浆"],
+    "jieyue": ["天地有感", "应验非常", "佛神护佑", "得之莫忘"],
+    "shiyi": ["此卦积善温柔之象。", "凡事贵人和合也。"],
+    "explain": "自古以来温柔都胜过刚强，多施善行的人家自会非常吉祥昌盛。抽到这个签的人，会像正渴时遇到琼浆一样，心意大顺。",
+    "divination": ["此签为上签。", "天地之间有感应，所以此签非常应验。得到神佛的护佑，更不能轻易忘。"],
+    "items": [
+      ["家宅情况", "吉祥"], ["自身情况", "平安"], ["投资理财", "称心如愿"],
+      ["经商买卖", "顺利有成"], ["工农商业", "下半年会有盈利"], ["工作事业", "与人谦恭忍耐，自有贵人相助"], ["学业考试", "再接再厉，会突破困难。"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "男孩"], ["出门在外", "在途中受阻"], ["畜养动物", "一般"],
+      ["寻人", "找到"], ["寻失物", "在东方"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "顺利"], ["转换变更", "适宜转换"],
+      ["治病健康", "应积善祈福庇佑"], ["祖坟牌位", "东西方位都吉利"]
+    ],
+    "summary": "此卦积善温柔之象。所祈求之事有贵人相助则会十分和合。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The gentle and kind will overcome the strong and violent.", "Kind merits will be repaid with great prosperity for the family.", "Whoever drew this Lot,", "Your thirst will be quenched by precious wines."],
+    "interpretation": ["Heaven and Earth will be moved by piety.", "Do not ever forget the benevolence and sympathy Heavens has shown you."],
+    "meaning": ["Tenderness and kindness will bring forth harmony and help from distinguished people."],
+    "explain": "Since ancient times, gentleness has always won over force and violence. Those who do more good, are kind will naturally be very blessed and prosperous.  One who draws this lot is like encountering nectar when one is thirsty, and one’s mind will be peaceful.",
+    "divination": ["This is an auspicious lot.", "Heaven and Earth will be moved, so your wishes will come true. Such blessings and protection given to you by the Buddha and gods must not be easily forgotten and all the more you should be grateful to them."],
+    "items": [
+      ["Household", "Auspicious"], ["Self", "Safe"],
+      ["Investment and financial management", "As desired"], ["Business", "Favorable"],
+      ["Agriculture and commerce", "Will be profitable in later ½ of year"], ["Career", "Be humble and patient with others, and will have own nobles to help you"], ["Academic and examination", "Put in your best efforts will break through difficulties"],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Average"],
+      ["Missing person", "Found"], ["Missing things", "In the east"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "Smooth"],
+      ["Change", "Suitable to change"], ["Sickness", "Do good, pray for blessings & protection"], ["Ancestral grave", "Should face East or West to be propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 学业考试 value ends with 。 as printed. zh key printed as 畜养动物; extra 迁徙搬家 item. en Lot Verse wraps mid-line ('...for the / family. Whoever drew this Lot,'); split at sentence/clause breaks. en uses the ½ character as printed."
+}

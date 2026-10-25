@@ -1,0 +1,38 @@
+{
+  "n": 9,
+  "zh": {
+    "grade": "中签",
+    "poem": ["烦君勿做私心事", "此意偏宜说问公", "一片明心光皎洁", "宛如皎月正天心"],
+    "jieyue": ["心中正直", "理顺法宽", "圣无私语", "终有分明"],
+    "shiyi": ["此卦皎月当空之象。", "凡事光明通达也。"],
+    "explain": "特别应该谆谆告诫的是：为人处事要出于公心，切不可私心太重。为人正直，光明磊落，心洁如月，就可能如月当空，居高临下，惠及众人，被人景仰。",
+    "divination": ["此签为中签。", "只要有正直的胸怀，所做的事合乎情理，法律就不会约束到你。", "但你所行之事是否合乎情理呢？圣人的评判最为公允。"],
+    "items": [
+      ["家宅情况", "吉利"], ["自身情况", "顺利"], ["投资理财", "中等、平常"],
+      ["经商买卖", "兴旺"], ["工农商业", "顺利"], ["工作事业", "宜宽容敬业"], ["学业考试", "脚踏实地学习"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "男孩"], ["出门在外", "存善心则顺利"], ["畜养动物", "有损失"],
+      ["寻人", "会自己出现"], ["寻失物", "应祈福回向"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"],
+      ["转换变更", "宜另谋高就"], ["治病健康", "平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦皎月当空之象。所祈求之事以光明正直的心态行持则能实现。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Cast aside your prejudices and pride,", "Let your conscience be your guide", "A heart that is open, pure and bright,", "Shines like a full moon high in the sky."],
+    "interpretation": ["Be upright and unbiased.  Be impartial and uphold the principles of reason.  No saint or sage ever yields to their own desires.  Things will eventually clear up."],
+    "meaning": ["A full moon lights up the clear night sky.  Everything will proceed well if your intentions are good."],
+    "explain": "Earnest cautioning: Be impartial when handling people and situations, avoid having selfish thoughts. Be upright, unbiased and an open heart is like a moon  shining bright and clear in the sky, benefiting all people below.",
+    "divination": ["This is a neutral lot.", "So long as you are upright and fair, you will not be bound by the law.", "However, are the things you do fair and reasonable?  The verdict by the sages will be the fairest of all."],
+    "items": [
+      ["Household", "Propitious"], ["Self", "Smooth-sailing"],
+      ["Investment and financial management", "Average"], ["Business", "Prosperous"],
+      ["Agriculture and commerce", "Favorable"], ["Career", "Be tolerant and dedicated"],
+      ["Academic and examination", "Practical, down-to-earth learning"], ["Marriage", "Successful"], ["Birth", "Boy"],
+      ["Traveller", "Keep a good heart to be safe"], ["Husbandry", "Have damages"], ["Missing person", "Will appear on own"],
+      ["Missing things", "Pray and do dedications"], ["Lawsuit", "Reasonable settlement"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Better to find another job"], ["Sickness", "Safe"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en.verse line 2 has no trailing comma in the image. en.explain has a double space in 'a moon  shining' (kept). Double spaces after colons in en items trimmed; double spaces after periods kept as printed."
+}

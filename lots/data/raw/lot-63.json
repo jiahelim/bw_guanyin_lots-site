@@ -1,0 +1,38 @@
+{
+  "n": 63,
+  "zh": {
+    "grade": "中签",
+    "poem": ["昔然行船失了针", "今朝依旧海中寻", "若然寻得原针在", "也费工夫也费心"],
+    "jieyue": ["福是禄基", "禄是福种", "说得分明", "切宜守谨"],
+    "shiyi": ["此卦海中寻针之象。", "凡事费心劳力也。"],
+    "explain": "从前在船上丢失了针，现在到海里去寻找。即使找到从前那根针，也是枉费心力和时间。",
+    "divination": ["此签为中签。", "福分是财禄的基础，财禄是福分的种子，二者相辅相成。", "既然已经清楚分明，那么就应该谨慎处理。"],
+    "items": [
+      ["家宅情况", "不太安宁"], ["自身情况", "小心谨慎"], ["投资理财", "有收获"],
+      ["经商买卖", "成功"], ["工农商业", "暂时有障碍"], ["工作事业", "费心劳力"], ["学业考试", "祈求三宝加持"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "谨慎防护，注意保养"], ["出门在外", "在途中被耽误"], ["畜养动物", "不要饲养"],
+      ["寻人", "难以找到"], ["寻失物", "过程有凶险"], ["官司诉讼", "适宜和解"], ["迁徙搬家", "适宜迁徙"],
+      ["转换变更", "改变为上"], ["治病健康", "难以痊愈"], ["祖坟牌位", "暂安无难"]
+    ],
+    "summary": "此卦海中寻针之象。所祈求之事还需费心劳力。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A needle lost when we were last at sea,", "Now searching for it, we continue at sea.", "A waste of efforts and labor,", "Even if we do find the needle."],
+    "interpretation": ["Fortune is based on wealth as wealth is built on fortune.", "Know this and proceed with caution."],
+    "meaning": ["Searching for a needle in the vast ocean.", "A futile and laborious effort."],
+    "explain": "You lost a needle on a ship before and now you are still searching for it in the sea. Even if the old needle is found, it is a waste of effort and time.",
+    "divination": ["This is a neutral lot.", "Blessing is the foundation for wealth and wealth is the seed for blessing. They complement each other. Since these two are already clear and distinct, they should be handled with caution."],
+    "items": [
+      ["Household", "Not so peaceful"], ["Self", "Take precautions"],
+      ["Investment and financial management", "Profitable"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Temporarily have obstacles"], ["Career", "Put in effort & labor."], ["Academic and examination", "Sincerely seek blessings from Triple Gems"],
+      ["Marriage", "Not suitable"], ["Birth", "Take precautions on your health"], ["Traveller", "Delayed on way"], ["Husbandry", "Don't raise"],
+      ["Missing person", "Hard to find"], ["Missing things", "Ominous"], ["Lawsuit", "Should settle"],
+      ["Migrating and moving house", "Should move"], ["Change", "Best to change"],
+      ["Sickness", "Difficult to recover"], ["Ancestral grave", "Safe for now"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra 迁徙搬家 / 'Migrating and moving house' row; zh key 畜养动物; en key 'Traveller'. 适宜迁徙 verified by zoom (徙, not 徒)."
+}

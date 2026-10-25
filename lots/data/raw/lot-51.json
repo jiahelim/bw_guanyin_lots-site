@@ -1,0 +1,37 @@
+{
+  "n": 51,
+  "zh": {
+    "grade": "上签",
+    "poem": ["夏日炎天日最长", "人人愁热闷非常", "天地也解知人意", "熏风拂拂自然凉"],
+    "jieyue": ["进退莫疑", "自有佳期", "营谋用度", "不须妄为"],
+    "shiyi": ["此卦人人愁热之象。", "凡事随心从意也。"],
+    "explain": "夏季日长，炎炎闷热难以忍受，人人都很愁苦。天地也是善解人意的，也会不时送来拂拂和风，让人感到清凉。",
+    "divination": ["此签为上签。", "是进是退不要犹豫不决，时机已经悄然到来。", "但计谋也不要过度，更不要轻举妄为。"],
+    "items": [
+      ["家宅情况", "应积善祈福庇护"], ["自身情况", "谨慎防护"], ["投资理财", "到秋天时吉利"],
+      ["经商买卖", "平常"], ["工农商业", "有损失的风险"], ["工作事业", "冷静分析优劣势，谨慎行事。"], ["学业考试", "循次渐进地学习，不宜急躁"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "生男孩"], ["出门在外", "还在途中"], ["畜养动物状况", "平常"],
+      ["寻人", "找到"], ["寻失物", "在北方"], ["官司诉讼", "吉利"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜留在原处"],
+      ["治病健康", "应当要还愿答谢"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦人人愁热之象。所祈求之事会顺心如愿。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The summer days are long and hot,", "The intense heat many fret over.", "Heaven and Earth know too of human’s desires,", "And so a naturally cooling southerly wind is sent."],
+    "interpretation": ["Do not hesitate to proceed.  The time for schemes and plans to take place has come, but do act modestly and not recklessly."],
+    "meaning": ["Everyone is affected by the heat in Autumn.", "Your pursuits will turn out the way you desire."],
+    "explain": "Summer days are long, and the scorching heat is unbearable and everyone feels distressed. Heaven and Earth are compassionate and frequently send gentle caressing breeze to help us feel cool and refreshing.",
+    "divination": ["This is an auspicious lot.", "One should not hesitate to advance or retreat as the opportunity has arrived quietly. However, one must not move with haste and recklessness or go overboard in the planning."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection"], ["Self", "Take precautions"],
+      ["Investment and financial management", "Favorable in Autumn"], ["Business", "Average"],
+      ["Agriculture and commerce", "Face risk of damages"], ["Career", "Calmly analyze the advantages and disadvantages and act cautiously."], ["Academic and examination", "Learn step by step, don’t be impatient"],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "Still on the road"], ["Husbandry", "Average"],
+      ["Missing person", "Found"], ["Missing things", "In the North"], ["Lawsuit", "Propitious"], ["Migrating and moving house", "Maintain status quo"], ["Change", "Remain as original"],
+      ["Sickness", "Redeem a wish as repayment of gratitude"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. zh key is 畜养动物状况 (longer than usual) on this page. en meaning says 'heat in Autumn' although the verse is about summer — copied as printed."
+}

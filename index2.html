@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+        <style>
+        .img-overlay {
+            position: relative;
+            display: inline-block;  
+        }
+        #item {
+            position: absolute;
+            left: 50%;
+            top: 60%;
+            width: 50%;
+            height: auto;
+        }
+		
+		   #guanyin {
+		   position: relative;
+        }
+
+	.container-fluid {
+	  background-color:blue;
+	  height:auto;
+	  width:100%;
+	}
+		
+    </style>  
+  
+
+</head>
+<body>
+
+  <div class="container-fluid">
+    <div class="img-overlay">
+      <img class="image-content"  src="GuanYin.jpg" id="guanyin">
+      <img class="image-overlay" src="qtong-small.png" id="item">
+    </div>
+	</div>
+	
+	<script>
+   var dragItem = document.querySelector("#item");   
+   
+    var active = false;
+    var currentX;
+    var currentY;
+    var initialX;
+    var initialY;
+    var xOffset = 0;
+    var yOffset = 0;
+   
+    item.addEventListener("touchstart", dragStart, false);
+    item.addEventListener("touchend", dragEnd, false);
+    item.addEventListener("touchmove", drag, false);
+
+    item.addEventListener("mousedown", dragStart, false);
+    item.addEventListener("mouseup", dragEnd, false);
+    item.addEventListener("mousemove", drag, false);
+
+    function dragStart(e) {
+	 console.log("touchstart")
+	// document.getElementById(qian+random_num).style.display = "none";
+	//  reset1();
+      if (e.type === "touchstart") {
+        initialX = e.touches[0].clientX - xOffset;
+        initialY = e.touches[0].clientY - yOffset;
+      } else {
+        initialX = e.clientX - xOffset;
+        initialY = e.clientY - yOffset;
+      }
+
+      if (e.target === dragItem) {
+        active = true;
+      }
+    }
+
+    function dragEnd(e) {
+	  random_num = Math.floor((Math.random() * 10) + 1);
+	 // document.getElementById(qian+random_num).style.display = "inline";
+      initialX = 0;//currentX;
+      initialY = 0;//currentY;
+	  
+	  xOffset = 0;
+	  yOffset = 0;
+	  
+	  setTranslate(0, 0, dragItem);
+
+      active = false;
+//	  timer();
+	  console.log("drag ends")
+	  console.log("x", currentX)
+	  console.log("y", currentY)
+    }
+
+    function drag(e) {
+      if (active) {
+      
+        e.preventDefault();
+      
+        if (e.type === "touchmove") {
+          currentX = e.touches[0].clientX - initialX;
+          currentY = e.touches[0].clientY - initialY;
+        } else {
+          currentX = e.clientX - initialX;
+          currentY = e.clientY - initialY;
+        }
+
+        xOffset = currentX;
+        yOffset = currentY;
+
+        setTranslate(currentX, currentY, dragItem);
+      }
+    }
+	
+	
+    function setTranslate(xPos, yPos, el) {
+      el.style.transform = "translate3d(" + xPos + "px, " + yPos + "px, 0)";
+    }
+
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "n": 66,
+  "zh": {
+    "grade": "下签",
+    "poem": ["路险马乏人行急", "失群军卒困相当", "滩高风浪船棹破", "日暮花残天降霜"],
+    "jieyue": ["守旧待时", "安静无咎", "不用求谋", "自在悠游"],
+    "shiyi": ["此卦船破下滩之象。", "凡事险阻提防也。"],
+    "explain": "道路险峻，马又疲弱乏力，却必须催马疾行，不然就会落伍，就像失散的败兵一样。急流脸滩，浪高风危，船又破，桨又折了，就像花凋残了又遇霜冻一样。",
+    "divination": ["此签为下签。", "保持现状，等待时机，安静而不妄动，则不会有大过失。", "也不用费心谋划，只能顺其自然，自在悠游。"],
+    "items": [
+      ["家宅情况", "忧虑、疑惧"], ["自身情况", "有灾祸和损失"], ["投资理财", "破财失财"],
+      ["经商买卖", "失败"], ["工农商业", "有损失"], ["工作事业", "不稳定，宜用心经营"], ["学业考试", "有难度，心勿慌"],
+      ["爱情婚姻", "不稳定"], ["怀孕生育", "有险，防护"], ["出门在外", "在途中受阻"], ["动物状况", "有损失"],
+      ["寻人", "毫无音信"], ["官司诉讼", "会亏输"], ["迁徙搬家", "万万不可搬动"],
+      ["转换变更", "宜守旧"], ["治病健康", "速作大祈福回向"], ["祖坟牌位", "应多积善祈福"]
+    ],
+    "summary": "此卦船破下滩之象。所祈求之事或有危险及阻碍，应小心提防。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["An anxious rider pushing a horse on a steep road,", "Trouble they will have if they fall away from the troop.", "As a boat caught in stormy seas with broken oars,", "The days are darker, the flowers have withered and snow begins to fall."],
+    "interpretation": ["Let things remain and wait.", "Few can find fault when one stays quiet.", "Stay carefree and free.", "Do not scheme or plot."],
+    "meaning": ["A boat was wrecked as it tried to navigate the rapids.", "The situation is precarious, you must stay alert and take precautions."],
+    "explain": "The road is treacherous, the horses are weak and  exhausted but the riders must push their horses to move quickly or they will lag behind and become like lost, defeated soldiers. Like a rickety ship with broken oars, that sweeps through rapids against high waves and strong winds, resembles withered flowers in the frost.",
+    "divination": ["This is an inauspicious lot.", "Keep things unchanged, wait for opportunity, stay quiet and do not act rashly,  then there will be no big losses.  Don’t bother yourself with plots and schemes, just let things take its natural course and you can stay carefree."],
+    "items": [
+      ["Household", "Worries and suspicions"], ["Self", "Disaster and loss"],
+      ["Investment and financial management", "Lose money"], ["Business", "Failure"],
+      ["Agriculture and commerce", "Will have losses"], ["Career", "Unstable, advisable to manage with care"], ["Academic and examination", "Encounter difficulties but don't panic"],
+      ["Marriage", "Unstable"], ["Birth", "Risky, take precaution"], ["Traveller", "Obstruction on way"], ["Husbandry", "Damage"],
+      ["Missing person", "No news"], ["Lawsuit", "Will have loss"],
+      ["Migrating and moving house", "Definitely can’t move"], ["Change", "Keep as present"],
+      ["Sickness", "Do vast offerings for blessings and dedications quickly."], ["Ancestral grave", "Accumulate more merits, & pray for blessings"]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages have NO 寻失物 / 'Missing things' row (17 items). zh explain prints 急流脸滩 (likely typo for 险滩) - kept as printed, verified by zoom. zh animal key 动物状况; extra 迁徙搬家 / 'Migrating and moving house' row; en key 'Traveller'. en double spaces ('weak and  exhausted', 'rashly,  then', 'losses.  Don’t') and mixed straight/curly apostrophes kept as printed."
+}

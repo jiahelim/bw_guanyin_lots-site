@@ -1,0 +1,38 @@
+{
+  "n": 72,
+  "zh": {
+    "grade": "中签",
+    "poem": ["养蜂须用求他蜜", "只怕遭触尾上针", "须是眼前有异路", "暗里深如荆棘林"],
+    "jieyue": ["事须仔细", "不用强求", "结蜂采蜜", "有甚来由"],
+    "shiyi": ["此卦结蜂采蜜、求甜得苦之象。", "诸事劳心费力，凡事防范灾殃也。"],
+    "explain": "养峰当然想得到峰蜜，只是恐怕会被蜂尾针螫。虽然目前有别的路可走，但暗里仍然荆棘密布。",
+    "divination": ["此签为中签。", "做事必须仔细，不要强求，如同与蜜蜂结伴去采蜜一样，哪会有什么好结果啊?"],
+    "items": [
+      ["家宅情况", "不太顺利"], ["自身情况", "要防备"], ["投资理财", "有阻碍"],
+      ["经商买卖", "交易会延迟"], ["工农商业", "收获不多"], ["工作事业", "劳心费力"], ["学业考试", "好好加油，能通过难关"],
+      ["爱情婚姻", "会被阻隔"], ["怀孕生育", "虚惊"], ["出门在外", "到达目的地的时间延迟"], ["畜养动物", "收成较少"],
+      ["寻人", "难找到"], ["寻失物", "过程中有凶险"], ["官司情况", "亏输"], ["迁徙搬家", "不要搬迁"],
+      ["转换变更", "不宜转变"], ["疾病情况", "宜作祈福回向"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦结蜂采蜜、求甜得苦之象。所祈求之事不仅劳心费力，还需防范祸殃。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Raise bees for the sake of their honey,", "The only fear are the stings from the tails.", "Although there are other ways to make a living,", "There are hidden thistles and thorns that one does not see."],
+    "interpretation": ["Plans need to be thought through.", "Do not ask for the sky.", "Raise the bees for honey and there will be rewards for your labor."],
+    "meaning": ["Gathering bees in order to collect honey, a bitter effort to collect some sweetness.", "A lot of hard work and effort is required.", "Take precautions to avoid disasters."],
+    "explain": "We raise bees for their honey, only that we fear being stung by them. Although we have alternate paths currently, we know there are hidden thorns we do not see.",
+    "divination": ["This is a neutral lot.", "When working we need to be meticulous and not ask for the sky. It is akin to raising bees for honey, what good will come out of it?"],
+    "items": [
+      ["Household", "Conditions are not so favorable"], ["Self", "Need to be careful"],
+      ["Investment and financial management", "Obstruction"], ["Business", "Trade will be delayed"],
+      ["Agriculture and commerce", "Poor returns"], ["Career", "Need work hard"], ["Academic and examination", "Work hard, will get through the hard times."],
+      ["Marriage", "Will be blocked"], ["Birth", "False alarm"], ["Traveller", "Will be late"], ["Husbandry", "Poor returns"],
+      ["Missing person", "Hard to find"], ["Missing things", "Ominous signs enroute"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Do not move"], ["Change", "Do not change"],
+      ["Sickness", "Do vast offerings for blessings & dedications"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' (18 items). zh item keys differ from usual: 官司情况 (not 官司诉讼) and 疾病情况 (not 治病健康), copied as printed. zh explain prints 养峰 and 峰蜜 (typos for 蜂), kept. zh divination ends with what looks like a half-width '?'; the line wrap before 好结果 is a soft wrap, so it is joined into one string. en uses 'Traveller'."
+}

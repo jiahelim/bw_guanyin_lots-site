@@ -1,0 +1,39 @@
+{
+  "n": 33,
+  "zh": {
+    "grade": "中签",
+    "poem": ["内藏无价宝和珍", "得玉何须外界寻", "不如等待高人识", "宽心犹且更宽心"],
+    "jieyue": ["内藏金玉", "何必外寻", "遇贵指引", "不须劳心"],
+    "shiyi": ["此卦藏玉外觅之象，", "凡事待时可也。"],
+    "explain": "自己内心犹藏着无价珍宝，所以想得到美玉便没必要外求，不如等待高人的赏识，对此你完全可以放宽心。",
+    "divination": ["此签为中签。", "自己本身就具备很高的才能和美德，为什么要向外界寻求呢？", "如果能得到贵人的指引，便不必费心费力却投报无门。"],
+    "items": [
+      ["家宅情况", "积善祈求平安"], ["自身情况", "平安"], ["投资理财", "保持现状，等待机会"],
+      ["经商买卖", "宜延迟交易"], ["工农商业", "守旧则吉"], ["工作事业", "等待时机"], ["学业考试", "精勤努力，能成大器"],
+      ["爱情婚姻", "因缘到"], ["怀孕生育", "男孩"], ["出门在外", "在途中受阻"], ["畜养动物", "兴旺"],
+      ["寻人", "要费些功夫"], ["寻失物", "在北方"], ["官司诉讼", "会搁置"], ["迁徙搬家", "吉利"], ["转换变更", "莫急求转变"],
+      ["治病健康", "得遇良医"], ["祖坟牌位", "宜改"]
+    ],
+    "summary": "此卦藏玉外觅之象。所祈求之事只需等待时机的到来。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Hidden within are priceless gems and jewels,", "Outside, one searches in vain for the same.", "Why not wait for the right connoisseur,", "Who will open your mind to the treasures within?"],
+    "interpretation": ["Gold and jade are hidden within yet you continue a futile search outside and beyond.  You will receive guidance and no longer have to labor."],
+    "meaning": ["A jade is hidden nearby yet one searches far away for gems.  Be patient and wait for the right time."],
+    "explain": "Everyone has priceless virtues hidden within our hearts. Therefore, you need not seek externally for them. It is better to wait for the right mentor to open your mind.  This you can be assured.",
+    "divination": ["This is a neutral lot.", "Why seek externally for talents and virtues which you already have? If you can have a benefactor to guide you, you won't have to work so hard."],
+    "items": [
+      ["Household", "Accumulate merits and pray for blessings"], ["Self", "Safe"],
+      ["Investment and financial management", "Keep present status and wait for opportunity"], ["Business", "Delay trading"],
+      ["Agriculture and commerce", "Better keep present status"], ["Career", "Wait for right time"],
+      ["Academic and examination", "Will succeed if work hard"], ["Marriage", "Now is the right time"],
+      ["Birth", "Boy"], ["Traveller", "Obstruction"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Need to put in efforts"], ["Missing things", "North"], ["Lawsuit", "Will shelf"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Don't rush to change"],
+      ["Sickness", "Will meet an excellent physician"], ["Ancestral grave", "Change"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 诗意 first line ends with a full-width comma (，) rather than 。, as printed. zh 签解 '却投报无门' copied as printed (unusual phrasing)."
+}

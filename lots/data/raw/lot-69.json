@@ -1,0 +1,37 @@
+{
+  "n": 69,
+  "zh": {
+    "grade": "中签",
+    "poem": ["冬来岭上一枝梅", "叶落枝枯终不摧", "但得阳春悄急至", "依然还我作花魁"],
+    "jieyue": ["一箭射空", "当空不空", "待等春来", "彩在其中"],
+    "shiyi": ["此卦梅花占魁之象，", "凡事宜迟则吉也。"],
+    "explain": "即使成了寒冬的梅树，虽然叶落枝空也终究不会被摧毁。只要春的气息悄悄到来，依旧会成为花中魁首。",
+    "divination": ["此签为中签。", "一箭射向空中，其实并不是漫无目标。", "梅花待到春天到来时，也会在五彩缤纷中放出光彩。"],
+    "items": [
+      ["家宅情况", "不太顺利"], ["自身情况", "应积善祈福"], ["投资理财", "谨慎小心"],
+      ["经商买卖", "等待时机"], ["工农商业", "兴旺"], ["工作事业", "稳扎稳打"], ["学业考试", "应把握学习时光"],
+      ["爱情婚姻", "晚些会成功"], ["怀孕生育", "春季平安"], ["出门在外", "到达目的地的时间会延迟"], ["畜养动物", "兴旺"],
+      ["寻人", "找到"], ["寻失物", "在东方"], ["官司诉讼", "会亏输"], ["转换变更", "此时还不急，耐心等待。"],
+      ["治病健康", "有虚惊"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦梅花占魁之象。所祈求之事应推迟进行，才会吉利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A plum tree on a hill on a winter’s day.", "Its leaves have fallen, its twigs have withered, yet it stands.", "When the warmth of Spring quietly returns,", "Its floral majesty would once again be restored."],
+    "interpretation": ["An arrow is released but misses its target.", "All is not lost, when Spring is here again, your reward will be amongst what it brings."],
+    "meaning": ["The plum tree blooms in full majesty.", "Things may take a while to come to fruition but it will bode well."],
+    "explain": "Even if it becomes a plum tree in the cold winter, its leaves have fallen and its branches are bare, yet it remains standing. When the warmth of spring creeps in, the plum tree’s floral majesty will again be restored.",
+    "divination": ["This is a neutral lot.", "An arrow is shot in the air but is not without a target. With the arrival of spring, the plum tree will radiate with splendour amid the profusion of spring colours."],
+    "items": [
+      ["Household", "Conditions are not favorable"], ["Self", "Do good, pray for blessings"],
+      ["Investment and financial management", "Take precautions"], ["Business", "Wait for opportunity"],
+      ["Agriculture and commerce", "Prosperous"], ["Career", "Steady"], ["Academic and examination", "You should treasure your study time"],
+      ["Marriage", "Late success"], ["Birth", "Safe in Spring"], ["Traveller", "Will arrive late"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Will be found"], ["Missing things", "East"], ["Lawsuit", "Expect loss"], ["Change", "Not time yet, wait patiently."],
+      ["Sickness", "False alarm"], ["Ancestral grave", "Suitable for restoration"]
+    ],
+    "summary": null
+  },
+  "notes": "zh poem line 3 reads 悄急至 as printed. zh uses 畜养动物. en uses 'Traveller'."
+}

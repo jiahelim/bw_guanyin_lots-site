@@ -1,0 +1,38 @@
+{
+  "n": 57,
+  "zh": {
+    "grade": "中签",
+    "poem": ["说是说非风过耳", "好衣好禄自然丰", "君莫记取当年事", "汝意还如我意同"],
+    "jieyue": ["所用谋望", "皆大欢喜", "从公用力", "如子逢娘"],
+    "shiyi": ["此卦孩儿见母之象。", "诸事贵人大吉也。"],
+    "explain": "听到是非之言就当做耳边风，这样自然会有富裕丰足的生活。莫再记着当年的旧事了。",
+    "divination": ["此签为中签。", "对未来所作的谋划能够获得完满的结果。", "做事恳切，以公为先，就像孩子遇到母亲般，将会获得依靠与协助。"],
+    "items": [
+      ["家宅情况", "不安宁，多行善祈福"], ["自身情况", "平常"], ["投资理财", "顺利"],
+      ["经商买卖", "成功"], ["工农商业", "适应而迎上市场"], ["工作事业", "平顺稳当"], ["学业考试", "勤奋有成"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "女孩"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "难找到"], ["寻失物", "无法找到"], ["官司诉讼", "适宜和解"], ["迁徙搬家", "原地不动"],
+      ["转换变更", "保持现况为佳"], ["治病健康", "宜积善祈福庇佑"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦孩儿见母之象。所祈求之事逢贵人相助则会大吉大利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Let rumors or scandals whisk past your ears like winds,", "For a life of fine clothes and plenty is yours to have.", "Unshackle your past and let bygones be bygones,", "On this, I am certain you will surely agree."],
+    "interpretation": ["What you are planning will bring much success and joy to yourself and others.", "Work for the good of the public with a devotion like a mother to her child."],
+    "meaning": ["Like when the child sees the mother, you will have support from others, your pursuits will go well."],
+    "explain": "Turn a deaf ear to gossip and rumours, you will naturally gain happiness and abundance in your life. Avoid dwelling on the past.",
+    "divination": ["This is a neutral lot.", "You will be able to realize your future plans. Do things sincerely, put the public first, serve them like the devotion of a mother to her child and you will find refuge and support."],
+    "items": [
+      ["Household", "Not safe, do more good and pray for blessings"], ["Self", "Normal"],
+      ["Investment and financial management", "Smooth"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Adapt to the market"], ["Career", "Smooth and stable"], ["Academic and examination", "Diligent leads to success"],
+      ["Marriage", "Suitable"], ["Birth", "Girl"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Damage"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Cannot be found."], ["Lawsuit", "Should settle"],
+      ["Migrating and moving house", "Do not move or migrate"], ["Change", "Keep to original"],
+      ["Sickness", "Do good, pray for blessings & protection"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items include extra 迁徙搬家 row (not in lot 1) and key 畜养动物 (lot 1: 家养动物); en has matching 'Migrating and moving house' row and key 'Traveller'."
+}

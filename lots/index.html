@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>观音灵签 · Guan Yin Divine Lots</title>
+<link rel="stylesheet" href="assets/lots.css">
+<script src="../assets/js/lang.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var buttons = document.querySelectorAll('.filters button');
+  var cells = document.querySelectorAll('.grid li');
+  for (var i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener('click', function () {
+      var grade = this.getAttribute('data-grade');
+      for (var b = 0; b < buttons.length; b++) buttons[b].setAttribute('aria-pressed', buttons[b] === this);
+      for (var c = 0; c < cells.length; c++) cells[c].hidden = grade !== 'all' && cells[c].getAttribute('data-grade') !== grade;
+    });
+  }
+});
+</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="index.html"><span data-lang="en">Guan Yin Divine Lots</span><span data-lang="zh">观音灵签</span></a>
+    <nav>
+      <a class="btn primary" href="../index1.html"><span data-lang="en">Draw a lot</span><span data-lang="zh">求签</span></a>
+      <a class="btn" href="https://offering.bwmonastery.org.sg/" target="_blank" rel="noopener"><span data-lang="en">Offerings</span><span data-lang="zh">供养</span></a>
+    </nav>
+    <div id="langToggle"></div>
+  </div>
+</header>
+<main class="wrap">
+<div class="hero">
+  <h1><span data-lang="en">Divine Lots</span><span data-lang="zh">观音灵签</span></h1>
+  <p><span data-lang="en">All 100 lots of the Goddess of Mercy. Draw one, or read any lot below.</span><span data-lang="zh">观世音菩萨灵签一百首。可先求签，或直接阅读签文。</span></p>
+  <a class="btn primary" href="../index1.html"><span data-lang="en">Draw a lot</span><span data-lang="zh">求签</span></a>
+</div>
+<div class="filters">
+  <button class="btn" type="button" data-grade="all" aria-pressed="true"><span data-lang="en">All</span><span data-lang="zh">全部</span></button>
+  <button class="btn" type="button" data-grade="good" aria-pressed="false"><span data-lang="en">Upper</span><span data-lang="zh">上签</span></button>
+  <button class="btn" type="button" data-grade="mid" aria-pressed="false"><span data-lang="en">Middle</span><span data-lang="zh">中签</span></button>
+  <button class="btn" type="button" data-grade="bad" aria-pressed="false"><span data-lang="en">Lower</span><span data-lang="zh">下签</span></button>
+</div>
+<ul class="grid">
+<li data-grade="good"><a href="1.html"><span class="n"><span data-lang="en">Lot 1</span><span data-lang="zh">第1签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">开天辟地作良缘</span></a></li>
+<li data-grade="bad"><a href="2.html"><span class="n"><span data-lang="en">Lot 2</span><span data-lang="zh">第2签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">鲤鱼未变守江河</span></a></li>
+<li data-grade="bad"><a href="3.html"><span class="n"><span data-lang="en">Lot 3</span><span data-lang="zh">第3签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">临风冒雨去还乡</span></a></li>
+<li data-grade="good"><a href="4.html"><span class="n"><span data-lang="en">Lot 4</span><span data-lang="zh">第4签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">千年古镜复重圆</span></a></li>
+<li data-grade="mid"><a href="5.html"><span class="n"><span data-lang="en">Lot 5</span><span data-lang="zh">第5签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">一锥凿地要求泉</span></a></li>
+<li data-grade="mid"><a href="6.html"><span class="n"><span data-lang="en">Lot 6</span><span data-lang="zh">第6签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">投身岩下雕鸟居</span></a></li>
+<li data-grade="bad"><a href="7.html"><span class="n"><span data-lang="en">Lot 7</span><span data-lang="zh">第7签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">奔波阻隔重重险</span></a></li>
+<li data-grade="good"><a href="8.html"><span class="n"><span data-lang="en">Lot 8</span><span data-lang="zh">第8签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">茂林松柏正兴旺</span></a></li>
+<li data-grade="mid"><a href="9.html"><span class="n"><span data-lang="en">Lot 9</span><span data-lang="zh">第9签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">烦君勿做私心事</span></a></li>
+<li data-grade="mid"><a href="10.html"><span class="n"><span data-lang="en">Lot 10</span><span data-lang="zh">第10签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">石藏无价玉和珍</span></a></li>
+<li data-grade="good"><a href="11.html"><span class="n"><span data-lang="en">Lot 11</span><span data-lang="zh">第11签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">欲求胜事可非常</span></a></li>
+<li data-grade="good"><a href="12.html"><span class="n"><span data-lang="en">Lot 12</span><span data-lang="zh">第12签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">否去泰来咫尺间</span></a></li>
+<li data-grade="mid"><a href="13.html"><span class="n"><span data-lang="en">Lot 13</span><span data-lang="zh">第13签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">自小生在富贵家</span></a></li>
+<li data-grade="mid"><a href="14.html"><span class="n"><span data-lang="en">Lot 14</span><span data-lang="zh">第14签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">宛如仙鹤出樊笼</span></a></li>
+<li data-grade="mid"><a href="15.html"><span class="n"><span data-lang="en">Lot 15</span><span data-lang="zh">第15签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">行人怨日气难吞</span></a></li>
+<li data-grade="mid"><a href="16.html"><span class="n"><span data-lang="en">Lot 16</span><span data-lang="zh">第16签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">愁眉思虑暂时开</span></a></li>
+<li data-grade="mid"><a href="17.html"><span class="n"><span data-lang="en">Lot 17</span><span data-lang="zh">第17签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">莫听闲言说是非</span></a></li>
+<li data-grade="good"><a href="18.html"><span class="n"><span data-lang="en">Lot 18</span><span data-lang="zh">第18签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">金乌西坠兔东升</span></a></li>
+<li data-grade="mid"><a href="19.html"><span class="n"><span data-lang="en">Lot 19</span><span data-lang="zh">第19签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">急水滩头放船归</span></a></li>
+<li data-grade="mid"><a href="20.html"><span class="n"><span data-lang="en">Lot 20</span><span data-lang="zh">第20签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">当春久雨喜开晴</span></a></li>
+<li data-grade="good"><a href="21.html"><span class="n"><span data-lang="en">Lot 21</span><span data-lang="zh">第21签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">阴阳道合总由天</span></a></li>
+<li data-grade="mid"><a href="22.html"><span class="n"><span data-lang="en">Lot 22</span><span data-lang="zh">第22签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">旱时田里皆枯槁</span></a></li>
+<li data-grade="mid"><a href="23.html"><span class="n"><span data-lang="en">Lot 23</span><span data-lang="zh">第23签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">欲扳仙桂入蟾宫</span></a></li>
+<li data-grade="bad"><a href="24.html"><span class="n"><span data-lang="en">Lot 24</span><span data-lang="zh">第24签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">不成理论不成家</span></a></li>
+<li data-grade="mid"><a href="25.html"><span class="n"><span data-lang="en">Lot 25</span><span data-lang="zh">第25签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">过了忧危事几重</span></a></li>
+<li data-grade="mid"><a href="26.html"><span class="n"><span data-lang="en">Lot 26</span><span data-lang="zh">第26签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">上下传来事转虚</span></a></li>
+<li data-grade="mid"><a href="27.html"><span class="n"><span data-lang="en">Lot 27</span><span data-lang="zh">第27签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">一谋一用一番机</span></a></li>
+<li data-grade="mid"><a href="28.html"><span class="n"><span data-lang="en">Lot 28</span><span data-lang="zh">第28签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">东边月上正婵娟</span></a></li>
+<li data-grade="mid"><a href="29.html"><span class="n"><span data-lang="en">Lot 29</span><span data-lang="zh">第29签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">宝剑出匣耀光明</span></a></li>
+<li data-grade="mid"><a href="30.html"><span class="n"><span data-lang="en">Lot 30</span><span data-lang="zh">第30签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">劝君切莫向他求</span></a></li>
+<li data-grade="mid"><a href="31.html"><span class="n"><span data-lang="en">Lot 31</span><span data-lang="zh">第31签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">清闲无忧静处坐</span></a></li>
+<li data-grade="mid"><a href="32.html"><span class="n"><span data-lang="en">Lot 32</span><span data-lang="zh">第32签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">前程杳杳定无疑</span></a></li>
+<li data-grade="mid"><a href="33.html"><span class="n"><span data-lang="en">Lot 33</span><span data-lang="zh">第33签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">内藏无价宝和珍</span></a></li>
+<li data-grade="mid"><a href="34.html"><span class="n"><span data-lang="en">Lot 34</span><span data-lang="zh">第34签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">行藏出入礼义恭</span></a></li>
+<li data-grade="mid"><a href="35.html"><span class="n"><span data-lang="en">Lot 35</span><span data-lang="zh">第35签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">衣冠重整旧家风</span></a></li>
+<li data-grade="mid"><a href="36.html"><span class="n"><span data-lang="en">Lot 36</span><span data-lang="zh">第36签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">眼前病讼不须忧</span></a></li>
+<li data-grade="mid"><a href="37.html"><span class="n"><span data-lang="en">Lot 37</span><span data-lang="zh">第37签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">欲待身安运泰时</span></a></li>
+<li data-grade="bad"><a href="38.html"><span class="n"><span data-lang="en">Lot 38</span><span data-lang="zh">第38签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">月照天宅静处期</span></a></li>
+<li data-grade="bad"><a href="39.html"><span class="n"><span data-lang="en">Lot 39</span><span data-lang="zh">第39签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">天边消息实难思</span></a></li>
+<li data-grade="mid"><a href="40.html"><span class="n"><span data-lang="en">Lot 40</span><span data-lang="zh">第40签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">红轮西坠兔东升</span></a></li>
+<li data-grade="mid"><a href="41.html"><span class="n"><span data-lang="en">Lot 41</span><span data-lang="zh">第41签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">无限好言君须记</span></a></li>
+<li data-grade="good"><a href="42.html"><span class="n"><span data-lang="en">Lot 42</span><span data-lang="zh">第42签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">君皇圣后终为恩</span></a></li>
+<li data-grade="good"><a href="43.html"><span class="n"><span data-lang="en">Lot 43</span><span data-lang="zh">第43签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">天地变通万物全</span></a></li>
+<li data-grade="mid"><a href="44.html"><span class="n"><span data-lang="en">Lot 44</span><span data-lang="zh">第44签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">棋逢敌手着相宜</span></a></li>
+<li data-grade="good"><a href="45.html"><span class="n"><span data-lang="en">Lot 45</span><span data-lang="zh">第45签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">温柔自古胜刚强</span></a></li>
+<li data-grade="mid"><a href="46.html"><span class="n"><span data-lang="en">Lot 46</span><span data-lang="zh">第46签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">劝君耐守旧生涯</span></a></li>
+<li data-grade="good"><a href="47.html"><span class="n"><span data-lang="en">Lot 47</span><span data-lang="zh">第47签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">锦上添花色愈鲜</span></a></li>
+<li data-grade="mid"><a href="48.html"><span class="n"><span data-lang="en">Lot 48</span><span data-lang="zh">第48签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">鹍鸟秋来化作鹏</span></a></li>
+<li data-grade="mid"><a href="49.html"><span class="n"><span data-lang="en">Lot 49</span><span data-lang="zh">第49签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">天寒地冻水成冰</span></a></li>
+<li data-grade="mid"><a href="50.html"><span class="n"><span data-lang="en">Lot 50</span><span data-lang="zh">第50签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">五湖四海任君行</span></a></li>
+<li data-grade="good"><a href="51.html"><span class="n"><span data-lang="en">Lot 51</span><span data-lang="zh">第51签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">夏日炎天日最长</span></a></li>
+<li data-grade="mid"><a href="52.html"><span class="n"><span data-lang="en">Lot 52</span><span data-lang="zh">第52签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">水中捞月费工夫</span></a></li>
+<li data-grade="mid"><a href="53.html"><span class="n"><span data-lang="en">Lot 53</span><span data-lang="zh">第53签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">失意翻成得意时</span></a></li>
+<li data-grade="bad"><a href="54.html"><span class="n"><span data-lang="en">Lot 54</span><span data-lang="zh">第54签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">梦中得宝醒来无</span></a></li>
+<li data-grade="mid"><a href="55.html"><span class="n"><span data-lang="en">Lot 55</span><span data-lang="zh">第55签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">父贤传子子传孙</span></a></li>
+<li data-grade="mid"><a href="56.html"><span class="n"><span data-lang="en">Lot 56</span><span data-lang="zh">第56签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">滩小石溪流水响</span></a></li>
+<li data-grade="mid"><a href="57.html"><span class="n"><span data-lang="en">Lot 57</span><span data-lang="zh">第57签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">说是说非风过耳</span></a></li>
+<li data-grade="mid"><a href="58.html"><span class="n"><span data-lang="en">Lot 58</span><span data-lang="zh">第58签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">直言说话君须记</span></a></li>
+<li data-grade="mid"><a href="59.html"><span class="n"><span data-lang="en">Lot 59</span><span data-lang="zh">第59签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">直上重楼去藏身</span></a></li>
+<li data-grade="bad"><a href="60.html"><span class="n"><span data-lang="en">Lot 60</span><span data-lang="zh">第60签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">抱薪救火大皆燃</span></a></li>
+<li data-grade="mid"><a href="61.html"><span class="n"><span data-lang="en">Lot 61</span><span data-lang="zh">第61签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">日落吟诗月下歌</span></a></li>
+<li data-grade="mid"><a href="62.html"><span class="n"><span data-lang="en">Lot 62</span><span data-lang="zh">第62签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">晨昏全赖佛扶持</span></a></li>
+<li data-grade="mid"><a href="63.html"><span class="n"><span data-lang="en">Lot 63</span><span data-lang="zh">第63签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">昔然行船失了针</span></a></li>
+<li data-grade="bad"><a href="64.html"><span class="n"><span data-lang="en">Lot 64</span><span data-lang="zh">第64签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">游鱼却在碧波池</span></a></li>
+<li data-grade="bad"><a href="65.html"><span class="n"><span data-lang="en">Lot 65</span><span data-lang="zh">第65签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">眼前欢喜未为欢</span></a></li>
+<li data-grade="bad"><a href="66.html"><span class="n"><span data-lang="en">Lot 66</span><span data-lang="zh">第66签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">路险马乏人行急</span></a></li>
+<li data-grade="good"><a href="67.html"><span class="n"><span data-lang="en">Lot 67</span><span data-lang="zh">第67签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">一条金线秤君心</span></a></li>
+<li data-grade="mid"><a href="68.html"><span class="n"><span data-lang="en">Lot 68</span><span data-lang="zh">第68签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">门庭吉庆喜非常</span></a></li>
+<li data-grade="mid"><a href="69.html"><span class="n"><span data-lang="en">Lot 69</span><span data-lang="zh">第69签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">冬来岭上一枝梅</span></a></li>
+<li data-grade="bad"><a href="70.html"><span class="n"><span data-lang="en">Lot 70</span><span data-lang="zh">第70签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">朝朝恰似采花蜂</span></a></li>
+<li data-grade="mid"><a href="71.html"><span class="n"><span data-lang="en">Lot 71</span><span data-lang="zh">第71签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">认知苍龙下九衢</span></a></li>
+<li data-grade="mid"><a href="72.html"><span class="n"><span data-lang="en">Lot 72</span><span data-lang="zh">第72签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">养蜂须用求他蜜</span></a></li>
+<li data-grade="good"><a href="73.html"><span class="n"><span data-lang="en">Lot 73</span><span data-lang="zh">第73签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">春来雷震百虫鸣</span></a></li>
+<li data-grade="bad"><a href="74.html"><span class="n"><span data-lang="en">Lot 74</span><span data-lang="zh">第74签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">似鹄飞来自入笼</span></a></li>
+<li data-grade="mid"><a href="75.html"><span class="n"><span data-lang="en">Lot 75</span><span data-lang="zh">第75签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">恰如抱虎过高山</span></a></li>
+<li data-grade="mid"><a href="76.html"><span class="n"><span data-lang="en">Lot 76</span><span data-lang="zh">第76签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">鱼龙混杂意相同</span></a></li>
+<li data-grade="mid"><a href="77.html"><span class="n"><span data-lang="en">Lot 77</span><span data-lang="zh">第77签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">梦中说得是多财</span></a></li>
+<li data-grade="good"><a href="78.html"><span class="n"><span data-lang="en">Lot 78</span><span data-lang="zh">第78签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">冷水未烧白沸汤</span></a></li>
+<li data-grade="mid"><a href="79.html"><span class="n"><span data-lang="en">Lot 79</span><span data-lang="zh">第79签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">虚空结愿保平安</span></a></li>
+<li data-grade="good"><a href="80.html"><span class="n"><span data-lang="en">Lot 80</span><span data-lang="zh">第80签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">直上仙岩要学仙</span></a></li>
+<li data-grade="good"><a href="81.html"><span class="n"><span data-lang="en">Lot 81</span><span data-lang="zh">第81签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">梧桐叶落秋将暮</span></a></li>
+<li data-grade="mid"><a href="82.html"><span class="n"><span data-lang="en">Lot 82</span><span data-lang="zh">第82签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">炎炎烈火焰连天</span></a></li>
+<li data-grade="mid"><a href="83.html"><span class="n"><span data-lang="en">Lot 83</span><span data-lang="zh">第83签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">譬若初三四五缺</span></a></li>
+<li data-grade="bad"><a href="84.html"><span class="n"><span data-lang="en">Lot 84</span><span data-lang="zh">第84签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">因名丧德如何事</span></a></li>
+<li data-grade="mid"><a href="85.html"><span class="n"><span data-lang="en">Lot 85</span><span data-lang="zh">第85签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">云深雾罩山前路</span></a></li>
+<li data-grade="good"><a href="86.html"><span class="n"><span data-lang="en">Lot 86</span><span data-lang="zh">第86签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">春来花发映阳台</span></a></li>
+<li data-grade="mid"><a href="87.html"><span class="n"><span data-lang="en">Lot 87</span><span data-lang="zh">第87签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">人行半岭日衔山</span></a></li>
+<li data-grade="mid"><a href="88.html"><span class="n"><span data-lang="en">Lot 88</span><span data-lang="zh">第88签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">木为一虎在当门</span></a></li>
+<li data-grade="good"><a href="89.html"><span class="n"><span data-lang="en">Lot 89</span><span data-lang="zh">第89签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">出入营谋大吉昌</span></a></li>
+<li data-grade="good"><a href="90.html"><span class="n"><span data-lang="en">Lot 90</span><span data-lang="zh">第90签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">忽言一信向天飞</span></a></li>
+<li data-grade="mid"><a href="91.html"><span class="n"><span data-lang="en">Lot 91</span><span data-lang="zh">第91签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">好展愁眉出众来</span></a></li>
+<li data-grade="good"><a href="92.html"><span class="n"><span data-lang="en">Lot 92</span><span data-lang="zh">第92签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">自幼为商任设谋</span></a></li>
+<li data-grade="mid"><a href="93.html"><span class="n"><span data-lang="en">Lot 93</span><span data-lang="zh">第93签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">鸾凤翎毛雨压垂</span></a></li>
+<li data-grade="bad"><a href="94.html"><span class="n"><span data-lang="en">Lot 94</span><span data-lang="zh">第94签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">君子莫体小人为</span></a></li>
+<li data-grade="mid"><a href="95.html"><span class="n"><span data-lang="en">Lot 95</span><span data-lang="zh">第95签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">志气功业在朝朝</span></a></li>
+<li data-grade="good"><a href="96.html"><span class="n"><span data-lang="en">Lot 96</span><span data-lang="zh">第96签</span></span><span class="g good"><span data-lang="en">Auspicious</span><span data-lang="zh">上签</span></span><span class="line" lang="zh">巍峨宝塔不寻常</span></a></li>
+<li data-grade="mid"><a href="97.html"><span class="n"><span data-lang="en">Lot 97</span><span data-lang="zh">第97签</span></span><span class="g mid"><span data-lang="en">Neutral</span><span data-lang="zh">中签</span></span><span class="line" lang="zh">当风点烛空疏影</span></a></li>
+<li data-grade="bad"><a href="98.html"><span class="n"><span data-lang="en">Lot 98</span><span data-lang="zh">第98签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">出入求谋事宜迟</span></a></li>
+<li data-grade="bad"><a href="99.html"><span class="n"><span data-lang="en">Lot 99</span><span data-lang="zh">第99签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">勒马持鞭直过来</span></a></li>
+<li data-grade="bad"><a href="100.html"><span class="n"><span data-lang="en">Lot 100</span><span data-lang="zh">第100签</span></span><span class="g bad"><span data-lang="en">Inauspicious</span><span data-lang="zh">下签</span></span><span class="line" lang="zh">佛神灵通与君知</span></a></li>
+</ul>
+</main>
+<footer class="wrap">
+  <a href="https://bwmonastery.org.sg/guanyinqian/lots"><span data-lang="en">BW Monastery</span><span data-lang="zh">吉祥宝聚寺</span></a>
+</footer>
+</body>
+</html>

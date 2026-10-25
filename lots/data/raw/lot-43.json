@@ -1,0 +1,37 @@
+{
+  "n": 43,
+  "zh": {
+    "grade": "上签",
+    "poem": ["天地变通万物全", "自营自养自安然", "森罗万象皆精彩", "事事如心谢圣贤"],
+    "jieyue": ["天生万物", "谋望皆通", "福德相助", "瑞气匆匆"],
+    "shiyi": ["此卦天地交泰之象。", "凡事大吉无危也。"],
+    "explain": "如天地一样善于相容、变通，就能拥有一切；通过自己的劳动自给自足，能确保自己一生平安。这样的人定然满目精彩，事事顺心，也应该真心感谢圣贤赐予生命的美好。",
+    "divination": ["此签为上签。", "天地万物其存亡之道都是相通的，明白了这个道理，就会福德相助，一切都充满了祥瑞之气。"],
+    "items": [
+      ["家宅情况", "吉利"], ["自身情况", "平安"], ["投资理财", "有成"],
+      ["经商买卖", "有利"], ["工农商业", "中平"], ["工作事业", "顺利"], ["学业考试", "顺利"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "男孩"], ["出门在外", "在途中受阻"], ["畜养动物", "一般"],
+      ["寻人", "找到得见"], ["寻失物", "在东方或西方"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "顺利"], ["转换变更", "有利益"],
+      ["治病健康", "宜作大祈福回向"], ["祖坟牌位", "东西方位吉祥"]
+    ],
+    "summary": "此卦天地交泰之象。所祈求之事皆大吉大利，没有危险。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Heaven blends with Earth to create harmony in all lives,", "Where all creatures thrive, grow and survive.", "Marvel at the diversity and variety that is life.", "Thank the deities and wise for all good things in your life."],
+    "interpretation": ["Just as Heavens give life to all, everything is connected.", "Understand this and you will get both fortune and merits to help you in gaining peace and prosperity."],
+    "meaning": ["Heaven and Earth come together to bring peace and harmony.", "(Everything is very auspicious with no threat of danger)."],
+    "explain": "If one can be as compatible  as heaven and earth, complementing each other, and flexible then one can possess everything. Supporting yourself through your own labor, you are more able to ensure a safe, peaceful life for yourself. Such a person will definitely live a life of diversity, with everything going well, which is even more reason to be grateful to the wise sages.",
+    "divination": ["This is an auspicious lot.", "Heaven and earth, all living things are connected in their existence & survival. Once you understand this principle, you will get fortune and merits to make everything full of auspiciousness for you."],
+    "items": [
+      ["Household", "Auspicious"], ["Self", "Safe"],
+      ["Investment and financial management", "Successful"], ["Business", "Profitable"],
+      ["Agriculture and commerce", "Average"], ["Career", "Smooth"], ["Academic and examination", "Smooth"],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Average"],
+      ["Missing person", "Found"], ["Missing things", "East or West"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "Smooth"],
+      ["Change", "Has benefit"], ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Auspicious if in the East or West"]
+    ],
+    "summary": null
+  },
+  "notes": "zh jieyue last half-line read as 瑞气匆匆 as printed (the traditional text has 冲冲; the glyph looks like 匆). zh key printed as 畜养动物; extra 迁徙搬家 item. en explain has a double space in 'compatible  as' as printed."
+}

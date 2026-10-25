@@ -1,0 +1,38 @@
+{
+  "n": 75,
+  "zh": {
+    "grade": "中签",
+    "poem": ["恰如抱虎过高山", "战战兢兢胆碎寒", "幸得山前逢妙手", "方能保得一身安"],
+    "jieyue": ["危危险险", "前程有阻", "若问求谋", "到底辛苦"],
+    "shiyi": ["此卦抱虎过山之象。", "凡事险凶惊恐也。"],
+    "explain": "像抱着老虎爬高山，真是战战兢兢、胆破心寒。幸好在前方遇得高人相助，万事无虞，人也因此一生平安。",
+    "divination": ["此签为中签。", "危险就在眼前，胆战心惊，前程受阻。", "如果要询问如何计谋策划，终究是很辛苦的事。"],
+    "items": [
+      ["家宅情况", "积善祈求保平安"], ["自身情况", "小心提防"], ["投资理财", "宜谨慎小心"],
+      ["经商买卖", "不顺畅"], ["工农商业", "有五成的业绩"], ["工作事业", "善用智慧化解"], ["学业考试", "勇敢面对困境"],
+      ["爱情婚姻", "不太顺利，细心处理"], ["怀孕生育", "防惊吓"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "音信全无"], ["寻失物", "难以找到"], ["官司状况", "亏输"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "宜在原处"], ["疾病情况", "欠佳，宜祈求三宝"], ["祖坟牌位", "宜和合积善祈福。"]
+    ],
+    "summary": "此卦抱虎过山之象。所祈求之事会有凶险，而且令人惊恐。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Like dragging a tiger up the mountains,", "You tremble with fear as you steel your gall.", "Luckily you meet an expert at the front of the mountain,", "You survive safe and sound with a life to dwell."],
+    "interpretation": ["There are dangers and obstacles in your path.", "You will need to labor hard if you want your plans to work."],
+    "meaning": ["Like a man carrying a tiger up the mountains,", "there is fear and danger ahead."],
+    "explain": "There is a feeling of fear and trepidation, like carrying a tiger to climb a mountain, frightening one to death. Fortunately, you meet an expert benefactor up front, so everything is safe and you can lead a safe life.",
+    "divination": ["This is a neutral lot.", "Danger is ahead, tremble with fear, the future is perilous and full of obstacles. If your query is regarding planning and strategy, the answer is: it will be a very difficult process."],
+    "items": [
+      ["Household", "Accumulate merits, pray for protection & blessings"], ["Self", "Be cautious"],
+      ["Investment and financial management", "Take precaution"], ["Business", "Not smooth"],
+      ["Agriculture and commerce", "50% of results"], ["Career", "Use wisdom to resolve"], ["Academic and examination", "Face a difficult situation bravely."],
+      ["Marriage", "Not so smooth, manage carefully"], ["Birth", "Beware of a scare"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Damage"],
+      ["Missing person", "No news"], ["Missing things", "Difficult to find"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Remain at original place"], ["Change", "Remain at original place"],
+      ["Sickness", "Unfavourable, pray to Triple Gems for blessing"], ["Ancestral grave", "Do good, pray for blessings"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' (18 items). zh keys 官司状况 and 疾病情况 copied as printed. en uses 'Traveller'."
+}

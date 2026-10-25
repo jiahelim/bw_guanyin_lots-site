@@ -1,0 +1,37 @@
+{
+  "n": 85,
+  "zh": {
+    "grade": "中签",
+    "poem": ["云深雾罩山前路", "春残花尽又再开", "若得诗书沉梦醒", "贵人指引步天台"],
+    "jieyue": ["老者用求", "春残再开", "欲求名利", "晚遇横财"],
+    "shiyi": ["此封春尽花开之象。", "凡事主后改变也。"],
+    "explain": "云雾笼罩，前途迷茫，春尽花谢又再开。如果现在的酣梦能被诗书唤醒，再遇贵人指引便必定能步入仙境。（“天台”指天宫或天台山。）",
+    "divination": ["此签为中签。", "若是老年人求得此签，则会获得第二春。", "想要求问功名利禄，则要晚年才可获得意外的财富。"],
+    "items": [
+      ["家宅情况", "家运不妙"], ["自身情况", "谨慎防护"], ["投资理财", "需费力获取"],
+      ["经商买卖", "平稳"], ["工农商业", "宜三思而后行"], ["工作事业", "听取经验者指点"], ["学业考试", "宜多用功，没有不劳而获"],
+      ["爱情婚姻", "有些波折"], ["怀孕生育", "女孩"], ["出门在外", "在途中受阻"], ["畜养动物", "好"],
+      ["寻人", "难以找到"], ["寻失物", "过程有凶险"], ["官司诉讼", "反复未定"], ["迁徙搬家", "转换有新气象"], ["转换变更", "全力以赴方有所获"],
+      ["治病健康", "身体恢复进度延滞"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此封春尽花开之象。所祈求之事会在以后的某时有所改善。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Dark clouds and fogs shroud the mountain path.", "Flowers wither and bloom again when spring is nearing its end.", "As families unite, the moon is full again.", "If you wake now from a deep poetic dream,", "You will be led to the steps of Heaven."],
+    "interpretation": ["The aged will bloom again as what remains after Spring does.", "If you seek fame and fortune, you may claim a large fortune in later years."],
+    "meaning": ["End of Spring as flowers bloom.", "Things will prove promising in the end after a change."],
+    "explain": "Dark clouds and mist shroud the road ahead, the future is indistinct, flowers wither and bloom again when spring is nearing its end. If you can wake up from your current poetic dream, and once again receive a nobleman’s guidance, then you will surely enter into a Heavenly paradise.",
+    "divination": ["This is a neutral lot.", "If an elderly person receives this lot, he or she will have a second chance at romance. If you seek fame and wealth, then you may get unexpected fortune in your later years."],
+    "items": [
+      ["Household", "Conditions are not favorable"], ["Self", "Take precautions"],
+      ["Investment and financial management", "Need to put in efforts to get returns"], ["Business", "Smooth"],
+      ["Agriculture and commerce", "Think twice before doing everything"], ["Career", "Experienced person will give advice"], ["Academic and examination", "Work harder, there is nothing for free"],
+      ["Marriage", "Some twists and turns"], ["Birth", "Girl"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Good"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Ominous"], ["Lawsuit", "Recurring, undecided"], ["Migrating and moving house", "Change to get renewal feeling"],
+      ["Change", "Put in all efforts to achieve"], ["Sickness", "Recovery is slow"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "zh shiyi and summary print 此封 (封, likely typo for 卦; confirmed by zoom), copied as printed. zh explain includes the printed parenthetical gloss （“天台”指天宫或天台山。）. Extra item 迁徙搬家 / 'Migrating and moving house' on both pages; zh key 畜养动物; en key 'Traveller'. en Lot Verse has 5 clauses (extra line 'As families unite, the moon is full again.' with no zh counterpart). en section label printed 'Divination of The' (missing 'Lot')."
+}

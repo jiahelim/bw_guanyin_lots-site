@@ -1,0 +1,37 @@
+{
+  "n": 35,
+  "zh": {
+    "grade": "中签",
+    "poem": ["衣冠重整旧家风", "道是无功却有功", "扫却当途荆棘碍", "三人共议事和同"],
+    "jieyue": ["不用忧疑", "自有佳期", "若问前程", "前路可宜"],
+    "shiyi": ["此卦衣冠重整之象。", "凡事先难后易也。"],
+    "explain": "振作精神，改变门风，正说困顿无穷尽时却已有了功业。扫除了人生途中的艰难险阻，如果有人同心合作，事业自然更易成功。",
+    "divination": ["此签为中签。", "用不着忧愁迟疑，一切事情自然会有好的结果。", "如果是问前程，前面的路途还适宜走下去的。"],
+    "items": [
+      ["家宅情况", "繁乱"], ["自身情况", "吉祥"], ["投资理财", "好"],
+      ["经商买卖", "顺利"], ["工农商业", "不利"], ["工作事业", "宜重新整顿"], ["学业考试", "全力以赴，加倍用功"],
+      ["爱情婚姻", "会有阻挠"], ["怀孕生育", "预防受惊"], ["出门在外", "已到达目的地"], ["畜养动物", "兴旺"],
+      ["寻人", "会自己出现"], ["寻失物", "晚些时候找到"], ["官司诉讼", "有理"], ["迁徙搬家", "平安"], ["转换变更", "宜全面更新"],
+      ["治病健康", "应积善祈福庇佑"], ["祖坟牌位", "照旧为宜"]
+    ],
+    "summary": "此卦衣冠重整之象。所祈求之事刚开始会遭遇困境，但之后能化险为夷。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Rebuild your coffers, restore your family name,", "The path ahead is tough but there will be rewards.", "Clear the path of thorns and thistles,", "With consensus, an agreement can be forged."],
+    "interpretation": ["Do not doubt nor worry, a lucky break is ahead.", "If you are asking about your future, you should just proceed."],
+    "meaning": ["The image of reorganization.", "Everything is usually difficult at first but gets easier afterwards."],
+    "explain": "Pull yourself together, change your style, even when the hardship is endless there are already merits. Clear the hardships and obstacles in your life journey, and with consensus among partners, business is more likely to succeed.",
+    "divination": ["This is a neutral lot.", "There is no need to worry or hesitate, everything will naturally turn out well.", "If you are asking about your future, the journey ahead is still suitable."],
+    "items": [
+      ["Household", "Messy"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Good"], ["Business", "Favorable"],
+      ["Agriculture and commerce", "Not favorable"], ["Career", "Need to reorganize"], ["Academic and examination", "Put in best effort and work harder"],
+      ["Marriage", "Obstruction"], ["Birth", "Scare"], ["Traveller", "Has arrived"], ["Husbandry", "Thriving"],
+      ["Missing person", "Will appear on his own"], ["Missing things", "Will be found later"], ["Lawsuit", "Reasonable settlement"], ["Migrating and moving house", "Safe"],
+      ["Change", "Should be changed totally"], ["Sickness", "Do good, pray for blessings & protection"], ["Ancestral grave", "Should remain as it is."]
+    ],
+    "summary": null
+  },
+  "notes": "zh items: key printed as 畜养动物 (lot 1 has 家养动物); extra item 迁徙搬家 / 'Migrating and moving house' present (18 items). 家宅情况 separator looks like a full-width semicolon (；) rather than a colon in the image. en 'Ancestral grave' value ends with a period as printed."
+}

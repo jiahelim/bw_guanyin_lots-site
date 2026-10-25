@@ -1,0 +1,64 @@
+{
+  "n": 84,
+  "zh": {
+    "grade": "下签",
+    "poem": [
+      "因名丧德如何事",
+      "切恐吉中变化凶",
+      "酒醉不知何处去",
+      "青松影里梦朦胧"
+    ],
+    "jieyue": [
+      "寒鱼离水",
+      "美中不足",
+      "若问营谋",
+      "不如莫起"
+    ],
+    "shiyi": [
+      "此卦寒鱼离水之象。",
+      "凡事不可移动也。"
+    ],
+    "explain": "为了名声而丧失品德的事怎么能做，恐怕即使是吉祥的事也会变得很凶险。就像喝醉酒的人分辨不出方向，在迷林中朦胧地做梦。",
+    "divination": [
+      "此签为下签。",
+      "鱼儿离开了寒冷的水里，水的表面看上去很平静，却暗藏凶险。",
+      "如果要问心中想要做成的事，还不如不去动这个心思。"
+    ],
+    "items": [
+      [
+        "",
+        "此签所昭示的是，在这六甲所指的时间里，煞气都很旺盛。因此做任何事情都不吉利，需要做法事来禳除灾祸，以保平安。（“六甲”是古人用天干地支相配来计算时日的方式。其中有甲子、甲戌、甲申、甲午、甲辰和甲寅。）"
+      ]
+    ],
+    "summary": "此卦寒鱼离水之象。所祈求之事不宜改动。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": [
+      "A fame built on tainted deeds,",
+      "Such deeds corrupt all that is good.",
+      "A drunkard knows not where to go.",
+      "Wonders at a loss among the shadows of pines."
+    ],
+    "interpretation": [
+      "The fish out of its icy waters, the situation is imperfect.",
+      "If you are planning something, you are advised to stop."
+    ],
+    "meaning": [
+      "Like a fish isolated from icy waters, one should not make any move."
+    ],
+    "explain": "How can one do things against one's morals for the sake of fame? By doing so, even an auspicious matter may become very dangerous, just as drunkards who can't tell the direction, dreaming hazily in the lost woods.",
+    "divination": [
+      "This is an inauspicious lot.",
+      "The situation depicts a fish that has left the icy cold water. The surface of the water may look tranquil, yet it conceals hidden danger beneath. If you are asking about something that you plan to accomplish, you will be better off not having these thoughts."
+    ],
+    "items": [
+      [
+        "",
+        "This lot infers that during the  times ruled by “Liujia“, the evil energy is very strong, so it is unlucky to do anything, and it is necessary to do puja to avoid calamities and keep safe. (“Liujia” is used in ancient times to refer to the six particular Heavenly and Earthly branches)."
+      ]
+    ],
+    "summary": null
+  },
+  "notes": "SPECIAL LAYOUT: neither page has the usual 事项 / Celestial Message key-value list. Both instead print a single paragraph about 六甲 (Liujia) inauspicious times plus a parenthetical gloss. Stored as one pseudo-pair with the section label as key (['事项', text] / ['Celestial Message', text]); zh text joins the main paragraph (2 printed lines) and the smaller-font parenthetical without separator. zh shiyi line 1 ends with 。 (not ，) as printed. en: closing quote after the first Liujia is printed as an opening quote (“Liujia“), double space 'during the  times', and 'Wonders' (for wanders) in verse, all kept as printed."
+}

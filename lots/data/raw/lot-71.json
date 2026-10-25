@@ -1,0 +1,38 @@
+{
+  "n": 71,
+  "zh": {
+    "grade": "中签",
+    "poem": ["认知苍龙下九衢", "女子当年嫁二夫", "自是一弓施两箭", "骑龙跨马上安居"],
+    "jieyue": ["不出重重", "事由天命", "振放中开", "切宜谨守"],
+    "shiyi": ["此卦一弓架两箭之象。", "凡事再合则吉也。"],
+    "explain": "谁有把提像苍龙马一样在四通八达的路上奔驰。一个女人嫁了两个丈夫，从此像一张弓架两支箭，努力使各方和平相处，方能稳定。",
+    "divination": ["此签为中签。", "如果出不了重重大门紧闭的环境，就应该当听天由命。", "一旦冲出了这个桎梏自己的牢笼，就要谨慎从事。"],
+    "items": [
+      ["家宅情况", "有损失"], ["自身情况", "会惹上是非"], ["投资理财", "会劳心费力"],
+      ["经商买卖", "谨慎小心"], ["工农商业", "收获较晚，劳心费力"], ["工作事业", "功夫不负有心人"], ["学业考试", "勤能补拙，继续努力"],
+      ["爱情婚姻", "先分再合"], ["怀孕生育", "先无后有"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "找到"], ["官司诉讼", "会亏输"], ["迁徙搬家", "吉利"],
+      ["转换变更", "可转变"], ["治病健康", "宜作大祈福回向"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦一弓架两箭之象。所祈求之事需第二次作为，待因缘和合才会吉利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Ride like a swift horse smoothly though all roads.", "Like a woman married to two husbands,", "As a bow fitted with two arrows,", "One must work to place all sides at peace."],
+    "interpretation": ["Regardless of the obstacles you faced, things are predestined, be bold and draw your bow, you will hit the mark, you should still however be on your guard."],
+    "meaning": ["A single bow fitted with two arrows.", "There must be agreement in order for things to turn out well.", "（What is sought needs to be done a second time to be auspicious.）"],
+    "explain": "Who can ride so swiftly in all directions like a dragon and horse. A woman who marries two husbands is like a single bow fitted with two arrows. Only by working hard to make all parties live in peace and harmony can stability be achieved.",
+    "divination": ["This is a neutral lot.", "If you cannot get out of your obstacle-filled environment where the doors are tightly closed, you should just accept your fate. Once you break out of the cage that imprisons you, you must proceed with caution."],
+    "items": [
+      ["Household", "Have damages"], ["Self", "Will get into trouble"],
+      ["Investment and financial management", "It will be a lot of work & effort"], ["Business", "Be careful"],
+      ["Agriculture and commerce", "Late harvest, need hard work"], ["Career", "Everything comes to him who waits."], ["Academic and examination", "Diligence can make up for one's weaknesses, keep working hard."],
+      ["Marriage", "Separate 1st and reunite later"], ["Birth", "Initially none but conceive eventually"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Damage"],
+      ["Missing person", "Found"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Auspicious"], ["Change", "Can change"],
+      ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Should be restored"]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages omit the 寻失物 / 'Missing things' item and include 迁徙搬家 / 'Migrating and moving house' (17 items). zh explain prints 把提 (likely typo for 把握), kept. zh divination 桎梏 is small print and slightly blurry; best reading. en verse 'though' (for 'through') kept as printed. en meaning has full-width parentheses around the last sentence, kept. en uses 'Traveller'."
+}

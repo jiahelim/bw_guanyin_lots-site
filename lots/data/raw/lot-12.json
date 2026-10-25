@@ -1,0 +1,38 @@
+{
+  "n": 12,
+  "zh": {
+    "grade": "上签",
+    "poem": ["否去泰来咫尺间", "暂交君子出于山", "若逢虎兔佳音信", "立志忙中事即闲"],
+    "jieyue": ["换麻得丝", "系人双足", "要见分明", "因祸得福"],
+    "shiyi": ["此卦祸中有福之象。", "凡事先凶后吉也。"],
+    "explain": "厄运离去，好运来到，常发生在转瞬之间；交往上层人物，自己不久就可能从底层得到升迁。待到虎年兔年交好运时，自己为了实现志向所付出的繁忙，立即就会转变为安享成果的闲逸。",
+    "divination": ["此签为上签。", "人生会有大变化，就如用麻布换来丝织品，系在人的双脚上。", "若要知道最后的结果，必定是因祸得福。"],
+    "items": [
+      ["家宅情况", "平安"], ["自身情况", "吉祥"], ["投资理财", "有收获"],
+      ["经商买卖", "延迟进行为佳"], ["工农商业", "顺利"], ["工作事业", "先集善，事必成"], ["学业考试", "先努力，成绩佳"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "男孩"], ["出门在外", "未归"], ["畜养动物", "小心才会吉祥"],
+      ["寻人", "会有音信传来"], ["寻失物", "找到"], ["官司诉讼", "吉利"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "不变为佳"], ["治病健康", "到秋天会好转"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦祸中有福之象。所祈求之事先有凶险，之后会吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Misfortune will pass, luck will soon be with you.", "Trust the gentlemen from the mountaintops, In a time ruled by Tiger or Rabbit, good news beckon.", "Work with determination, success will bring leisure you will soon enjoy."],
+    "interpretation": ["Instead of hemp, you will receive silk for your feet.", "You must be clear-headed as blessings will follow after a disaster."],
+    "meaning": ["This lot relates to a blessing in disguise whenever a misfortune occurs.", "All misfortunes will eventually turn out fine."],
+    "explain": "Bad luck passes, good luck comes, this often occurs in the blink of an eye; befriend people of higher status, and you will soon rise to the top. When good fortune comes in the year of the tiger and rabbit, all efforts made to achieve your ambition will immediately turn into leisure to enjoy the fruits.",
+    "divination": ["This is an auspicious lot.", "There will be a huge change in your life. It is like exchanging linen for silk fabric, adorning your feet. For your final outcome is definitely a blessing in disguise & all will turn out well."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Will reap gains"], ["Business", "Should delay"],
+      ["Agriculture and commerce", "Favorable"], ["Career", "Do good deeds  & results will be successful"],
+      ["Academic and examination", "First work hard, good results will follow"], ["Marriage", "Successful"], ["Birth", "Boy"],
+      ["Traveller", "Yet to return"], ["Husbandry", "Be Cautious"], ["Missing person", "There will be news"],
+      ["Missing things", "Will be found"], ["Lawsuit", "Propitious"], ["Migrating and moving", "Stay put"],
+      ["Change", "Best not to change"], ["Sickness", "Auspicious in Autumn"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en.verse is printed as one wrapped paragraph rather than 4 lines; split at sentence breaks (mid-sentence capital 'In' kept as printed). en Career value has a double space before '&' (kept). en key 'Migrating and moving' (no 'house') as printed."
+}

@@ -1,0 +1,39 @@
+{
+  "n": 24,
+  "zh": {
+    "grade": "下签",
+    "poem": ["不成理论不成家", "水性痴人似落花", "若问君恩须得力", "到头方见事如麻"],
+    "jieyue": ["是非莫说", "必须仔细", "心正理直", "方免灾危"],
+    "shiyi": ["此卦痴人道塞之象。", "凡事守旧待时也。"],
+    "explain": "缺乏认知、无独到见解、随波逐流的愚昧人，会像花儿一样很易衰败。如果想得到生活的恩赐，必须努力，不然到头来才知道所有的事情乱如麻。",
+    "divination": ["此签为下签。", "必须小心，不要轻易议论别人的是非。", "只有心地正直，做事符合情理，才能避免灾难和危险。"],
+    "items": [
+      ["家宅情况", "不安"], ["自身情况", "有危险"], ["投资理财", "有阻碍"],
+      ["经商买卖", "难成功"], ["工农商业", "不太顺利，宜等待时机"], ["工作事业", "避免固执己见而陷入是非"], ["学业考试", "成绩不佳，应多努力。"],
+      ["爱情婚姻", "等待时机"], ["怀孕生育", "应积善祈福庇佑"], ["出门在外", "途中有阻碍"], ["畜养动物", "多灾难"],
+      ["寻人", "有阻碍"], ["寻失物", "难找到"], ["官司诉讼", "亏输"], ["迁徙搬家", "吉利"], ["转换变更", "吉利"],
+      ["治病健康", "立即求医，皈依三宝。"], ["祖坟牌位", "不吉利"]
+    ],
+    "summary": "此卦痴人道塞之象。所祈求之事应安守现状以等待时机。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Poor reasoning cannot stand on its own,", "Like a fallen flower, a fickle fool drifts.", "Only with much effort will any help proffers,", "Else a heap of troubles is all that is on offer."],
+    "interpretation": ["Do not gossip or spread any rumors.  Be careful and meticulous.  Stay upright and honest to keep yourself out of harm’s way."],
+    "meaning": ["The idiotic image of a fool blocked in spiritual practice.", "Always keep the old and wait for the time."],
+    "explain": "A foolish person who is lacking in correct views, unknowledgeable and without direction, will wither just like a flower. In order to have a blessed life, it is necessary to work hard. Or else in the end, everything will be in a mess.",
+    "divination": ["This is an inauspicious lot.", "Be careful, do not gossip or spread rumours about others. As long as you maintain your righteousness and are reasonable, you will be able to avoid disaster and danger."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "In danger"],
+      ["Investment and financial management", "Obstruction"], ["Business", "Difficult to succeed"],
+      ["Agriculture and commerce", "Not smooth, better to wait for right time"], ["Career", "Avoid stubbornness & getting caught up in gossips"],
+      ["Academic and examination", "Results is not favorable, need to work harder"], ["Marriage", "Wait for right time"],
+      ["Birth", "Accumulate merits and pray for blessings"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Disastrous"],
+      ["Missing person", "Obstruction"], ["Missing things", "Difficult to find"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Propitious"],
+      ["Sickness", "Seek immediate medical help and take refuge in the Triple Gems"], ["Ancestral grave", "Not auspicious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items include 迁徙搬家 (not in lot 1) and use 畜养动物 instead of 家养动物; en uses 'Traveller' instead of 'Travel'. en.interpretation keeps the double spaces between sentences as printed."
+}

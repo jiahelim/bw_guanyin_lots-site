@@ -1,0 +1,37 @@
+{
+  "n": 42,
+  "zh": {
+    "grade": "上签",
+    "poem": ["君皇圣后终为恩", "复待祈禳求福增", "一切有情皆受用", "人间天上得期亨"],
+    "jieyue": ["天皇降恩", "始终莫忘", "晨昏礼佛", "可宜烧香"],
+    "shiyi": ["此卦天垂恩泽之象。", "凡事成就大吉也。"],
+    "explain": "君王皇后都赐恩，再祈福做禳解则福德自会增长。一切众生都受到恩泽，天上人间都会万事亨通。",
+    "divination": ["此签为上签。", "上天给我们恩惠，一定不要忘记。", "早晚皆应礼拜佛菩萨，并燃香、上供，以示诚意。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "到了岁末年初则吉祥"], ["投资理财", "还没有获利"],
+      ["经商买卖", "成功"], ["工农商业", "中平，没有大起大落"], ["工作事业", "顺利"], ["学业考试", "成绩理想"],
+      ["爱情婚姻", "一般"], ["怀孕生育", "平安"], ["出门在外", "还在途中"], ["畜养动物", "一般"],
+      ["寻人", "找到人"], ["寻失物", "无法找到"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "宜原地不动"], ["转换变更", "守旧为佳"],
+      ["治病健康", "会化解"], ["祖坟牌位", "平安"]
+    ],
+    "summary": "此卦天垂恩泽之象。所祈求之事会功成名就，而且非常吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Kindness bestowed by regal Kings and Queens,", "Continual prayers bring more merits and blessings.", "Shared with all these blessings you have received,", "Everything would be smooth for you from Earth to Heaven."],
+    "interpretation": ["A favor from Heaven, one should never forget.", "You should offer incense and pray day and night to demonstrate your gratitude."],
+    "meaning": ["Gifts and favors bestowed from heaven.", "Everything will be successful and very auspicious."],
+    "explain": "The King and Queen bestow blessings and if prayers continue, merits and blessings will grow.  All beings will be blessed, and everything will be prosperous in heaven and earth.",
+    "divination": ["This is an auspicious lot.", "Never forget the blessings that heaven has bestowed us.  You should pay your respects to the Buddha and Bodhisattvas day and night, plus offer incense to show your sincerity."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection"], ["Self", "Good luck at the end of the year"],
+      ["Investment and financial management", "Not yet profitable"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Average"], ["Career", "Smooth"], ["Academic and examination", "Pass with good grades"],
+      ["Marriage", "Average"], ["Birth", "Safe"], ["Traveller", "Still on the way"], ["Husbandry", "Average"],
+      ["Missing person", "Found"], ["Missing things", "Cannot find"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "Maintain status quo"],
+      ["Change", "Keep as present"], ["Sickness", "Will resolve"], ["Ancestral grave", "Safe"]
+    ],
+    "summary": null
+  },
+  "notes": "zh key printed as 畜养动物; extra 迁徙搬家 item. Double spaces after periods in en explain/divination kept as printed."
+}

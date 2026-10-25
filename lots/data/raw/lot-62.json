@@ -1,0 +1,38 @@
+{
+  "n": 62,
+  "zh": {
+    "grade": "中签",
+    "poem": ["晨昏全赖佛扶持", "须是逢危却不危", "若得贵人相引处", "那时财帛亦相随"],
+    "jieyue": ["平平稳稳", "四方名显", "改旧从新", "亦无凶险"],
+    "shiyi": ["此卦神佛暗佑之象。", "凡事忍耐大吉也。"],
+    "explain": "时时刻刻得到佛祖庇佑，即使遇到危险也不会产生严重后果。如果再得到贵人提携，财富必定会随之而来。",
+    "divination": ["此签为中签。", "平平稳稳，而且名扬四方。", "即使改变原有状况，开始新的人生，也不会有什么风险。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "吉祥"], ["投资理财", "往西方有收获"],
+      ["经商买卖", "如愿以偿"], ["工农商业", "有七分把握"], ["工作事业", "得贵人相助而化险为夷"], ["学业考试", "下苦功会成功"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "宜积善祈福庇佑"], ["出门在外", "途中受阻"], ["畜养动物", "顺利"],
+      ["寻人", "在西方"], ["寻失物", "找到"], ["官司情况", "会亏输"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "守业为佳"], ["疾病情况", "宜积善祈福庇佑"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦神佛暗佑之象。所祈求之事须暗自忍耐才会吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Chants the words of Buddha mornings and evenings,", "With his support we may meet dangers but will avert all.", "Guidance and support from a distinguished patron,", "Will bring you wealth and gold as well."],
+    "interpretation": ["A steady and stable situation.", "Your name is known in all four directions.", "There is little danger even if you do change the old for the new."],
+    "meaning": ["Unseen divine protection.", "You need not worry about anything but wait and good fortune will come."],
+    "explain": "With the protection of the Buddha at all times, you would not be severely hurt, even if you encounter danger.  Additionally, if you have the help of a patron, wealth and abundance will definitely follow.",
+    "divination": ["This is a neutral lot.", "Steady and well-known, even if you change the original situation and start a new life, there will be no risk."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Gains found in the West"], ["Business", "Get what you wish"],
+      ["Agriculture and commerce", "Get 70% certainty"], ["Career", "Turn dangers into safety, there are benefactors to help"], ["Academic and examination", "Put in hard work to succeed"],
+      ["Marriage", "Successful"], ["Birth", "Do good, pray for blessings & protection"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Smooth"],
+      ["Missing person", "In the West"], ["Missing things", "Found"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Better to keep original business"],
+      ["Sickness", "Do good, pray for blessings & protection"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh keys as printed: 官司情况 (not 官司诉讼), 疾病情况 (not 治病健康), 畜养动物; extra 迁徙搬家 / 'Migrating and moving house' row; en key 'Traveller'. en explain keeps printed double space after 'danger.'."
+}

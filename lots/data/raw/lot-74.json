@@ -1,0 +1,38 @@
+{
+  "n": 74,
+  "zh": {
+    "grade": "下签",
+    "poem": ["似鹄飞来自入笼", "欲得翻身却不通", "南北东西都难出", "此卦诚恐恨无穷"],
+    "jieyue": ["进身不得", "退步为难", "低头直去", "悉在其中"],
+    "shiyi": ["此卦似鹄投笼之象，", "凡事多虚少实也。"],
+    "explain": "像鸿鹄自己飞进樊笼，想再翻身飞出已很难办到。四面八方都没有出路，抽到这支签恐怕也会忧愁无穷。",
+    "divination": ["此签为下签。", "前进已不可能，后退也很困难。", "一切都不管了，低头而去，成败都在其中。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "受困，不顺畅"], ["投资理财", "遭遇小人"],
+      ["经商买卖", "会破财"], ["工农商业", "欠缺运势，收成欠佳"], ["工作事业", "谨慎低调，三思而行"], ["学业考试", "尚需努力"],
+      ["爱情婚姻", "互相伤害，宜谨慎"], ["怀孕生育", "防险，保养身体"], ["出门在外", "在途中受阻"], ["畜养动物", "会发生瘟疫"],
+      ["寻人", "音信全无"], ["寻失物", "过程有凶险"], ["官司状况", "会有祸端，多行善祈福"], ["迁徙搬家", "不顺利，宜留在原地"],
+      ["转换变更", "不宜换，转变也达不到好的结果"], ["疾病情况", "要过些时日才会病愈"], ["祖坟牌位", "速祈福造善"]
+    ],
+    "summary": "此卦似鹄投笼之象。所祈求之事是虚假的成分多，真实的成分少。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Like a snow goose that files blindly into a cage,", "Tried as it may, it cannot be free.", "North, South, East, West, all the ways are blocked.", "This Lot foretells an endless regret."],
+    "interpretation": ["You may neither move forward nor move back.", "Lie low and continue, successes and failures are pre-destined."],
+    "meaning": ["A huge swan plunges itself into the trap.", "Many things are not what they seemed."],
+    "explain": "Just like a swan that flies blindly into a cage, it is difficult to fly out again. There is no escape route in all directions. Hence, this lot foretells endless sorrow.",
+    "divination": ["This is an inauspicious lot.", "Moving forward is impossible and moving backwards is very tough too. All is impossible so quietly accept that success or failure is predestined."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "Trapped & not smooth"],
+      ["Investment and financial management", "Meet vile characters"], ["Business", "Will lose money"],
+      ["Agriculture and commerce", "Lack of luck, poor harvest"], ["Career", "Keep a low profile and be cautious."], ["Academic and examination", "Need to work hard"],
+      ["Marriage", "Mutually harmful, advisable to be cautious"], ["Birth", "Prevent dangers, take care of your health"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Plague will occur"],
+      ["Missing person", "No news"], ["Missing things", "The process is treacherous"], ["Lawsuit", "Expect calamity, do more good & pray for blessings"],
+      ["Migrating and moving house", "Not smooth, remain as is"], ["Change", "Better not to change, no good end even if change"],
+      ["Sickness", "Prolonged"], ["Ancestral grave", "Pray for blessings soonese & do good"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' (18 items). zh keys 官司状况 and 疾病情况 copied as printed. en typos kept as printed: 'files blindly' (flies) in the verse, 'soonese' in Ancestral grave. en uses 'Traveller'."
+}

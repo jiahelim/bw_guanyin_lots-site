@@ -1,0 +1,38 @@
+{
+  "n": 59,
+  "zh": {
+    "grade": "中签",
+    "poem": ["直上重楼去藏身", "四围荆棘绕为林", "天高君命长和短", "得一番成失二人"],
+    "jieyue": ["如醉饮酒", "只宜守旧", "直待时来", "无灾无咎"],
+    "shiyi": ["此卦守旧随时之象。", "凡事待时则吉。"],
+    "explain": "想上高楼深院去躲避灾难，四周的荆棘却仍然如同丛林。若要向他人求助，也应选好对象，切不可再陷入得一失二之境。",
+    "divination": ["此签为中签。", "在是非不明之时，应该像喝醉了还要饮酒一样装糊涂。", "宜保持现状，只等待时来运转，这样才能无灾无祸。"],
+    "items": [
+      ["家宅情况", "宜积善祈福庇佑"], ["自身情况", "平安"], ["投资理财", "平常"],
+      ["经商买卖", "成功"], ["工农商业", "成绩平平"], ["工作事业", "守业为佳"], ["学业考试", "学习有成"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "宜积善祈福庇佑"], ["出门在外", "到达目的地"], ["畜养动物", "非常顺利"],
+      ["寻人", "会有阻碍"], ["寻失物", "有凶险"], ["官司诉讼", "会亏输"], ["迁徙搬家", "吉利"],
+      ["转换变更", "宜守不宜变"], ["治病健康", "应积善祈福庇佑"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦守旧随时之象。所祈求之事需等待时机的到来，才会有好结果。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["High up in the tower one hides away,", "Surrounded by a forest of thorns and thistles.", "Fate decrees the long and short of life,", "You may lose more than what you gain."],
+    "interpretation": ["Like a drunken man (who is not sober), it is better to lie still and wait for the right time in order to avoid any disaster or be blamed for anything."],
+    "meaning": ["Stay put and wait for a time when things will be more auspicious."],
+    "explain": "Want to climb up a tower or go into a deep courtyard to avoid a disaster but the surrounding is full of obstacles and thorns like in a jungle. If you wish to seek assistance, ensure you pick the right person to avoid being in a losing state.",
+    "divination": ["This is a neutral lot.", "When things are unclear, it is best to pretend to be confused like a drunkard, and maintain the status quo. Wait for the right time, till a turn of fortune comes then you will be able to avoid disasters and accidents."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection"], ["Self", "Safe"],
+      ["Investment and financial management", "Normal"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Average results"], ["Career", "Keeping your business is good"], ["Academic and examination", "Successful"],
+      ["Marriage", "Not suitable"], ["Birth", "Do good, pray for blessings & protection"], ["Traveller", "Arrived at destination"], ["Husbandry", "Very smooth"],
+      ["Missing person", "Obstruction"], ["Missing things", "Ominous"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Remain unchanged"],
+      ["Sickness", "Do good, pray for blessings & protection"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra 迁徙搬家 / 'Migrating and moving house' row; zh key 畜养动物; en key 'Traveller'."
+}

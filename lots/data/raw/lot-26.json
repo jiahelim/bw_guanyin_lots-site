@@ -1,0 +1,39 @@
+{
+  "n": 26,
+  "zh": {
+    "grade": "中签",
+    "poem": ["上下传来事转虚", "天边接得一封书", "书中许我功名遂", "直到终时亦是虚"],
+    "jieyue": ["上下心烦", "求闲不闲", "欲望功名", "守旧得安"],
+    "shiyi": ["此卦虚名之象。", "凡事虚多实少宜守旧也。"],
+    "explain": "天边传来好消息，说我定能功成名就，所有的传言皆不真实，到最后，也是一派虚言。",
+    "divination": ["此签为中签。", "想得太多，心中自然烦恼丛生。想求得安闲，当然就不会安闲。", "对于功名利禄等欲望，保持平常心态，则能获得宁静安详。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "平安"], ["投资理财", "会有阻碍"],
+      ["经商买卖", "难以成功"], ["工农商业", "难以成功，宜守"], ["工作事业", "保持清明理智，安住现况"], ["学业考试", "宜多行善祈福"],
+      ["爱情婚姻", "有挑战"], ["怀孕生育", "女孩"], ["出门在外", "将有音信传来"], ["畜养动物", "可养"],
+      ["寻人", "在西方"], ["寻失物", "难以找到"], ["官司情况", "亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜守不改变"],
+      ["疾病情况", "积善祈求庇佑保平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦虚名之象。所祈求之事不切实际的多，实实在在的少，宜守旧。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A message distorted as it travels down from the top,", "From the edge of heaven, a letter is received.", "It claims to offer rank and honor to one self,", "Yet proves to be only false in the end."],
+    "interpretation": ["Burden oneself with too many thoughts and concerns, hence one is not able to enjoy being idle.  Instead of concerning yourself with rank and title, it is better to stay and manage your present affairs well."],
+    "meaning": ["An empty name and title. Many things are false and not what they seem and you should keep to conventions and traditions."],
+    "explain": "Excellent news spread, saying that I will succeed and achieve fame. However, all these rumours are untrue and groundless, it is just gossip in the end.",
+    "divination": ["This is a neutral lot.", "Thinking too much and you will be filled with afflictions. One will not have the peace and serenity that one desires. With regards to desires for fame and wealth, maintain a neutral mind and you will be able to get peace and bliss."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection"], ["Self", "Safe"],
+      ["Investment and financial management", "Obstruction"], ["Business", "Difficult to succeed"],
+      ["Agriculture and commerce", "Difficult to succeed, stay put"], ["Career", "Good to keep clear and sensible, stay in the present situation."],
+      ["Academic and examination", "Should do more good deeds and pray for blessings."],
+      ["Marriage", "Challenging"], ["Birth", "Girl"], ["Traveller", "Have news"], ["Husbandry", "May rear"],
+      ["Missing person", "West"], ["Missing things", "Difficult to find"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Don’ t change"],
+      ["Sickness", "Do more good, pray for blessings"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh item keys differ from lot 1: 官司情况 (not 官司诉讼), 疾病情况 (not 治病健康), 畜养动物, plus 迁徙搬家. en 'Don’ t change' printed with a stray space after the apostrophe, kept as printed."
+}

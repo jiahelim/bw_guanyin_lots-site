@@ -1,0 +1,38 @@
+{
+  "n": 70,
+  "zh": {
+    "grade": "下签",
+    "poem": ["朝朝恰似采花蜂", "飞出西南又走东", "春尽花残无觅处", "此心不变旧行踪"],
+    "jieyue": ["无觅春色", "久雨不晴", "求谋用事", "不如安静"],
+    "shiyi": ["此卦蜜蜂采花之象。", "凡事劳心费力也。"],
+    "explain": "天天都像采花的蜜蜂，东西南北奔波忙碌。春尽花残无处采花了，却依旧在奔波忙碌。",
+    "divination": ["此签为下签。", "没有了春天的景色，天气也久雨不晴，命如蜜峰的人哪有什么收获呢？", "这种情况下费心谋事，还不如安心静养，等待时机。"],
+    "items": [
+      ["家宅情况", "有口舌之争"], ["自身情况", "会遭遇小人"], ["投资理财", "会破财"],
+      ["经商买卖", "小心对方会反复不定、出尔反尔"], ["工农商业", "劳心费力而无果"], ["工作事业", "难以如愿"], ["学业考试", "未达预期所求"],
+      ["爱情婚姻", "不稳定"], ["怀孕生育", "虚，宜多行善"], ["出门在外", "毫无音信"], ["畜养动物", "有损失"],
+      ["寻人", "毫无踪影"], ["寻失物", "不能找到"], ["官司诉讼", "会亏输"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "会劳心力，不宜动"], ["治病健康", "有阻碍应多祈福"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦蜜蜂采花之象。所祈求之事还需劳心费力。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Working day after day like a busy bee,", "Flying everywhere from flower to flower.", "Nowhere to go when Spring ends with the flowers gone,", "The heart remains and your steps the same."],
+    "interpretation": ["As the colors of Spring fade, the rain begins to fall in torrents.", "It’s better to withdraw and lead a quiet existence than to scheme and plan with vigor."],
+    "meaning": ["Like a busy bee,", "you need to labor hard to earn your living."],
+    "explain": "Like the busy bees that fly from flower to flower, each day, busy gathering honey from east to west, north to south. Even when spring is gone and the flowers have faded, they are still busy rushing about.",
+    "divination": ["This is an inauspicious lot.", "Without the colours of spring and the rain falling unceasingly, what can a man whose life is busy as a bee gain anything? Under such a circumstance, instead of wasting your effort to plot and scheme, it is better to lead a quiet life, and wait for the opportunity."],
+    "items": [
+      ["Household", "Disputes and quarrels"], ["Self", "Will meet vile characters"],
+      ["Investment and financial management", "Will lose money"], ["Business", "Be careful that the other party will be inconsistent and go back on his words."],
+      ["Agriculture and commerce", "It's takes a lot of effort but it can't be done"], ["Career", "Cannot be as wished"], ["Academic and examination", "Cannot meet expectations"],
+      ["Marriage", "Unstable"], ["Birth", "False, should do more good"], ["Traveller", "No news"], ["Husbandry", "Damage"],
+      ["Missing person", "No news"], ["Missing things", "Cannot be found"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Have to work hard and should not move"],
+      ["Sickness", "Obstruction, need to pray more for blessings"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' on both pages (18 items). zh divination prints 蜜峰 (typo for 蜜蜂), kept as printed. en 'It's takes' typo kept. en uses 'Traveller'."
+}

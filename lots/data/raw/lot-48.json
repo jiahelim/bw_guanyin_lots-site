@@ -1,0 +1,37 @@
+{
+  "n": 48,
+  "zh": {
+    "grade": "中签",
+    "poem": ["鹍鸟秋来化作鹏", "好游快乐喜飞胜", "翱翔万里云霄去", "余外诸禽总不能"],
+    "jieyue": ["鹍鸟化鹏", "万禽不能", "桂香一折", "福禄自增"],
+    "shiyi": ["此卦鹍鹏兴变之象。", "凡事有变动大吉。"],
+    "explain": "像鹍鸟在秋季转化变成大鹏，快乐地在天空中遨游。青云直上，出类拔萃，其余的飞禽都赶不上。",
+    "divination": ["此签为中签。", "只有鹍这种鸟能化为大鹏，其他的飞禽都不能。", "到时攀折桂枝，登上高位，自然会增禄增福。"],
+    "items": [
+      ["家宅情况", "顺利"], ["自身情况", "吉祥"], ["投资理财", "到秋天时兴旺"],
+      ["经商买卖", "交易宜推迟"], ["工农商业", "一般"], ["工作事业", "勇敢度越考验"], ["学业考试", "勤奋以累积实力"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "平安"], ["出门在外", "在途中受阻"], ["畜养动物", "春天时顺利"],
+      ["寻人", "找到"], ["寻失物", "在西方"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜保持现状"],
+      ["治病健康", "积善祈求庇佑保平安"], ["祖坟牌位", "平安"]
+    ],
+    "summary": "此卦鹍鹏兴变之象。所祈求之事有所变动则会非常吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Come Autumn, the partridge will transform into a Roc.", "With great joy and cheer, it flies up.", "Soaring high and higher among the clouds,", "Beyond the reach of many other fowls."],
+    "interpretation": ["A partridge is transformed into a Roc – something not for every bird.  Pluck a branch from the heavenly tree and your wealth and fortune will multiply on their own."],
+    "meaning": ["A partridge is transformed into a Roc.  A dramatic change will bring great fortune."],
+    "explain": "In autumn, a partridge is transformed into a large Roc, soaring joyfully in the air, straight up the sky, excelling, which the other birds could not catch up with.",
+    "divination": ["This is a neutral lot.", "Only a partridge can transform into a Roc but no other birds can. When the time comes to ascend to a high position, wealth and blessings will keep on growing naturally."],
+    "items": [
+      ["Household", "Smooth"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Favorable in Spring"], ["Business", "Should be delayed"],
+      ["Agriculture and commerce", "Average"], ["Career", "Bravely go through the test"], ["Academic and examination", "Work hard and accumulate strength"],
+      ["Marriage", "Not suitable"], ["Birth", "Safe"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Favorable in Spring"],
+      ["Missing person", "Found"], ["Missing things", "In the West"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "Keep as original"], ["Change", "Maintain status quo"],
+      ["Sickness", "Accumulate merits, pray for protection & blessings"], ["Ancestral grave", "Safe"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. zh item 家宅情况 is followed by a semicolon-like mark (；) instead of ：on the page; normalized as key/value. 鹍 read from image (bird radical; standard form of this poem). zh 投资理财 says 秋天 (autumn) but en says 'Favorable in Spring' — copied as printed."
+}

@@ -1,0 +1,38 @@
+{
+  "n": 65,
+  "zh": {
+    "grade": "下签",
+    "poem": ["眼前欢喜未为欢", "亦不危时亦不安", "割肉补疮为甚事", "不如守旧待时光"],
+    "jieyue": ["知止则止", "知宽自宽", "割自身肉", "疾痛一般"],
+    "shiyi": ["此卦割肉补疮之象。", "凡事只宜守旧待时。"],
+    "explain": "眼前的欢喜并非真正的欢喜，虽无危险，但也不可能安宁。为什么要做割肉补疮的事呢？还不如因循守旧等待时机。",
+    "divination": ["此签为下签。", "该止则止，能宽则宽，无论割自身哪一处的肉，引起的疼痛也是一样的。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "与人有口舌之争"], ["投资理财", "不顺利"],
+      ["经商买卖", "会遇到小人"], ["工农商业", "有所亏损"], ["工作事业", "稳扎稳打"], ["学业考试", "有惊无险"],
+      ["爱情婚姻", "互相包容方能长久"], ["怀孕生育", "有虚惊"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "会招惹是非"], ["寻失物", "难找到"], ["官司情况", "会亏输"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "按兵不动"], ["疾病情况", "会反复"], ["祖坟牌位", "应多积善祈福"]
+    ],
+    "summary": "此卦割肉补疮之象。所祈求之事只宜安于现状，等待时机。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["What you see as happy before may not be so,", "Neither danger nor safety will it be.", "Cutting one’s own flesh to patch one’s injury is dumb,", "Better to remain and wait for the time."],
+    "interpretation": ["An intelligent man knows when to stop, when to proceed.", "Cutting one’s flesh only brings more pain and little relief."],
+    "meaning": ["A foolish man cuts his own flesh to patch his injury, inflicting more injuries on himself.", "One should maintain status quo and wait for the right time."],
+    "explain": "The joy at hand is not genuine, although there is no danger, it does not mean that you get peace. Why do you cut your flesh to patch a sore? A wiser course is to make no change and wait for the right opportunity.",
+    "divination": ["This is an inauspicious lot.", "A man of prudence knows when to stop and when to forgive. No matter which part of the body you cut, the pain inflicted is still the same."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "Disputes and quarrels"],
+      ["Investment and financial management", "Not favorable"], ["Business", "Will meet vile character"],
+      ["Agriculture and commerce", "Loss"], ["Career", "Steady"], ["Academic and examination", "There is a scare but not danger"],
+      ["Marriage", "Tolerance by both union can last long"], ["Birth", "There is a scare"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Damage"],
+      ["Missing person", "Invites gossips and rumours"], ["Missing things", "Difficult to find"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Stay put"],
+      ["Sickness", "Will recur"], ["Ancestral grave", "Do good, pray for blessings"]
+    ],
+    "summary": null
+  },
+  "notes": "zh keys as printed: 官司情况, 疾病情况, 畜养动物; extra 迁徙搬家 / 'Migrating and moving house' row; en key 'Traveller'; en 'Birth' is last in left column. Curly apostrophes kept as printed."
+}

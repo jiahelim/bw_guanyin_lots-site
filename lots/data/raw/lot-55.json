@@ -1,0 +1,37 @@
+{
+  "n": 55,
+  "zh": {
+    "grade": "中签",
+    "poem": ["父贤传子子传孙", "衣食丰隆只靠天", "堂上椿萱人快乐", "饥饭渴饮困时眠"],
+    "jieyue": ["接竹引泉", "流传不绝", "君子谋望", "无不欣悦"],
+    "shiyi": ["此卦接竹引泉之象。", "凡事谋望大吉也。"],
+    "explain": "贤能代代相传，都过着丰衣足食的生活，这都是天的护佑。父母安康全家欢乐，饿了吃，渴了喝，困倦就睡。",
+    "divination": ["此签为中签。", "就像用竹节引泉水一样，一节接一节，连续不断。贤能的人会筹谋未来。", "因此，无不有令人欣喜欢悦的结果。"],
+    "items": [
+      ["家宅情况", "不是很安宁"], ["自身情况", "记得兑现曾对菩萨许下的承诺"], ["投资理财", "顺利"],
+      ["经商买卖", "成功"], ["工农商业", "有利可图"], ["工作事业", "顺利"], ["学业考试", "佳"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "平安"], ["出门在外", "还在途中"], ["畜养动物", "有损失"],
+      ["寻人", "难找到"], ["寻失物", "找到"], ["官司诉讼", "会有贵人相助"], ["迁徙搬家", "吉利"], ["转换变更", "心想事成"],
+      ["治病健康", "宜作大祈福回向"], ["祖坟牌位", "安稳吉祥"]
+    ],
+    "summary": "此卦接竹引泉之象。所祈求之事若能想得更远则大吉大利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A virtuous father will teach his descendants virtues.", "Heaven will provide plenty for their wants and needs.", "The elders in the family are happy and fulfilled.", "Hunger is filled, thirst is quenched, the tired may rest,"],
+    "interpretation": ["Like bamboo poles arranged to connect to a spring, this will survive generations.  Whatever an upright man pursues, it will be filled with great joy and happiness."],
+    "meaning": ["Stack the bamboo to lead towards a stream.", "What you aspire will be fortuitously achieved."],
+    "explain": "It is the blessing from Heaven that a virtuous father can pass on his virtues to descendants with generations all living a life of abundance. Parents are healthy, the family is happy, with sufficient food to eat, drink and can rest when tired.",
+    "divination": ["This is a neutral lot.", "It is like drawing water from spring by joining sections of bamboo together.  The able man knows to plan for his future.  Hence the ending is always filled with joy and happiness."],
+    "items": [
+      ["Household", "Not so peaceful"], ["Self", "Remember to repay your vows made to Bodhisattvas"],
+      ["Investment and financial management", "Smooth"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Profitable"], ["Career", "Smooth"], ["Academic and examination", "Excellent"],
+      ["Marriage", "Suitable"], ["Birth", "Safe"], ["Traveller", "On the way"], ["Husbandry", "Damage"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Will be found"], ["Lawsuit", "You will receive help from benefactors"], ["Migrating and moving house", "Auspicious"], ["Change", "All wishes come true"],
+      ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Safe & Auspicious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. en verse last line ends with a comma (not a period) as printed. zh explain starts '贤能代代相传' as printed."
+}

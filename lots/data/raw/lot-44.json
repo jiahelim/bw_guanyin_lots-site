@@ -1,0 +1,37 @@
+{
+  "n": 44,
+  "zh": {
+    "grade": "中签",
+    "poem": ["棋逢敌手着相宜", "黑白盘中未决时", "皆因一着知胜败", "须教自有好推宜"],
+    "jieyue": ["欲求心事", "恰如围棋", "到底胜利", "宜用心机"],
+    "shiyi": ["此卦棋逢敌手之象。", "凡事用机关则吉也。"],
+    "explain": "棋逢对手，实力相当，正处于难分胜负之时，而胜败常常只在一步棋，所以此时自己必须想出获胜的高招。",
+    "divination": ["此签为中签。", "心中所求的事，恰如下围棋一样，要想最后取得胜利，应该多用一些心机。"],
+    "items": [
+      ["家宅情况", "非常顺利"], ["自身情况", "平稳"], ["投资理财", "顺心合意"],
+      ["经商买卖", "顺利"], ["工农商业", "多方思考规划才会顺利"], ["工作事业", "善用智慧化解困难"], ["学业考试", "尚需多加努力"],
+      ["爱情婚姻", "双方还不合适"], ["怀孕生育", "女孩"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "有阻碍"], ["寻失物", "无法找到"], ["官司诉讼", "宜和解"], ["迁徙搬家", "应原地不动"], ["转换变更", "宜维持现况"],
+      ["治病健康", "积善祈求庇佑保平安"], ["祖坟牌位", "宜保持原状"]
+    ],
+    "summary": "此卦棋逢敌手之象。所祈求之事宜多用心筹划，则吉祥稳当。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Worthy opponents competing to win,", "Undecided yet in the board of black and white.", "A single move can decide the victorious,", "Watch closely how your enemy steps and mind yours."],
+    "interpretation": ["Seeking what you want will be like playing a game of chess.  To win in the end, you should plan and strategize."],
+    "meaning": ["Two strong opponents set against each other, like a game between two chess masters.", "Whatever you wish for, put more thoughts to plan.", "(More thoughtful planning will be auspicious & smooth)."],
+    "explain": "When meeting one’s match in a chess game, it is difficult to determine who will emerge victorious.  Win or loss often depends on one move.  Therefore, you must think of a tactical move to win.",
+    "divination": ["This is a neutral lot.", "Seeking what you wish is like playing a game of chess. To achieve that final victory, you need to use more effort to strategize."],
+    "items": [
+      ["Household", "Very smooth"], ["Self", "Stable"],
+      ["Investment and financial management", "As desired"], ["Business", "Smooth"],
+      ["Agriculture and commerce", "Strategize carefully and you will succeed."], ["Career", "Use your wisdom to solve difficulties"], ["Academic and examination", "Still need to work harder"],
+      ["Marriage", "Not a match yet"], ["Birth", "Girl"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Have damages"],
+      ["Missing person", "Obstruction"], ["Missing things", "Cannot be found"], ["Lawsuit", "Should settle"], ["Migrating and moving house", "Remain where you are"],
+      ["Change", "Maintain status quo"], ["Sickness", "Do good, pray for blessings & protection"], ["Ancestral grave", "Keep as original"]
+    ],
+    "summary": null
+  },
+  "notes": "zh key printed as 畜养动物; extra 迁徙搬家 item. en 'Agriculture and commerce' value ends with a period as printed; curly apostrophe in 'one’s'; double spaces after periods kept."
+}

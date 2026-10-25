@@ -1,0 +1,38 @@
+{
+  "n": 78,
+  "zh": {
+    "grade": "上签",
+    "poem": ["冷水未烧白沸汤", "不寒不热有温凉", "要行天下无他事", "为有身中百艺强"],
+    "jieyue": ["囚人逢赦", "病遇良医", "求财谋望", "贵人指示"],
+    "shiyi": ["此封平善用事之象。", "凡事平稳大吉也。"],
+    "explain": "冷水还没烧成开水，既不冷也不烫，还只是温凉的，不会有什么力道。而人要通畅地行走天下，全赖自身本领高强。",
+    "divination": ["此签为上签。", "犯案入狱会遇到大赦，生病了会得到良医救治。", "要寻求财富和前程，则需得到贵人的指点。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "吉祥"], ["投资理财", "满足心愿"],
+      ["经商买卖", "成功"], ["工农商业", "顺景如意"], ["工作事业", "事业发展顺利"], ["学业考试", "学业平稳顺利"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "男孩"], ["出门在外", "已到达目的地"], ["畜养动物", "兴旺"],
+      ["寻人", "会自己出现"], ["寻失物", "即将见到"], ["官司诉讼", "会撤诉"], ["迁徙搬家", "非常吉利"],
+      ["转换变更", "事事吉祥"], ["治病健康", "安然平安"], ["祖坟牌位", "大吉大利"]
+    ],
+    "summary": "此封平善用事之象。所祈求之事平稳处理则会大吉大利。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The cold water has yet to come to a steaming boil.", "Neither cold nor hot, just cool enough.", "To roam the world with success,", "Strong skills you will need to have."],
+    "interpretation": ["A criminal obtains a general pardon.", "The sick will meet a good physician.", "Guidance from distinguished people will help you in your pursuits for wealth and success."],
+    "meaning": ["Go about your usual affairs with compassion,", "everything will turn out steady and auspicious."],
+    "explain": "Before the water is boiled, it is neither cold nor hot. It is just lukewarm. At this stage, the water is not too useful. For one to roam the world without hindrance, it all depends on one's strong skills and capabilities.",
+    "divination": ["This is an auspicious lot.", "Prisoners will be pardoned and the sick will meet and be cured by a good doctor. To seek wealth and a better prospect, you will need guidance from benefactors."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Satisfy your wishes"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Everything goes well"], ["Career", "Smooth career development"], ["Academic and examination", "Stable & smooth"],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "Has arrived"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Appear on own"], ["Missing things", "Will soon find"], ["Lawsuit", "Will drop the lawsuit"],
+      ["Migrating and moving house", "Very auspicious"], ["Change", "All auspicious"],
+      ["Sickness", "Safe and sound"], ["Ancestral grave", "Great luck"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' (18 items). zh shiyi and summary print 此封 (typo for 此卦), kept. zh item 顺景如意 (for 顺境) kept as printed. en uses 'Traveller'."
+}

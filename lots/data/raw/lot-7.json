@@ -1,0 +1,39 @@
+{
+  "n": 7,
+  "zh": {
+    "grade": "下签",
+    "poem": ["奔波阻隔重重险", "带水拖泥又渡山", "更望他乡求用事", "千乡万里未能还"],
+    "jieyue": ["退身可得", "进步为难", "只宜守旧", "莫望高攀"],
+    "shiyi": ["此卦拖泥带水之象。", "凡事守旧则吉也。"],
+    "explain": "前行的路上险阻重重，自己需要解决的问题没有解决好，却去登越高山。想到外地谋求发展，其结果必定会为万事缠绕难以归还。",
+    "divination": ["此签为下签。", "后退一步自然一切可得，想前进则困难重重。", "应该保持现况，切不可好高骛远。"],
+    "items": [
+      ["家宅情况", "不太吉利"], ["自身情况", "应积善祈福"], ["投资理财", "下半年大吉"],
+      ["经商买卖", "一般"], ["工农商业", "不太顺利，应积善祈福"], ["工作事业", "宜脚踏实地守业"], ["学业考试", "应刻苦勤学"],
+      ["爱情婚姻", "应积善祈福"], ["怀孕生育", "应积善祈福"], ["出门在外", "劳累奔波，阻碍重重"], ["畜养动物", "不利"],
+      ["寻人", "难以得见"], ["寻失物", "找不到"], ["官司诉讼", "亏输"], ["迁徙搬家", "吉利"],
+      ["转换变更", "维持现状为吉"], ["治病健康", "宜积善祈福增福寿"], ["祖坟牌位", "应多积善祈福"]
+    ],
+    "summary": "此卦拖泥带水之象。所祈求之事宜维持现状则吉利。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["The way ahead is blocked and perilous,", "As the waters drag the earth to the mountains.", "If you seek work in foreign parts,", "None you will find, come home instead."],
+    "interpretation": ["Should retreat as progress will be tough.  Should stay where you are and do not be too ambitious."],
+    "meaning": ["You are plodding along muddy waters.  Change is not desired and you should stay where you are."],
+    "explain": "The path before you is filled with danger. Your problems on hand are not resolved and yet you seek to climb higher. Your wish to venture in foreign lands will end up with many obstacles and it is better to return home.",
+    "divination": ["This is an inauspicious lot.", "Take a step back and things will be achievable, moving forward will be filled with many struggles.  You should maintain your status quo and avoid being too ambitious."],
+    "items": [
+      ["Household", "Not so favorable"], ["Self", "Accumulate merits and pray for blessings"],
+      ["Investment and financial management", "Auspicious in 2nd half of year."], ["Business", "Average"],
+      ["Agriculture and commerce", "Not favorable, accumulate merits & pray for blessings"], ["Career", "Be down-to-earth, stay put in job"],
+      ["Academic and examination", "Should study hard"], ["Marriage", "Accumulate merits and pray for blessings"],
+      ["Birth", "Accumulate merits and pray for blessings"], ["Traveller", "Tired and lots of hindrances"],
+      ["Husbandry", "Not favorable"], ["Missing person", "Difficult to find"], ["Missing things", "Not found"],
+      ["Lawsuit", "Loss"], ["Migrating and moving house", "Propitious"], ["Change", "Maintain status quo"],
+      ["Sickness", "Need do good, pray for blessings"], ["Ancestral grave", "Do more good & pray for blessings"]
+    ],
+    "summary": null
+  },
+  "notes": "Double spaces after colons in en items trimmed; double spaces after periods in en interpretation/meaning/divination kept as printed. 好高骛远: 骛 is best reading (could be 鹜 at this resolution)."
+}

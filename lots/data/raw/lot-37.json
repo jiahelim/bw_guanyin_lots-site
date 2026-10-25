@@ -1,0 +1,37 @@
+{
+  "n": 37,
+  "zh": {
+    "grade": "中签",
+    "poem": ["欲待身安运泰时", "风中灯烛不相宜", "不如收拾深堂坐", "庶免光摇静处明"],
+    "jieyue": ["静处安身", "待命守时", "动惹非福", "守旧相宜"],
+    "shiyi": ["此卦风摇灯烛之象。", "凡事守常则吉也。"],
+    "explain": "待到身心安宁、时运来临的时候，又将面临现实名利与长远理想之间的抉择。与其左右不定，不如放弃谋求名利，寻求更深层次修炼。或许在灯光的摇曳中心境平静了，一切也就看明白了。",
+    "divination": ["此签为中签。", "在宁静淡泊外安身，等待改变命运的时机。如果逆潮流而动，必定不会带来福分。只有保持现状，才不会产生疑惧。"],
+    "items": [
+      ["家宅情况", "保持现状"], ["自身情况", "平常"], ["投资理财", "有收获"],
+      ["经商买卖", "难以成功"], ["工农商业", "等待时机"], ["工作事业", "时机未到，尚无所成"], ["学业考试", "成绩不稳定，要留神"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "积善祈求庇佑保平安"], ["出门在外", "会有音信传来"], ["畜养动物", "平安"],
+      ["寻人", "找到"], ["官司诉讼", "宜和解"], ["迁徙搬家", "应原地不动"], ["转换变更", "守旧"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "万勿更改"]
+    ],
+    "summary": "此卦风摇灯烛之象。所祈求之事固守着原来的做法，则会吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["With health, peace and fortune, one wonders what would be next.", "Like a lighted candle flickering in the wind,", "Better to retire and stay within,", "As a quiet and humble life is just as bright."],
+    "interpretation": ["Retire to a quiet and secluded place.  Do nothing but wait.", "Any movement may bring misfortune so your best guard is to be still and stay calm."],
+    "meaning": ["A lighted candle flickering in the wind.", "It is best to withdraw and maintain status quo."],
+    "explain": "When peace of mind and good fortune come, we will face the choice between real fame & fortune and long-term ideals. Instead of being uncertain, it is better to give up the pursuit of fame and fortune and seek deeper cultivation, perhaps in the flickering of the lights, the mind becomes calm and everything will be clear.",
+    "divination": ["This is a neutral lot.", "Stay at a quiet, secluded place and wait for the opportunity to change your destiny.  If you go against the trend, it will definitely not bring blessings. Only by maintaining the status quo, will there be no doubts."],
+    "items": [
+      ["Household", "Maintain status quo"], ["Self", "Average"],
+      ["Investment and financial management", "Will reap gains"], ["Business", "Difficult to succeed"],
+      ["Agriculture and commerce", "Wait for the right time"], ["Career", "Time has not come, so will not have success yet"], ["Academic and examination", "Grades are unstable, be careful"],
+      ["Marriage", "Not suitable"], ["Birth", "Accumulate merits and pray for blessings"], ["Traveller", "There will be news"], ["Husbandry", "Peaceful"],
+      ["Missing person", "Will be found"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "To remain at original place"],
+      ["Change", "Maintain status quo"], ["Sickness", "Do vast offerings for blessings & dedications"], ["Ancestral grave", "Do not change"]
+    ],
+    "summary": null
+  },
+  "notes": "No 寻失物 / 'Missing things' item on either page (17 items); extra 迁徙搬家 item present; key printed as 畜养动物. zh divination reads 在宁静淡泊外安身 as printed (外 is likely a typo for 处). en verse lines 1-2 wrap mid-sentence in the image; split at clause ends. en divination 'Only by...' starts a new line in the image but appears to be a wrap, kept in the same string (matching the zh paragraph)."
+}

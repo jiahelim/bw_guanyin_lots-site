@@ -1,0 +1,37 @@
+{
+  "n": 87,
+  "zh": {
+    "grade": "中签",
+    "poem": ["人行半岭日衔山", "峻岭崖岩未可安", "仰望上天为护佑", "此身犹在太平间"],
+    "jieyue": ["凿石见玉", "淘沙见金", "须要着力", "只是劳心", "另：困厄之境。无处安身。求神庇佑。祈可放心。"],
+    "shiyi": ["此卦淘沙见金之象。", "凡事有贵人之兆也。"],
+    "explain": "才行至半山腰，太阳便要下山了，在悬崖陡岩间行走，不要期望会很平安。只有仰头祈求上天保佑，才可能平平安安。",
+    "divination": ["此签为中签。", "如果想要凿开石头见到宝玉，淘尽黄沙见到黄金，则必须下大功夫，", "当然这更是费心劳力的事情了。"],
+    "items": [
+      ["家宅情况", "宜积善祈福庇佑"], ["自身情况", "不太顺利"], ["投资理财", "劳心"],
+      ["经商买卖", "谨慎小心"], ["工农商业", "不宜过于急进，要谨慎"], ["工作事业", "全力以赴方有所获"], ["学业考试", "宜努力以赴，加倍用功"],
+      ["爱情婚姻", "会有阻碍"], ["怀孕生育", "虚。多祈福保平安"], ["出门在外", "到达目的地的时间延迟"], ["畜养动物", "平稳"],
+      ["寻人", "还未找到"], ["寻失物", "难寻"], ["官司状况", "会亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜守不变"],
+      ["疾病情况", "欠佳，需要调养治疗"], ["祖坟牌位", "顺利，没有阻碍"]
+    ],
+    "summary": "此卦淘沙见金之象。所祈求之事有显贵腾达的兆头。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["One is barely half-way up the mountains when the sun begins to set.", "Dangerously stranded among perilously steep cliffs,", "Skyward, one looks to heaven for protection,", "And refuge on earth will soon be given."],
+    "interpretation": ["Jade is revealed only after the stone is chiseled.", "Gold is found after the sand is sifted.", "You need to put in some effort.", "(Alternative: Trapped in a bad situation with no safe place to hide. Seek protection from the Gods and you would be fine.)"],
+    "meaning": ["Sifts the sand to find gold for one caught in a dangerous situation.", "A good omen where you can expect help from someone of influence."],
+    "explain": "The mountaineer only reaches the middle ridge when the sun begins to set, so do not expect to be safe when walking along the steep perilous cliffs. The only way to be safe and sound is to pray for blessings to Heaven and ask the gods for help.",
+    "divination": ["This is a neutral lot.", "If you want to chisel the stone to see the precious jade, pan the sand to see the gold, you need to make great efforts.", "Of course this is Of course, this is more labour-intensive."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection"], ["Self", "Not so smooth"],
+      ["Investment and financial management", "Laborious"], ["Business", "Be cautious"],
+      ["Agriculture and commerce", "Don't be too hasty, be cautious"], ["Career", "Put in your best effort"], ["Academic and examination", "Do your best & work harder"],
+      ["Marriage", "Obstruction"], ["Birth", "False alarm, pray for blessing"], ["Traveller", "Delayed"], ["Husbandry", "Stable"],
+      ["Missing person", "Yet to encounter"], ["Missing things", "Challenging"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Maintain status quo"],
+      ["Change", "Better not change"], ["Sickness", "Unfavourable"], ["Ancestral grave", "No obstruction"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 解曰 has an extra smaller line '另：困厄之境。无处安身。求神庇佑。祈可放心。' below the four half-lines; added as a 5th jieyue string. en Interpretation has a matching parenthetical '(Alternative: ...)' kept as its own string. zh item keys differ from usual: 官司状况 (not 官司诉讼), 疾病情况 (not 治病健康); 畜养动物; extra 迁徙搬家. zh divination line 2 ends with ， then a deliberate line break, kept as 3 entries. en verse line 2/3 printed as 'cliffs,  Skyward' (double space, capital S mid-line) split at the clause. en divination printed duplication 'Of course this is Of course, this is more labour-intensive.' kept as printed. en key 'Traveller'."
+}

@@ -1,0 +1,37 @@
+{
+  "n": 36,
+  "zh": {
+    "grade": "中签",
+    "poem": ["眼前病讼不须忧", "宝地资财尽可求", "恰似猿猴今锁脱", "自归山洞去来悠"],
+    "jieyue": ["脱除了事", "且自宽心", "待得时来", "堪寻正路"],
+    "shiyi": ["此卦猿猴脱锁之象。", "凡事先难后易也。"],
+    "explain": "如果目前有疾病或官司，也不必忧虑，求财也能轻易获得。正如猴子挣脱了锁链，回到山洞自由游乐。",
+    "divination": ["此签为中签。", "摆脱了困境，除却了烦恼之事，暂且把心放宽，等到机会来临，就可走上正道。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "平安"], ["投资理财", "有大利益"],
+      ["经商买卖", "等待时机"], ["工农商业", "来日可发迹"], ["工作事业", "待时运转"], ["学业考试", "宜全力以赴，加倍用功"],
+      ["爱情婚姻", "还未成功"], ["怀孕生育", "积善祈求庇佑保平安"], ["出门在外", "已到达目的地"], ["畜养动物", "平常"],
+      ["寻人", "自己会出现"], ["寻失物", "在比较远的地方"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"], ["转换变更", "宜守，等待时机"],
+      ["治病健康", "目前欠安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦猿猴脱锁之象。所祈求之事刚开始会有些困难，之后能顺利缓解。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Fret not of illnesses and disagreements before you,", "Riches and resources are there for your picking.", "Like a monkey that’s freed of its golden chain,", "Roaming freely among mountains and caves."],
+    "interpretation": ["Get rid of your worries and troubles.  Broaden your mind.", "Wait for the right time and the right path will open for you."],
+    "meaning": ["A monkey escaped from its chain.  Things will get easier once you have overcome the difficulties and hardships."],
+    "explain": "If you are sick or involved in a lawsuit, there is no need to worry, even wealth can easily be obtained. Just like a monkey that is free from its chain, it is able to return, roam freely in its mountain cave.",
+    "divination": ["This is a neutral lot.", "Once your worries and troubles are overcome, open your mind and wait for the right opportunity to come, then you can embark on the right path to success."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "Safe"],
+      ["Investment and financial management", "Reap big gains"], ["Business", "Wait for right timing"],
+      ["Agriculture and commerce", "Will prosper in the future"], ["Career", "Wait for a change to succeed"], ["Academic and examination", "Put in best effort and work harder"],
+      ["Marriage", "Not ready yet"], ["Birth", "Do good & pray for blessing, protection"], ["Traveller", "Has arrived"], ["Husbandry", "Normal"],
+      ["Missing person", "Appear on own"], ["Missing things", "In a far place"], ["Lawsuit", "Reasonable settlement"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Wait for right timing"], ["Sickness", "Lacks safety"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items: key printed as 畜养动物; extra item 迁徙搬家 present. en uses a curly apostrophe in 'that’s'. Double spaces after periods in en interpretation/meaning kept as printed."
+}

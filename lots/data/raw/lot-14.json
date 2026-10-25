@@ -1,0 +1,38 @@
+{
+  "n": 14,
+  "zh": {
+    "grade": "中签",
+    "poem": ["宛如仙鹤出樊笼", "脱得樊笼路路通", "南北东西无阻碍", "任君直上九霄宫"],
+    "jieyue": ["任意无虑", "路有亨通", "随心所欲", "逍遥如人"],
+    "shiyi": ["此卦仙鹤离笼之象。", "凡事先凶后吉也。"],
+    "explain": "像仙鹤飞出樊笼一样摆脱困境，改变厄运，就能事事顺心，处处顺畅。自己也必能海阔天空无阻碍，任你翱翔，青云直上。",
+    "divination": ["此签为中签。", "应少些顾虑，行事也应更随意些，这样一路上才会顺通畅达，随心所欲，也必然能因此活得逍遥自在。"],
+    "items": [
+      ["自身情况", "不太安宁"], ["自身情况", "应当要还愿答谢"], ["投资理财", "心想事成"],
+      ["经商买卖", "成功"], ["工农商业", "年底会获利"], ["工作事业", "坚定信念会有所获"], ["学业考试", "努力必成"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "男孩"], ["出门在外", "见到"], ["畜养动物", "有损失"],
+      ["寻人", "会有很多阻碍"], ["寻失物", "在东南方向"], ["官司诉讼", "适宜和解"], ["迁徙搬家", "吉利"],
+      ["转换变更", "吉祥"], ["治病健康", "宜作大祈福回向"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦仙鹤离笼之象。所祈求之事先有凶险，之后会吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Just like the divine crane freed from its cage,", "One is released to fly wherever you may.", "North, South, East, West, all paths are free,", "Even up to the clouds on nine if you please."],
+    "interpretation": ["Everything is laid out. Every road is free.", "Go as your heart desires, be free."],
+    "meaning": ["Analogy to the divine crane who has left its cage and regained its freedom.", "All things will eventually turn out well."],
+    "explain": "Just like the divine crane escaping from its cage, finally breaking free from bondage, your bad luck will change, and everything will go well, according to your wishes. You will be able to welcome a bright and unimpeded future, soar up in the sky without hindrance.",
+    "divination": ["This is a neutral lot.", "You ought to worry less, life can be easier and smooth, then your path will be incomparably smooth, go as your heart desires, naturally you will live life with ease."],
+    "items": [
+      ["Household", "Not very peaceful"], ["Self", "Repay wish doing good"],
+      ["Investment and financial management", "All as wished"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Fruitful towards end of year"], ["Career", "Gains with firm faith"],
+      ["Academic and examination", "Success with hard work"], ["Marriage", "Suitable"], ["Birth", "Boy"],
+      ["Traveller", "Will be found"], ["Husbandry", "Damage"], ["Missing person", "Will have many obstructions"],
+      ["Missing things", "Southeast"], ["Lawsuit", "Should settle"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Auspicious"], ["Sickness", "Do vast offerings & dedications to get well"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items: first key printed as 自身情况 (duplicated; en has Household, so likely a typo for 家宅情况) - preserved as printed. 解曰 last half-line printed 逍遥如人 (as printed; possibly intended 逍遥如仙). en interpretation/meaning have double spaces after periods in image, normalized to single. Extra 迁徙搬家 / Migrating row present."
+}

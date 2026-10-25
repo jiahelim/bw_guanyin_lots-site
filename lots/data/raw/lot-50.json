@@ -1,0 +1,37 @@
+{
+  "n": 50,
+  "zh": {
+    "grade": "中签",
+    "poem": ["五湖四海任君行", "高挂帆篷自在撑", "若得顺风随即至", "满船宝贝喜层层"],
+    "jieyue": ["自在悠游", "不须着力", "财禄重重", "无不欣美"],
+    "shiyi": ["此卦顺风撑船之象。", "凡事皆顺大吉也。"],
+    "explain": "你可以高挂船帆，在五湖四海自由航行。如果获得顺风相送，便能很快达到目的，收获满船财宝满心欢喜。",
+    "divination": ["此签为中签。", "逍遥自在，悠闲惬意，用不着劳心费力，即可获得财源滚滚。", "一切都能欢欣甜美。"],
+    "items": [
+      ["家宅情况", "顺利"], ["自身情况", "吉祥"], ["投资理财", "向西寻求有利"],
+      ["经商买卖", "交易宜推迟"], ["工农商业", "下半年会吉利"], ["工作事业", "与人和善、顺势而为则顺心如意"], ["学业考试", "发挥所长，有好成绩"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "平安"], ["出门在外", "在途中受阻"], ["畜养动物", "春天时节兴旺"],
+      ["寻人", "会自己出现"], ["寻失物", "在西方"], ["官司诉讼", "会亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜保持现状"],
+      ["治病健康", "会自行化解"], ["祖坟牌位", "向南方位则吉利"]
+    ],
+    "summary": "此卦顺风撑船之象。所祈求之事皆顺利吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Sail as you please, across the world’s lakes and oceans,", "With sails hoisted high, the ship moves on.", "A good wind will soon herald its arrival,", "A ship’s hull fills with troves of treasures."],
+    "interpretation": ["A life of ease and comfort.  A lot of wealth will come to you even with minimum effort.  This is an enviable position."],
+    "meaning": ["A ship sailing with a favorable wind.", "Everything will turn out well and be fortuitous."],
+    "explain": "You can sail at ease to any part of the world in a high-hoisted sail. If wind conditions are favourable, you will reach your goal speedily and gain a ship full of treasures with great joy.",
+    "divination": ["This is a neutral lot.", "Life is carefree and relax, you will get a lot of wealth without any effort, everything goes well and joyful for you."],
+    "items": [
+      ["Household", "Smooth"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Favorable in the West"], ["Business", "Should delay"],
+      ["Agriculture and commerce", "Favorable in later half of year"], ["Career", "Be kind and go with the flow, you will have what you wish."], ["Academic and examination", "Give full play to your strengths and you will have good results"],
+      ["Marriage", "Not suitable"], ["Birth", "Safe"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Prosperous in Spring"],
+      ["Missing person", "Will appear on own"], ["Missing things", "In the West"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Maintain status quo"], ["Change", "Remain as present"],
+      ["Sickness", "Will clear up"], ["Ancestral grave", "Favorable if in the West"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. zh 祖坟牌位 says 向南方位 (south) but en says 'Favorable if in the West' — copied as printed."
+}

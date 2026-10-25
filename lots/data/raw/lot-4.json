@@ -1,0 +1,39 @@
+{
+  "n": 4,
+  "zh": {
+    "grade": "上签",
+    "poem": ["千年古镜复重圆", "女再求夫男再婚", "自此门庭重改换", "更添福禄在儿孙"],
+    "jieyue": ["淘沙见金", "骑龙踏虎", "虽是劳心", "于中有补"],
+    "shiyi": ["此卦古镜重圆之象。", "凡事劳心有贵也。"],
+    "explain": "如千年古镜重圆复明，女子能得佳婿，男子能娶贤妻，从此家事面貌一新，儿孙更是能福禄双至。",
+    "divination": ["此签为上签。", "如在沙中淘金一般，必历经大风大浪。", "虽然劳心费力，但其中必然有所收获。"],
+    "items": [
+      ["家宅情况", "欠吉利"], ["自身情况", "下半年兴旺"], ["投资理财", "下半年兴旺"],
+      ["经商买卖", "能成功"], ["工农商业", "顺利"], ["工作事业", "坚定信念，终有所成"], ["学业考试", "多用功有好成绩"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "积善祈求保平安"], ["出门在外", "一路顺利"], ["畜养动物", "可养"],
+      ["寻人", "得见"], ["寻失物", "过些时候寻获"], ["官司诉讼", "不顺利"], ["迁徙搬家", "宜待在原地"],
+      ["转换变更", "守旧为宜"], ["治病健康", "应积善祈福"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦古镜重圆之象。所祈求之事在历经艰辛与奋斗后，会收获好成果。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The ancient broken mirror is now restored,", "The couple, separated, unites once more.", "Henceforth, a new home is brought,", "For their off-springs, more riches and joy be had."],
+    "interpretation": ["Sift the sands to find the gold.  Ride the dragon to trample the tiger.  Although the process is tedious, mistakes can be put right."],
+    "meaning": ["A broken mirror is pieced together.", "All efforts to make up for past mistakes, although tedious and laborious, will be fruitful."],
+    "explain": "An ancient mirror is restored. A woman finds a good son-in-law and a man marries a virtuous wife. From then on, the family will have a change in fortune and future generations will enjoy more riches and prosperity.",
+    "divination": ["This is an auspicious lot.", "Just like sifting sand to find gold, one must first undergo challenges and hardships. Although the effort is laborious & painstaking, it will definitely be rewarding in the end."],
+    "items": [
+      ["Household", "Conditions are not favorable"], ["Self", "Prosperous in second half of the year"],
+      ["Investment and financial management", "Prosperous in second half of the year"], ["Business", "Can succeed"],
+      ["Agriculture and commerce", "Smooth"], ["Career", "A firm conviction will succeed"],
+      ["Academic and examination", "Work harder to achieve good grades"], ["Marriage", "Successful"],
+      ["Birth", "Do more good deeds, pray for blessing and safety"], ["Travel", "Safe"], ["Husbandry", "Can rear"],
+      ["Missing person", "Will be found"], ["Missing things", "Will be found eventually"], ["Lawsuit", "Not favourable"],
+      ["Migrating & moving house", "Stay put"], ["Change", "Maintain status quo"],
+      ["Sickness", "Do more good deeds and pray for blessings"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en items: image runs 'Career: A firm conviction will succeed Academic and examination: ...' together with no line break; split into two items. 'Missing  person' has a double space in the image (normalized in key). Double spaces after periods in en.interpretation kept as printed."
+}

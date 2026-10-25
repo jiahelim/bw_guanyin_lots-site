@@ -1,0 +1,38 @@
+{
+  "n": 5,
+  "zh": {
+    "grade": "中签",
+    "poem": ["一锥凿地要求泉", "努力求之得最难", "无意偶然遇知己", "相逢携手上青天"],
+    "jieyue": ["欲望心事", "西方可求", "不如莫动", "立地可谋"],
+    "shiyi": ["此卦锥地求泉之象。", "凡事先难后易也。"],
+    "explain": "像用锤子凿地寻找泉水一样，虽努力谋求却难达到目的。而无意间却能偶然得遇知己，并因此携手获得较大成功。",
+    "divination": ["此签为中签。", "切不可认为心中的愿望到别处谋求就可能实现。还不如不动，立足当前反而可以很快实现。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "吉利"], ["投资理财", "顺利"],
+      ["经商买卖", "成功"], ["工农商业", "掌握时机，尽早规划"], ["工作事业", "有贵人协助"], ["学业考试", "宜务实地学习"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "平安"], ["出门在外", "行程延后"], ["畜养动物", "会有损失"],
+      ["寻人", "见到"], ["寻失物", "找不到"], ["官司诉讼", "宜解不宜结"], ["迁徙搬家", "吉利"],
+      ["转换变更", "适宜"], ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦锥地求泉之象。所祈求之事刚开始会面临困难，之后会顺利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Hammer and chisel the ground for a needed spring,", "With much hard work, seeking fresh water is difficult.", "Suddenly, unexpectedly, a friend comes along,", "take your hand, and together you head up to the blue sky."],
+    "interpretation": ["What you seek can be found in the west.  Stay where you are and things will fall in place."],
+    "meaning": ["A man digs deep into the grounds trying to find water.  He realizes that with hard work, success can actually be obtained with ease."],
+    "explain": "To find spring water using a hammer and chisel is hard work and difficult to achieve your goal.  Unexpectedly, you meet an old friend by chance, and by working together, you achieve greater success.",
+    "divination": ["This is a neutral lot.", "Do not think that your wish will come true by seeking it in other places. You will be better off not moving. By staying where you are now, your wish may be fulfilled soon."],
+    "items": [
+      ["Household", "Accumulate merits and pray for blessings"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Favourable"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Seize the moment, Plan early"], ["Career", "A nobleman helps you to get ahead"],
+      ["Academic and examination", "Practical, down-to-earth learning"], ["Marriage", "Suitable"], ["Birth", "Safe"],
+      ["Traveller", "Delayed"], ["Husbandry", "Have damages"], ["Missing person", "Will be found"],
+      ["Missing things", "Cannot be found"], ["Lawsuit", "Can settle"], ["Migrating and moving house", "Propitious"],
+      ["Change", "Suitable"], ["Sickness", "Do vast offerings & dedications to get well"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Many en items have double spaces after the colon in the image (trimmed). Double spaces after periods in en.interpretation/meaning/explain kept as printed."
+}

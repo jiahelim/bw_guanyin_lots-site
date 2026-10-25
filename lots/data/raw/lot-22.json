@@ -1,0 +1,39 @@
+{
+  "n": 22,
+  "zh": {
+    "grade": "中签",
+    "poem": ["旱时田里皆枯槁", "谢天甘雨落淋淋", "花果草木皆润泽", "始知一雨值千金"],
+    "jieyue": ["田蚕倍熟", "命运渐来", "病遇良药", "行人便回"],
+    "shiyi": ["此卦旱逢甘雨之象。", "凡事难中有救也。"],
+    "explain": "干旱致使田间禾苗都干枯了，一场好雨降临，花果树木都得到滋润，才明白这一场雨价值千金，非常可贵。",
+    "divination": ["此签为中签。", "农作物的收成翻倍，好运也渐渐来临。", "如果得病也必能得遇良药，外出远行的人也即将返回。"],
+    "items": [
+      ["家宅情况", "积善祈求平安"], ["自身情况", "平安"], ["投资理财", "颇有收获"],
+      ["经商买卖", "会推迟"], ["工农商业", "获利"], ["工作事业", "获得协助而平安"], ["学业考试", "多努力自有成果"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "女孩"], ["出门在外", "在途中有阻道"], ["畜养动物", "顺利"],
+      ["寻人", "难找到"], ["寻失物", "在西方"], ["官司诉讼", "吃亏"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "不宜改变"], ["治病健康", "宜祈福回向，康复"], ["祖坟牌位", "安好吉祥"]
+    ],
+    "summary": "此卦旱逢甘雨之象。所祈求之事即使遭遇困境也能获得救护。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The paddies were dried during the drought.", "Thanks to the heavens, a heavy shower finally came.", "The flowers, fruits and plants are now nourished,", "Worth its weight in gold, this shower promised."],
+    "interpretation": ["A bountiful crop harvest. Luck is gradually improving.", "The sick will find a beneficial cure.", "The traveler may return."],
+    "meaning": ["This lot uses the image of drought meeting sweet rain to imply there is salvation in all difficulties."],
+    "explain": "The drought has caused the grain crop seedlings to wither. After a bout of rain, the trees, flowers and fruits are nourished. From this we understood that this bout of rain is worth a thousand gold and is very precious.",
+    "divination": ["This is a neutral lot.", "Harvesting of farmed crops will be doubled. Good luck is also around the corner. Should you be sick, you will certainly get good medicine Those who travel afar will also return soon."],
+    "items": [
+      ["Household", "Do more good deeds, pray for blessing and safety"], ["Self", "Safe"],
+      ["Investment and financial management", "Quite rewarding"], ["Business", "Will postpone"],
+      ["Agriculture and commerce", "Will have gains"], ["Career", "Will get help & relief"],
+      ["Academic and examination", "Need to work harder and rewards will follow"],
+      ["Marriage", "Suitable"], ["Birth", "Girl"], ["Traveller", "Will face an obstruction enroute"],
+      ["Husbandry", "Smooth"], ["Missing person", "Difficult to find"], ["Missing things", "In the West"],
+      ["Lawsuit", "Loss"], ["Migrating and moving house", "Better to stay put"], ["Change", "Should not change"],
+      ["Sickness", "Do vast offerings & dedications to get well"], ["Ancestral grave", "Auspicious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh divination printed as three deliberate lines. zh 出门在外 value 在途中有阻道 as printed. en divination missing full stop before 'Those' preserved. en double spaces after periods normalized. Extra 迁徙搬家 / Migrating row present."
+}

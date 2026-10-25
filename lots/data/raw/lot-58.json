@@ -1,0 +1,38 @@
+{
+  "n": 58,
+  "zh": {
+    "grade": "中签",
+    "poem": ["直言说话君须记", "莫在他乡求别艺", "切须守己旧生涯", "除此其余都不利"],
+    "jieyue": ["得住且住", "可取且踞", "莫宜别事", "只宜守旧"],
+    "shiyi": ["此卦守旧待时之象。", "凡事守旧则吉也。"],
+    "explain": "须牢记，要说直话，莫在外地从事别的职业，一定要守本分操旧业。除此之外，干什么职业都不吉利。",
+    "divination": ["此签为中签。", "能够停下就停下，能有所得就该安定下来，不要再强求其他任何的东西。", "只要保持住现状就可以。"],
+    "items": [
+      ["家宅情况", "平常"], ["自身情况", "不顺利"], ["投资理财", "吉利"],
+      ["经商买卖", "成功"], ["工农商业", "表现中规中矩"], ["工作事业", "多听取长者建议"], ["学业考试", "勤能补拙"],
+      ["爱情婚姻", "会有阻碍"], ["怀孕生育", "会受惊吓"], ["出门在外", "到达的时间延迟"], ["畜养动物", "有损失"],
+      ["寻人", "找到"], ["寻失物", "过程有凶险"], ["官司诉讼", "会亏输"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "保持现况为佳"], ["疾病情况", "欠安，宜保养身体"], ["祖坟牌位", "修改风水为宜"]
+    ],
+    "summary": "此卦守旧待时之象。所祈求之事宜保持现状，则会吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A straight counsel you must bear in mind,", "Do not pursue other trades in foreign soil.", "Maintain your lot, practice what was your trade,", "For anything else will have no place."],
+    "interpretation": ["You should stop when you need to.", "Be content with your lot, there is no better position to occupy.", "Let things remain as-is and do not concern yourself with other matters."],
+    "meaning": ["Stay where you are and wait.", "Your patience will be well rewarded in time to come."],
+    "explain": "Bear in mind to speak honestly and plainly. Refrain from taking up other jobs or businesses in a foreign land and keep dutifully to your original trade. There should be no other trades better than this.",
+    "divination": ["This is a neutral lot.", "If possible, stop for a while, settle down and be content with your lot.  Do not insist on anything more, just remain status quo."],
+    "items": [
+      ["Household", "Normal"], ["Self", "Not favorable"],
+      ["Investment and financial management", "Propitious"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Performance is quite satisfactory"], ["Career", "Listen to the advice of the elders"], ["Academic and examination", "Can make up with diligence"],
+      ["Marriage", "Meet Obstacles"], ["Birth", "Will be frightened"], ["Traveller", "Delayed arrival"], ["Husbandry", "Damage"],
+      ["Missing person", "Can be found"], ["Missing things", "Ominous"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "keep to the present"],
+      ["Sickness", "Lack safety, need to take care of health"], ["Ancestral grave", "Should change"]
+    ],
+    "summary": null
+  },
+  "notes": "zh: 官司诉讼 is followed by a full-width semicolon (；) instead of colon in the image; key normalized. Sickness key printed as 疾病情况 (not 治病健康). Extra 迁徙搬家 row; key 畜养动物. en divination has double space after 'lot.' as printed; key 'Traveller'."
+}

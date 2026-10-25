@@ -1,0 +1,39 @@
+{
+  "n": 28,
+  "zh": {
+    "grade": "中签",
+    "poem": ["东边月上正婵娟", "顷刻云遮亦暗存", "或有圆时还有缺", "更言非者亦闲言"],
+    "jieyue": ["浮云遮月", "不须疑惑", "等待云收", "便见收获"],
+    "shiyi": ["此卦月被云遮之象。", "凡事昏迷未定也。"],
+    "explain": "东边天空月色正好，顷刻间却被浮云遮蔽变暗。正如圆缺明暗是互相转化的，眼前的这些非议也不过是闲言罢了。",
+    "divination": ["此签为中签。", "即使月亮被浮云遮蔽了，也不要产生疑惑。等到浮云散去，自然会见到好结果。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "积善祈求保平安"], ["投资理财", "有阻碍"],
+      ["经商买卖", "吉利"], ["工农商业", "未见成效，等待时机"], ["工作事业", "广集善缘，待机行事"], ["学业考试", "不佳，需倍努力"],
+      ["爱情婚姻", "有挑战"], ["怀孕生育", "预防惊吓"], ["出门在外", "停留无法前进"], ["畜养动物", "不利"],
+      ["寻人", "难以找到"], ["寻失物", "在西方"], ["官司诉讼", "亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜不变动"],
+      ["治病健康", "难痊愈，应多积福"], ["祖坟牌位", "更改为佳"]
+    ],
+    "summary": "此卦月被云遮之象。所祈求之事目前仍处于迷茫而不稳定的状态。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The pale moon rises from the east,", "Obscured at times by the clouds, unseen yet present.", "At times, it’s round. At times, it’s crescent.", "The truth, hidden by idle talk, is not present."],
+    "interpretation": ["The fleeting clouds cover the moon.  Do not hesitate.", "When the clouds have passed, you will see the rewards."],
+    "meaning": ["The moon is obscured by clouds.  Things are hazy and uncertain at the moment."],
+    "explain": "The moonlight in the eastern sky was so beautiful, but suddenly it was obscured by the floating clouds and became dark. Just like the natural transformation of the moon, which interchanges between being bright when it is full and dark when it is not, the criticisms in front of us are merely idle words.",
+    "divination": ["This is a neutral lot.", "Even though the moon is covered by the floating clouds, do not have any doubts. When the clouds disperse, you will naturally be able to see good results."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "Do more good, pray for blessings"],
+      ["Investment and financial management", "Obstruction"], ["Business", "Propitious"],
+      ["Agriculture and commerce", "Can’t see results, wait for right timing"], ["Career", "Gather good karma and wait for the opportunity to act."],
+      ["Academic and examination", "Not favorable, need to work harder"], ["Marriage", "Challenging"],
+      ["Birth", "There is a scare"], ["Traveller", "Stay unable to move forward"], ["Husbandry", "Not favorable"],
+      ["Missing person", "Difficult to find"], ["Missing things", "West"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Best not to change"],
+      ["Sickness", "Difficult to recover, need to gather blessings"], ["Ancestral grave", "Change"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 投资理财 row printed with a narrow colon and no gap ('投资理财:有阻碍'); split into key/value normally. en.interpretation is printed on two lines, one per sentence group; split accordingly."
+}

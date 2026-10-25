@@ -1,0 +1,37 @@
+{
+  "n": 41,
+  "zh": {
+    "grade": "中签",
+    "poem": ["无限好言君须记", "恰如认贼作为子", "莫贪眼下有些甜", "更虑他时还受苦"],
+    "jieyue": ["只这一着", "君子莫错", "牢记在心", "不生寂寞"],
+    "shiyi": ["此卦认贼作子之象。", "凡事认真防假。"],
+    "explain": "特别好的话你该记住，更不要干出认贼作子的事情。不要贪图眼前的一点儿甜头，要考虑将来怎么收场。",
+    "divination": ["此签为中签。", "认贼作子这些事，凡是有眼光的人都不会这么做，要时时牢记在心，这样才不会在某个时候心生担忧。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "平常"], ["投资理财", "固守现状，等待时机"],
+      ["经商买卖", "难于成功"], ["工农商业", "有阻碍，需谨慎"], ["工作事业", "宜谨慎，不宜冒进"], ["学业考试", "宜多用功，勤能补拙"],
+      ["爱情婚姻", "未相合"], ["怀孕生育", "男孩，预防受惊"], ["出门在外", "已到达目的地"], ["畜养动物", "平安"],
+      ["寻人", "自己会出现"], ["寻失物", "不能找到"], ["官司诉讼", "适宜和解"], ["迁徙搬家", "积善祈求庇佑保平安"], ["转换变更", "宜维持现况"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "中平，无大好大坏"]
+    ],
+    "summary": "此卦认贼作子之象。所祈求之事需认真辨识，以防虚假。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Endless meaningful words you do take in,", "Yet you mistaken the thief for a son.", "Do not hunger after the spoils you see now,", "Look into the past for lessons you must remember."],
+    "interpretation": ["A single mistake can translate into a lasting regret.", "Remember this and you will not be left out."],
+    "meaning": ["Like a man who is tricked into treating a thief like his own son.  Be careful not to be deceived by falsehood."],
+    "explain": "You must remember especially good advice given. More importantly, do not treat a thief as your son. Do not be deceived by a little goodness you see in the present. It is necessary to consider carefully about the future consequences.",
+    "divination": ["This is a neutral lot.", "Any wise man with foresight would not make the mistake of treating a thief as a son.  This you should always remember.  Then you won’t have to worry all the time."],
+    "items": [
+      ["Household", "Restless"], ["Self", "Average"],
+      ["Investment and financial management", "Maintain status quo and wait for the right opportunity"], ["Business", "Difficult to succeed"],
+      ["Agriculture and commerce", "Obstacles, need to be cautious"], ["Career", "Be cautious, don't take risks"], ["Academic and examination", "Work harder, make up for your weaknesses with diligence"],
+      ["Marriage", "Not a match yet"], ["Birth", "Boy, prevent fright"], ["Traveller", "Arrive destination"], ["Husbandry", "Safe"],
+      ["Missing person", "Appear on own"], ["Missing things", "Cannot be found"], ["Lawsuit", "Should settle"], ["Migrating and moving house", "Accumulate merits, pray for blessings and protection"],
+      ["Change", "Maintain status quo"], ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Average"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 出门在外 value has an extra leading space in the image (trimmed). zh key printed as 畜养动物; extra 迁徙搬家 item. en: 'Sickness' and 'Ancestral grave' run together with no line break in the image ('...dedications Ancestral grave: Average'); split into two items. en mixes curly (won’t) and straight (don't) apostrophes as printed."
+}

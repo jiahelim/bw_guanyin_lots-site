@@ -1,0 +1,28 @@
+{
+  "n": 91,
+  "zh": {
+    "grade": "中签",
+    "poem": ["好展愁眉出众来", "前途改变喜多财", "一条大路如天阔", "凡有施财尽畅怀"],
+    "jieyue": ["一条大路", "可向前行", "心中用事", "只可向前"],
+    "shiyi": ["此卦前途显达之象。", "凡事通泰大吉也。"],
+    "explain": "善于调整心态，就会超越众人，前景更会因此改变，财富也会变得更加丰盈。面对宽阔的大路，如果能施舍此钱财，心情自会更加欢畅。",
+    "divination": ["此签为中签。", "面前是一条大道，尽可前行，无须担忧。", "心中所希望要做的事情，也只管用心去做。"],
+    "items": [
+      ["", "此签昭示的是诸事如心，一切顺利，吉祥而且昌盛。"]
+    ],
+    "summary": "此卦前途显达之象。所祈求之事会顺畅通泰，非常吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Unfold your frowns and step up,", "Your future will change and wealth will beckon.", "Along a wide path broad as the sky,", "Give what you have and paths will open."],
+    "interpretation": ["Move ahead along a wide road without any hesitation.", "Whatever you plan for, just proceed, things will progress."],
+    "meaning": ["A sign that your future is illustrious and you may gain influence.", "Everything will be smooth sailing and very auspicious."],
+    "explain": "Be adept at adjusting your mind-set and you will surpass everyone else, the outlook will change and wealth will become more abundant. The road ahead is broad, and if you can practice generosity and donate money, you will feel even more joyous.",
+    "divination": ["This is a neutral lot.", "Ahead is a wide clear path, you can move forward without any worries. Proceed whole-heartedly on what you have set out to accomplish."],
+    "items": [
+      ["", "Whatever you wish for will materialise. Everything will be smooth sailing and auspicious."]
+    ],
+    "summary": null
+  },
+  "notes": "事项 / Celestial Message on both pages is a single free-text sentence, not key/value pairs; stored as one pair with an empty key. zh.explain reads 施舍此钱财 as printed."
+}

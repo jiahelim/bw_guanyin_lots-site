@@ -1,0 +1,39 @@
+{
+  "n": 15,
+  "zh": {
+    "grade": "中签",
+    "poem": ["行人怨日气难吞", "忽有灾事勿近前", "巢破林鸟无所宿", "可寻深处稳安身"],
+    "jieyue": ["若人得怨", "何时可伸", "好言不信", "守旧待时"],
+    "shiyi": ["此卦鸟鹊离林之象。", "凡事到底应心也。"],
+    "explain": "遇到有人一时怨气难消，就不要接近，以免招惹祸事。如果已招灾事，应如巢破了的林中鸟一样，到树林深处藏身保平安。",
+    "divination": ["此签为中签。", "若招惹别人，留下很深的怨恨，澄清的时机遥遥无期，即使说很好的言辞。别人也不会相信。所以宜保持现有的状况，慢慢等待时机。"],
+    "items": [
+      ["家宅情况", "先凶后吉"], ["自身情况", "应谨慎小心"], ["投资理财", "吉利"],
+      ["经商买卖", "成功"], ["工农商业", "顺利"], ["工作事业", "以和为贵，大局为重"], ["学业考试", "勤有功，戏无益"],
+      ["爱情婚姻", "受阻，进展不顺畅"], ["怀孕生育", "男孩"], ["出门在外", "顺利"], ["畜养动物", "兴旺"],
+      ["寻人", "找到"], ["寻失物", "难找回"], ["官司诉讼", "有理"], ["迁徙搬家", "远迁可以"],
+      ["转换变更", "不宜"], ["治病健康", "应当要还愿答谢"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦鸟鹊离林之象。所祈求之事最终能够顺心如意。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A disagreement is hard to swallow.", "When troubles are near, move far away.", "Like a bird whose nest has fallen,", "You may only find shelter in deep places."],
+    "interpretation": ["If you should incur any wrath or anger, it will take time to clarify.", "Even if you mean well, nobody will believe you.", "Stay where you are, tolerate and bide your time."],
+    "meaning": ["Like a bird seeking a nesting place in a forest, you will initially encounter difficulties and hardships but all your troubles will soon be over."],
+    "explain": "In order to avoid trouble, do not go near an angry person. If already provoked, for your own safety, you should be like a bird in the forest whose nest has been destroyed, hide in the depths of the forest and keep safe.",
+    "divination": ["This is a neutral lot.", "If you have offended another person, and left deep resentment, with no opportunity for clarification anywhere in sight. Even if you put in very good words, the other party will not believe it. Thus, it is best to keep the current situation, and patiently wait for a suitable time."],
+    "items": [
+      ["Household", "First bad then good fortune"], ["Self", "Should take precautions"],
+      ["Investment and financial management", "Propitious"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Smooth"], ["Career", "Peace & harmony for the greater good"],
+      ["Academic and examination", "Diligence and not play has merits"], ["Marriage", "Obstruction & delay"],
+      ["Birth", "Progress is not smooth"], ["Traveller", "Smooth"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Will find"], ["Missing things", "Difficult to find"], ["Lawsuit", "Reasonable settlement"],
+      ["Migrating and moving house", "Can, if move further away"], ["Change", "Not recommended"],
+      ["Sickness", "Should repay wish by doing good"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en Birth printed 'Progress is not smooth' while zh 怀孕生育 is 男孩 (source mismatch, preserved). zh divination has a full stop mid-sentence after 言辞 (as printed). en double spaces after periods normalized. Extra 迁徙搬家 / Migrating row present."
+}

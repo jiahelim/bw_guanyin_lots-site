@@ -1,0 +1,37 @@
+{
+  "n": 79,
+  "zh": {
+    "grade": "中签",
+    "poem": ["虚空结愿保平安", "保得人安愿未还", "莫忘神圣宜还了", "此知神语莫轻慢"],
+    "jieyue": ["人有我见", "心不用忙", "观音指示", "切莫轻慢"],
+    "shiyi": ["此卦信实莫信虚之象，", "凡事守旧之兆也。"],
+    "explain": "曾在虚空许愿求平安，保佑了平安却不还愿。不要忘了神灵应该还愿，更要知道不能随便忽视当初的誓言。",
+    "divination": ["此签为中签。", "别人拥有的东西，见到了后自己不要急于也想得到。", "观音菩萨的指示，切不要怠慢而不把它放在心上。"],
+    "items": [
+      ["家宅情况", "应当要还愿答谢"], ["自身情况", "宜印经增福慧"], ["投资理财", "宜守护本分"],
+      ["经商买卖", "宜谨慎小心"], ["工农商业", "不宜过于急进，要谨慎"], ["工作事业", "安于现状继续努力"], ["学业考试", "勤有功，戏无益"],
+      ["爱情婚姻", "情况不真实"], ["怀孕生育", "女孩"], ["出门在外", "在途耽搁"], ["畜养动物", "有损失"],
+      ["寻人", "无音信"], ["寻失物", "在西方"], ["官司诉讼", "会和解"], ["迁徙搬家", "宜原地不动"], ["转换变更", "安守则吉祥"],
+      ["治病健康", "会解除"], ["祖坟牌位", "朝西方则吉祥"]
+    ],
+    "summary": "此卦信实莫信虚之象。所祈求之事应保持现状为宜。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A false promise made in exchange for protection,", "Safe and sound you are but yet the promise is not filled.", "Heaven’s grace should be repaid and not forgotten,", "Thou shalt not treat God so carelessly."],
+    "interpretation": ["To each his own counsel, there is no need to panic.", "Follow through to the end what the Goddess of Mercy tells you to do, do not belittle the advice you have received."],
+    "meaning": ["Believe what is real and ignore what is false.", "It is better to let things remain as is."],
+    "explain": "I once made a vow to get protection. Now that I am safe, but I did not repay that promise to the heavenly deities.  Do not forget to repay your vows, also necessary to know that the original oath cannot be ignored casually.",
+    "divination": ["This is a neutral lot.", "When you see what others have, do not be too anxious to possess them too. However, for Guan Yin Bodhisattva's instructions, you should not be slack nor forget to take it to heart."],
+    "items": [
+      ["Household", "Repay your promise"], ["Self", "Reprint Buddhist scriptures To gather wisdom & blessings"],
+      ["Investment and financial management", "Be content with what you have"], ["Business", "Take precautions"],
+      ["Agriculture and commerce", "Do not rush, take precautions"], ["Career", "Stay as now & continue to work hard"], ["Academic and examination", "Be hardworking"],
+      ["Marriage", "Situation is not true"], ["Birth", "Girl"], ["Traveller", "Delay enroute"], ["Husbandry", "Damage"],
+      ["Missing person", "No news"], ["Missing things", "In the West"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Maintain status quo"],
+      ["Change", "Better to remain as is."], ["Sickness", "Will clear up"], ["Ancestral grave", "Propitious to  face West"]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages have an extra item 迁徙搬家 / 'Migrating and moving house' not in lot 1. zh key printed 畜养动物 (lot 1 has 家养动物). en 'Self' value wraps to a new line starting with capital 'To gather wisdom & blessings'; capital T kept as printed. en key printed 'Traveller' (lot 1 'Travel'). Double spaces in en explain and 'Propitious to  face West' are as printed."
+}

@@ -1,0 +1,37 @@
+{
+  "n": 95,
+  "zh": {
+    "grade": "中签",
+    "poem": ["志气功业在朝朝", "今将酒色不胜饶", "若见金鸡报君语", "钱财福禄与君招"],
+    "jieyue": ["志气心动", "守己未迟", "金鸡报语", "无不欢喜"],
+    "shiyi": ["此卦志气功名之象。", "凡事守常大吉也。"],
+    "explain": "有志向和才气的人，追求功业，应当天天努力，从现在起就不要贪酒恋色。如果某天有喜讯传来，钱财福禄可以随你挑选。",
+    "divination": ["此签为中签。", "一方面要心怀高远的志向，另一方面也要脚踏实地，安守自己的本分。", "等到金鸡报语，喜讯来临，便没有不令人欢悦的事情了。"],
+    "items": [
+      ["家宅情况", "积善祈求保平安"], ["自身情况", "一般"], ["投资理财", "劳心"],
+      ["经商买卖", "尽快决断了结"], ["工农商业", "脚踏实地务实经营"], ["工作事业", "安守则吉祥"], ["学业考试", "勤有功，戏无益"],
+      ["爱情婚姻", "有成功的机会"], ["怀孕生育", "安稳"], ["畜养动物", "有收获"],
+      ["寻人", "难以找到"], ["寻失物", "已经远离"], ["官司情况", "尽快了结"], ["迁徙搬家", "宜原地不动"], ["转换变更", "安分守己"],
+      ["疾病情况", "病痛缠身，时间拖延"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦志气功名之象。所祈求之事宜坚守常态，则会非常吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Rome was not built in a day.", "Let no woman nor wine bury your way.", "Rises to work when the golden rooster crows,", "Money and fortune will soon be called."],
+    "interpretation": ["Determine your goals, keep at it.", "Diligence will be rewarded.", "The golden rooster calls and happiness will come."],
+    "meaning": ["Work hard to fulfill your ambitions.", "Maintain things as-is and everything will turn out very well."],
+    "explain": "Those with ambitions and talents, in pursuit of merits & accomplishments, should work diligently daily. From now on, they should stay away from alcohol and women. When good news comes, you can pick and choose your wealth and happiness.",
+    "divination": ["This is a neutral lot.", "While you can have high aspirations, you also need to keep your feet firmly planted on the ground ie. be realistic, and do your duty. When the golden rooster brings good news, everything will be joyous and blissful."],
+    "items": [
+      ["Household", "Accumulate merits, pray for protection & blessings."], ["Self", "Average"],
+      ["Investment and financial management", "Make a conscious effort"], ["Business", "Make decisions early"],
+      ["Agriculture and commerce", "Down-to-earth and pragmatic management"], ["Career", "Best to do as present"], ["Academic and examination", "Stay hardworking"],
+      ["Marriage", "Chance of success"], ["Birth", "Safe"], ["Husbandry", "Will have rewards"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Far away"], ["Lawsuit", "End quickly"], ["Migrating and moving house", "Stay put"], ["Change", "Keep status quo"],
+      ["Sickness", "Agonizing & prolong"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "17 items: no 出门在外 / Travel item on either page; adds 迁徙搬家 / Migrating and moving house. zh keys differ from usual: 官司情况 (not 官司诉讼), 疾病情况 (not 治病健康), 畜养动物."
+}

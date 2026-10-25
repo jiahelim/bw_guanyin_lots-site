@@ -1,0 +1,37 @@
+{
+  "n": 40,
+  "zh": {
+    "grade": "中签",
+    "poem": ["红轮西坠兔东升", "阴长阳消百事亨", "若是女人宜望用", "增添财禄福其心"],
+    "jieyue": ["阴利女人", "不宜男子", "若是求谋", "先凶后吉"],
+    "shiyi": ["此卦阴长阳消之象。", "凡事先难后易也。"],
+    "explain": "太阳西下，月亮东升，阴长阳消，百事消停。如果能让女人发挥更多作用，则必定能增添财禄，自己也会感到更幸福。",
+    "divination": ["此签为中签。", "阴柔的环境更有利于女人，不适宜于男人。", "如果是问谋划中的事情，则必定是先凶后吉。"],
+    "items": [
+      ["家宅情况", "不利"], ["自身情况", "应积善祈福"], ["投资理财", "坚守、等待"],
+      ["经商买卖", "吉利"], ["工农商业", "兴旺"], ["工作事业", "女顺，男不顺"], ["学业考试", "多下苦功，方见进步"],
+      ["爱情婚姻", "不相合"], ["怀孕生育", "女孩"], ["出门在外", "在途中受阻"], ["畜养动物", "旺盛"],
+      ["寻人", "会有阻隔"], ["寻失物", "即使寻找，到头来仍是一场空"], ["官司诉讼", "会亏输"], ["迁徙搬家", "非常吉利"], ["转换变更", "适合"],
+      ["治病健康", "预防受惊"], ["祖坟牌位", "大吉"]
+    ],
+    "summary": "此卦阴长阳消之象。所祈求之事刚开始会蒙受困难，但之后亦能迎刃而解。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The red wheel sets in the West as the rabbit rises in the East.", "Things remain even as the lunar grows in strength and the solar wanes.", "If a woman is seeking to divine her future,", "She will be blessed with wealth, riches and fortune."],
+    "interpretation": ["A “Yin” Lot is favorable if the question involves a female.", "Otherwise, for a male seeking his fortune, it will be ominous before it will turn better."],
+    "meaning": ["A strong “Yin” (Moon) presiding over a declining “Yang” (Sun).  There will be difficulties initially but these will soon pass and things will get easier."],
+    "explain": "When the sun sets in the west, the moon will rise in the east. With the Yin growing stronger, the Yang will weaken, and everything will come to a stop. Therefore, if females are allowed to take on greater roles, it will surely bring on more wealth and good fortune, and one will feel happier too.",
+    "divination": ["This is an inauspicious lot.", "A “Yin” environment is more advantageous to females and is unsuitable for males. If you are asking about what is being planned, it will initially be bad, before turning into auspicious."],
+    "items": [
+      ["Household", "Not favourable"], ["Self", "Do good, pray for blessings & protection"],
+      ["Investment and financial management", "Wait & hold on"], ["Business", "Propitious"],
+      ["Agriculture and commerce", "Thriving"], ["Career", "Smooth for female not male"], ["Academic and examination", "Put in more hard work to see improvements"],
+      ["Marriage", "Not suitable"], ["Birth", "Girl"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Will have barriers"], ["Missing things", "Even if search, will be empty eventually"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Very Propitious"],
+      ["Change", "Suitable"], ["Sickness", "Be Careful of scare"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "en divination says 'This is an inauspicious lot.' although Prophesy is Neutral and zh says 此签为中签 (image error, copied as printed). en Lot Verse is printed as wrapped prose (not 4 lines); split at sentence/clause breaks. Curly quotes “ ” kept as printed. zh key printed as 畜养动物; extra 迁徙搬家 item."
+}

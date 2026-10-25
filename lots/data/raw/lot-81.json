@@ -1,0 +1,37 @@
+{
+  "n": 81,
+  "zh": {
+    "grade": "上签",
+    "poem": ["梧桐叶落秋将暮", "行客归程似云飞", "谢得天公高着力", "顺风船载珍宝归"],
+    "jieyue": ["心中取事", "天必从之", "营谋用事", "尽可施为"],
+    "shiyi": ["此卦梧桐叶落之象，", "凡事先凶后吉也。"],
+    "explain": "梧桐落叶，秋天即将过完，归程顺畅快如云飞。感谢天公赐予洪福，才这么一帆风顺，满载财宝而归。",
+    "divination": ["此签为上签。", "心中所盼望的事情，上天一定会满足。", "至于经营谋生之类的事情，则尽可大胆地放手去做。"],
+    "items": [
+      ["家宅情况", "积善祈福保平安"], ["自身情况", "宜印经增福慧"], ["投资理财", "称心如愿"],
+      ["经商买卖", "成功"], ["工农商业", "迟些会成功"], ["工作事业", "怀才得遇，发挥所长"], ["学业考试", "努力必成"],
+      ["爱情婚姻", "双方和合"], ["怀孕生育", "会有虚惊"], ["出门在外", "还在路途中"], ["畜养动物", "稳定"],
+      ["寻人", "会自己出现"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "随意而行"], ["转换变更", "随心"],
+      ["治病健康", "会康复"], ["祖坟牌位", "和合共择处所"]
+    ],
+    "summary": "此卦梧桐叶落之象。所祈求之事先有凶险，之后会吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["As autumn leaves fell from phoenix trees,", "The travellers journey home like fleeting clouds.", "Thankful for the blessings from almighty Heavens,", "A ship laden with treasures sails with good winds."],
+    "interpretation": ["Your intention will be supported by Heavens.", "Carry out your tasks and duties to the best of your efforts."],
+    "meaning": ["Leaves falling from phoenix trees.", "Things may initially appear unfavorable but will eventually turn well."],
+    "explain": "Leaves have fallen from the sycamore tree, signifying autumn is about to end, travellers return home smoothly like the flying clouds. Thanks to the almighty heavenly deity for the blessings, so that the ship can return home so smoothly, laden with treasures.",
+    "divination": ["This is an auspicious lot.", "Whatever one wishes, it will be fulfilled by Heaven. For matters relating to running your own business, be courageous and do your best."],
+    "items": [
+      ["Household", "Accumulate merits, pray for protection & blessings"], ["Self", "Increase your wealth & wisdom by reprinting Buddhist scriptures"],
+      ["Investment and financial management", "Have results after your own heart"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Late success"], ["Career", "Able to use your talents & be appreciated"], ["Academic and examination", "Success with hard work."],
+      ["Marriage", "Harmonious"], ["Birth", "Have false alarm"], ["Traveller", "On the move"], ["Husbandry", "Steady"],
+      ["Missing person", "Will appear"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "Do as you wish"],
+      ["Change", "As you wish"], ["Sickness", "Will recover"], ["Ancestral grave", "Choose a place harmoniously together"]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages omit the 寻失物 / 'Missing things' item (17 items, not 18) and include extra 迁徙搬家 / 'Migrating and moving house'. zh key printed 畜养动物; en key 'Traveller'. 'The travellers journey' printed without apostrophe."
+}

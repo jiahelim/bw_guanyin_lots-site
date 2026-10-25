@@ -1,0 +1,38 @@
+{
+  "n": 60,
+  "zh": {
+    "grade": "下签",
+    "poem": ["抱薪救火大皆燃", "烧遍三千亦复然", "若问荣华并出入", "不如收拾枉劳心"],
+    "jieyue": ["有千般计", "不如莫动", "一旦相惹", "恐祸归身"],
+    "shiyi": ["此卦抱薪救火之象。", "凡事亦自谨防也。"],
+    "explain": "抱柴草去救火，会燃得更旺，甚至会无止尽地燃烧。如果要问荣华富贵和出入是否平安，不如收起自己的枉然心机。",
+    "divination": ["此签为下签。", "即使有很多好的选择，也不如保持现状，否则一旦变化，恐怕要惹祸上身。"],
+    "items": [
+      ["家宅情况", "凶险"], ["自身情况", "祈求菩萨保佑"], ["投资理财", "收获微少"],
+      ["经商买卖", "不会成功"], ["工农商业", "改变反而不利"], ["工作事业", "守业为宜"], ["学业考试", "表现平平"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "注意安全"], ["出门在外", "在途中耽搁"], ["畜养动物", "有损失"],
+      ["寻人", "毫无音信"], ["寻失物", "在西方"], ["官司诉讼", "会亏输"], ["迁徙搬家", "吉利"],
+      ["转换变更", "静待时机"], ["治病健康", "预防惊吓"], ["祖坟牌位", "维持现状"]
+    ],
+    "summary": "此卦抱薪救火之象。所祈求之事还需自己小心谨慎防护。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Add fuel to a fire and now it burns more fiercely,", "The bright flames spread for miles, sparing nothing.", "On the pursuits of riches and fame,", "Why not save the trouble and forget?"],
+    "interpretation": ["Why bother with so many schemes, why not let things remain?", "Doing too much may someday inevitably create problems that will be hard to get rid of."],
+    "meaning": ["Trying to extinguish a fire with firewood.", "You must take precautions to protect yourself."],
+    "explain": "When you carry firewood to put out a fire, it will burn more fiercely, and even burn endlessly. If you are asking about wealth, fame and safe passage wherever you go, you might as well put away your scheming efforts.",
+    "divination": ["This is an inauspicious lot.", "Even if you have many good choices, it is better to maintain the status quo.", "Otherwise, you may get into trouble once changes occur."],
+    "items": [
+      ["Household", "Ominous"], ["Self", "Pray for blessings"],
+      ["Investment and financial management", "Little gain"], ["Business", "Will not succeed"],
+      ["Agriculture and commerce", "Changes are not suitable"], ["Career", "Remain as present"], ["Academic and examination", "Average"],
+      ["Marriage", "Not suitable"], ["Birth", "Be careful of safety"], ["Traveller", "Delayed on the way"], ["Husbandry", "Loss"],
+      ["Missing person", "Absolutely no news"], ["Missing things", "In the West"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Wait for opportunity"],
+      ["Sickness", "Beware of fright"], ["Ancestral grave", "Keep as present"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra 迁徙搬家 / 'Migrating and moving house' row; zh key 畜养动物; en key 'Traveller'. en divination: 'Otherwise...' starts on a new line in the image, kept as separate entry."
+}

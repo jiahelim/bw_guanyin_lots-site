@@ -1,0 +1,37 @@
+{
+  "n": 54,
+  "zh": {
+    "grade": "下签",
+    "poem": ["梦中得宝醒来无", "自是南柯一场空", "若问婚姻并问病", "别寻道路好相通"],
+    "jieyue": ["物在水中", "形影长短", "皆有分定", "不用商量"],
+    "shiyi": ["此卦梦中得宝之象。", "凡事枉费心力也。"],
+    "explain": "梦中得宝醒来却一场空，自以为长寿，实则是自损。如果询问的是婚姻、疾病方面的事情，最好另找门路寻求帮助。",
+    "divination": ["此签为下签。", "得此签者，就像东西掉入水中，从每个人的角度去看，其长短自然各不相同。人人都有各自的定分，这是不容易改变的。"],
+    "items": [
+      ["家宅情况", "不是很安宁"], ["自身情况", "谨慎防护"], ["投资理财", "受到阻碍"],
+      ["经商买卖", "不易成功"], ["工农商业", "有阻滞不前的现象"], ["工作事业", "宜脚踏实地做好本分"], ["学业考试", "宜多加努力。"],
+      ["爱情婚姻", "应等待时机"], ["怀孕生育", "积善祈求庇佑保平安"], ["出门在外", "到达目的地的时间延迟"], ["畜养动物", "不顺利"],
+      ["寻人", "找见"], ["寻失物", "无法找到"], ["官司诉讼", "会亏输"], ["迁徙搬家", "吉利"], ["转换变更", "适宜转变"],
+      ["治病健康", "求菩萨保佑"], ["祖坟牌位", "不安定"]
+    ],
+    "summary": "此卦梦中得宝之象。所祈求之事枉费心力而徒劳无功。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Treasures in the dream, gone when one is sober.", "Just like an illusory joy of the man in the Nanke dream who woke up to delusion.", "As for marriage & health, best look elsewhere for support and help."],
+    "interpretation": ["Images of things in the water are distorted, and they are of different dimensions.  All is preordained, you can neither discuss nor negotiate with Heavens."],
+    "meaning": ["Just like treasures in a dream, efforts will be in vain."],
+    "explain": "Treasure in a dream is but an empty illusion when one wakes up. One is harming oneself when one thinks one has a long life. If the question is about marriage and illness,  it is best to find solutions elsewhere.",
+    "divination": ["This is an inauspicious lot.", "Like images of things in water, the dimensions are distorted, everyone views things from their respective angles with different results. Everyone has his very own predestination, which cannot be altered easily."],
+    "items": [
+      ["Household", "Not very peaceful"], ["Self", "Take precautions"],
+      ["Investment and financial management", "Face obstruction"], ["Business", "Not easy to succeed"],
+      ["Agriculture and commerce", "There is sign of stagnation"], ["Career", "You should be down- to-earth in doing your duty"], ["Academic and examination", "Need to work harder"],
+      ["Marriage", "Wait for right timing"], ["Birth", "Accumulate merits, pray for protection & blessings"], ["Traveller", "Delayed arrival"], ["Husbandry", "Not smooth"],
+      ["Missing person", "Found"], ["Missing things", "Cannot be found"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Auspicious"], ["Change", "Good to change"],
+      ["Sickness", "Ask for blessings from Bodhisattva"], ["Ancestral grave", "Not safe"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. zh 自身情况 is followed by a semicolon-like mark (；) instead of ： on the page. en verse is printed as 3 sentences wrapped over 4 lines (not 4 verse lines); split at sentence breaks. en explain has double space in 'illness,  it' and Career value has 'down- to-earth' as printed."
+}

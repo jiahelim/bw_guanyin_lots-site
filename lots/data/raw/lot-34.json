@@ -1,0 +1,39 @@
+{
+  "n": 34,
+  "zh": {
+    "grade": "中签",
+    "poem": ["行藏出入礼义恭", "言必忠良信必从", "心不了然且静澈", "光明红日正当空"],
+    "jieyue": ["心中无事", "秋水澄清", "不须疑惑", "事自然成"],
+    "shiyi": ["此卦红日当空正照之象。", "凡事遂意也。"],
+    "explain": "任何时候都讲礼义，为人谦恭，语言真诚、善良的人，确实让人信从。内心不明白时，姑且静心省虑，事情自然会清楚，事业也自然会兴旺。",
+    "divination": ["此签为中签。", "心中不要想得太多，应该像秋水一样澄清明静，更不必疑神疑鬼，事情自然会水到渠成。"],
+    "items": [
+      ["家宅情况", "清静吉祥"], ["自身情况", "平安"], ["投资理财", "不会有实在收获"],
+      ["经商买卖", "难以成功"], ["工农商业", "随遇而安"], ["工作事业", "虚心学习会顺利"], ["学业考试", "学业平稳顺利"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "有险"], ["出门在外", "在途中受阻"], ["畜养动物", "衰败"],
+      ["寻人", "不太顺利"], ["寻失物", "不会真正找到"], ["官司诉讼", "亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "守旧为佳"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "大吉"]
+    ],
+    "summary": "此卦红日当空正照之象。所祈求之事能顺心如意。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Conduct your life with dignity and propriety,", "Speak and act with honesty and sincerity.", "A heart that harbors no malice has clarity,", "As bright as the rays of the Sun will be."],
+    "interpretation": ["Do not burden the heart needlessly.  It is clear and tranquil like waters in autumn.  Do not doubt anymore as the natural course of things is such that things will work out eventually."],
+    "meaning": ["The Sun shines brightly in the middle of the day.", "Everything will be as you wish."],
+    "explain": "It is advisable to observe etiquette at all times, be humble, sincere and kind then people will indeed trust you. Even if you have doubts, you can discern calmly, things will naturally be clear, then your business will naturally prosper.",
+    "divination": ["This is a neutral lot.", "Do not worry too much, your mind should be clear and tranquil like the water in autumn. Do not even doubt and be suspicious as the natural course of things is that it will work out eventually."],
+    "items": [
+      ["Household", "Peaceful & auspicious"], ["Self", "Safe"],
+      ["Investment and financial management", "No real gains"], ["Business", "Difficult to succeed"],
+      ["Agriculture and commerce", "Go with the flow"], ["Career", "Be humble to succeed"],
+      ["Academic and examination", "Stable and smooth"], ["Marriage", "Both suitable"],
+      ["Birth", "Perilous"], ["Traveller", "Obstruction"], ["Husbandry", "Decline"],
+      ["Missing person", "Not so smooth"], ["Missing things", "Not found"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Stay put"],
+      ["Sickness", "Do vast offering & dedication"], ["Ancestral grave", "Very propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 签解 second part wraps after a comma ('…更不必疑神疑鬼，' / '事情自然会水到渠成。'); treated as one sentence, kept in one string."
+}

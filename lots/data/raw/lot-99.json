@@ -1,0 +1,37 @@
+{
+  "n": 99,
+  "zh": {
+    "grade": "下签",
+    "poem": ["勒马持鞭直过来", "半有忧危半有灾", "恰似遭火焚烧屋", "天降时雨荡成灰"],
+    "jieyue": ["终身劳力", "莫管是非", "枷锁临时", "怨尤自至"],
+    "shiyi": ["此卦半忧半喜之象。", "凡事只宜行善也。"],
+    "explain": "勒住马的缰绳，又想挥鞭径直前冲，如此必定既有忧危又有灾难。正像房屋遭受大火，虽然天降及时大雨，但最后仍将化成灰烬。",
+    "divination": ["此签为下签。", "终身用力去做，不要管别人的是非，否则必会遭遇牢狱灾祸，自己也会后悔不已。"],
+    "items": [
+      ["家宅情况", "积善祈求庇佑保平安"], ["自身情况", "保持慎重"], ["投资理财", "破财"],
+      ["经商买卖", "有阻碍"], ["工农商业", "多行善，会有转机"], ["工作事业", "多行善，安耐"], ["学业考试", "加倍用功"],
+      ["爱情婚姻", "不和睦"], ["怀孕生育", "防危险"], ["出门在外", "被困途中"], ["畜养动物", "有损失"],
+      ["寻人", "会招来是非"], ["寻失物", "过程有凶险"], ["官司诉讼", "会亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "不变为上"],
+      ["治病健康", "感到不安，多调养"], ["祖坟牌位", "宜和合共识修缮"]
+    ],
+    "summary": "此卦半忧半喜之象。所祈求之事只适宜行善积德。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Whip in hand, the rider leads the horse and charges ahead,", "danger on one side, disaster on the other.", "Like a house set on fire,", "Heavens will send rain to reduce all to ashes."],
+    "interpretation": ["Work hard the whole life long, caring not for scandals, yet misfortune may still fall upon you out of the blue.", "Live and let live so you would be free of these shackles."],
+    "meaning": ["A situation that brings both sorrows and joys.", "One should perform more kind deeds."],
+    "explain": "The rider grips the reins of his horse, also thinking of swinging his whip to charge straight ahead. Doing so will certainly bring about sorrow and disaster. This is like a house set on fire. Although timely rain falls from Heaven, the house is ultimately reduced to ashes.",
+    "divination": ["This is an inauspicious lot.", "You’ve worked diligently all your life, do not bother about gossip of others, otherwise you will meet with risk of being imprisoned and you will regret it."],
+    "items": [
+      ["Household", "Do more good deeds and pray for blessings"], ["Self", "Remain cautious"],
+      ["Investment and financial management", "Suffer a loss"], ["Business", "Obstruction"],
+      ["Agriculture and commerce", "Do more good deeds, to turn your luck around"], ["Career", "Do more good and be patient"], ["Academic and examination", "Work harder"],
+      ["Marriage", "Unhappy match"], ["Birth", "Take precautions"], ["Traveller", "Trapped"], ["Husbandry", "Damage"],
+      ["Missing person", "Invite gossips"], ["Missing things", "Ominous"], ["Lawsuit", "Will lose"], ["Migrating and moving house", "Stay put"], ["Change", "Best not to change"],
+      ["Sickness", "Unwell, more care"], ["Ancestral grave", "Consensus by all to restore"]
+    ],
+    "summary": null
+  },
+  "notes": "18 items incl. 迁徙搬家 / Migrating and moving house. zh 工作事业 value printed 安耐 (likely for 忍耐/按耐), kept as printed. EN verse line 1 wraps mid-sentence in the image ('...charges / ahead, danger...'); split at the clause comma instead."
+}

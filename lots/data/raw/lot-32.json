@@ -1,0 +1,39 @@
+{
+  "n": 32,
+  "zh": {
+    "grade": "中签",
+    "poem": ["前程杳杳定无疑", "石中藏玉有谁知", "一朝良匠分明剖", "始觉安然碧玉期"],
+    "jieyue": ["宝在石中", "异人少知", "直待分明", "尽可施为"],
+    "shiyi": ["此卦剖石见玉之象。", "凡事着力成功也。"],
+    "explain": "人才被埋没，就像玉藏石中，无人知晓，自然前景渺茫。而一旦被人发现，便能稳稳当当成为人中壁玉。",
+    "divination": ["此签为中签。", "就像藏在石头中的宝玉一样，有卓越才能的人也少为人知。", "只要被人发掘出来，则可以尽情作为。"],
+    "items": [
+      ["家宅情况", "平常一般"], ["自身情况", "平安"], ["投资理财", "耗费力气"],
+      ["经商买卖", "会有阻力"], ["工农商业", "晚些时候会成功"], ["工作事业", "勤奋敬业可成功"], ["学业考试", "勤奋好学方得好成绩"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "不真实"], ["出门在外", "毫无信息"], ["畜养动物", "兴旺"],
+      ["寻人", "找到"], ["寻失物", "在西方"], ["官司诉讼", "会有惊险"], ["迁徙搬家", "宜改日期"], ["转换变更", "改变佳"],
+      ["治病健康", "不太平安，可多祈福"], ["祖坟牌位", "改变可趣向吉利"]
+    ],
+    "summary": "此卦剖石见玉之象。所祈求之事能勤勉奋斗则可成功。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Prospects for one’s future seem undoubtedly distant,", "As a jade hidden in a stone, none can tell.", "Until one day a skilled craftsman takes it out,", "Only then will others appreciate its true value."],
+    "interpretation": ["Like priceless gems embedded in rocks, your talents lay hidden.  When these can be uncovered, you will be able to make good use of them."],
+    "meaning": ["Jade is found only when the stone is cut.  Success can only be possible through determined efforts."],
+    "explain": "A talent undiscovered is like a piece of jade hidden in a rock, naturally the prospects for finding it are slim.  Once it is uncovered, will others appreciate your true value and know you are the best talent among all.",
+    "divination": ["This is a neutral lot.", "Like priceless gems hidden in the rocks, people with outstanding talents are not widely known. Once it is discovered, you can have accomplishments and do whatever you want."],
+    "items": [
+      ["Household", "Average"], ["Self", "Safe"],
+      ["Investment and financial management", "Laborious"], ["Business", "Will have obstruction"],
+      ["Agriculture and commerce", "Late success"], ["Career", "Put in diligent efforts to succeed"],
+      ["Academic and examination", "You must work hard to get good grades."], ["Marriage", "Successful"],
+      ["Birth", "False"], ["Traveller", "No news"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Will be found"], ["Missing things", "West"], ["Lawsuit", "Will have worries"],
+      ["Migrating and moving house", "Better to change date"], ["Change", "Best to change"],
+      ["Sickness", "Not so safe, pray more to ask for blessings"], ["Ancestral grave", "Change to make it auspicious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh.explain prints 人中壁玉 (壁, likely intended 璧) and zh 祖坟牌位 prints 改变可趣向吉利 (趣, likely intended 趋); both kept as printed. 渺茫 in zh.explain is slightly small but reads as 渺茫."
+}

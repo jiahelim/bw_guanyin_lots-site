@@ -1,0 +1,39 @@
+{
+  "n": 25,
+  "zh": {
+    "grade": "中签",
+    "poem": ["过了忧危事几重", "从今再立永无空", "宽心自有宽心计", "得遇高人立大功"],
+    "jieyue": ["讼终有理", "病得安全", "出入求谋", "古井逢泉"],
+    "shiyi": ["此卦古井逢泉之象。", "凡事贵人成就也。"],
+    "explain": "经历了不少忧患险情，从今再度创业不会落空了。少了担忧自然该有不担忧的计划，值得宽慰的是，如果遇到高人相助，还可能获得大的成功。",
+    "divination": ["此签为中签。", "如果打官司能占理；如果得病则能安然康复；如果做事则应多多地谋划、考虑周全，如果这样便能重获帮助和支持。"],
+    "items": [
+      ["家宅情况", "一般"], ["自身情况", "不顺畅"], ["投资理财", "有阻滞"],
+      ["经商买卖", "有阻滞"], ["工农商业", "不利，应全盘考虑计划"], ["工作事业", "放宽心胸，多虚心请教"], ["学业考试", "多用功并多请教"],
+      ["爱情婚姻", "和谐融合"], ["怀孕生育", "小心谨慎"], ["出门在外", "有阻隔"], ["畜养动物", "不利"],
+      ["寻人", "阻隔"], ["寻失物", "难以找到"], ["官司诉讼", "有理"], ["迁徙搬家", "不适合"], ["转换变更", "不宜改变"],
+      ["治病健康", "应积善祈福庇佑"], ["祖坟牌位", "不安稳"]
+    ],
+    "summary": "此卦古井逢泉之象。所祈求之事获得贵人的协助而得到成就。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["One has met with sorrows, dangers and hardships,", "Henceforth, plans revived will prosper.", "A broad mind with a broader scheme,", "Success will come with help from a distinguished patron."],
+    "interpretation": ["Lawsuit will be settled.  The sick will be cured and saved.  Like the well that is replenished is how you will find your fortune."],
+    "meaning": ["Just like an old well that is replenished with spring water, with help from distinguished patrons, you will be successful."],
+    "explain": "Having gone through many worries and crises, starting a business again, you will survive and not fail.  With less worry, it is natural to have a plan with no apprehension and it is reassuring that you may even achieve great success if you encounter help from a benefactor.",
+    "divination": ["This is a neutral lot.", "If you have lawsuits, you can justify; if you get sick, you will recover safely; if you do things, you should plan carefully and consider all possibilities, and if so, you can get help and support again."],
+    "items": [
+      ["Household", "Average"], ["Self", "Not smooth"],
+      ["Investment and financial management", "Obstruct- ion & delay"], ["Business", "Obstruction & delay"],
+      ["Agriculture and commerce", "Not favorable, the overall plan must be well thought out."], ["Career", "Need to be broad-minded and asks more humbly"],
+      ["Academic and examination", "Should study hard and ask for advice"],
+      ["Marriage", "Harmonious"], ["Birth", "Be extra careful"], ["Traveller", "Obstruction"], ["Husbandry", "Not favorable"],
+      ["Missing person", "Obstruction"], ["Missing things", "Hard to find"], ["Lawsuit", "Reasonable settlement"],
+      ["Migrating and moving house", "Not suitable"], ["Change", "Not suitable"],
+      ["Sickness", "Do more good & pray to seek blessings"], ["Ancestral grave", "Not safe"]
+    ],
+    "summary": null
+  },
+  "notes": "zh items include 迁徙搬家 and use 畜养动物. en Investment value printed as 'Obstruct- ion & delay' (stray hyphenation artifact, kept as printed). Double spaces after sentences kept as printed."
+}

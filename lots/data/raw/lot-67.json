@@ -1,0 +1,38 @@
+{
+  "n": 67,
+  "zh": {
+    "grade": "上签",
+    "poem": ["一条金线秤君心", "无减无增无重轻", "为人平生心正直", "文章全具艺光明"],
+    "jieyue": ["心平正直", "到底清平", "只依本分", "天下太平"],
+    "shiyi": ["此封心平正直之象。", "凡事安稳无凶也。"],
+    "explain": "一条金绳给你指明正道，开启智慧，使你达到增之不重，减之不轻的完美境界。一生为人正直，事业文章都具有很高水平和价值。",
+    "divination": ["此签为上签。", "心性正直，心态平和，那么其人生境遇则清清爽爽，平平安安。", "如果每个人都能安守本份生活，则天下就太平了。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "平常"], ["投资理财", "谨慎守护"],
+      ["经商买卖", "稳定"], ["工农商业", "平稳"], ["工作事业", "安稳，宜脚踏实地"], ["学业考试", "按部就班地学习会有好成绩"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "男孩"], ["出门在外", "有音信传来"], ["畜养动物", "平安"],
+      ["寻人", "过些时候找到"], ["寻失物", "找到"], ["官司诉讼", "会和解"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "宜留守"], ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "平平，无灾无难"]
+    ],
+    "summary": "此封心平正直之象。所祈求之事会平安稳定，没有凶险。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["A golden thread measures your heart,", "No more, no less, the heart is balanced.", "Be steadfast, just and upright all your life.", "Your compositions are filled with treasures and light."],
+    "interpretation": ["Calm and upright, your things are ultimately kept in good order.", "If everyone fulfills their duties well, the world will be at peace."],
+    "meaning": ["A steadfast, calm and upright person.", "Such an attitude negates all that could be ominous."],
+    "explain": "A golden rope will point you to the right path, ignite your wisdom and help you attain a perfect state of balance in life. You have been upright, righteous all your life, with an esteemed career and high quality articles to boot.",
+    "divination": ["This is an auspicious lot.", "By upholding righteousness and with an amicable nature, you will be able to cruise through any circumstance with ease and peace. If everyone can live by their duty, there will be peace and harmony in the world."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Average"],
+      ["Investment and financial management", "Guard carefully"], ["Business", "Steady"],
+      ["Agriculture and commerce", "Steady"], ["Career", "Stable and down-to-earth"], ["Academic and examination", "Studying in a step-by-step manner will lead to good grades"],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "There will be news"], ["Husbandry", "Safe"],
+      ["Missing person", "Will find after a while"], ["Missing things", "Will be found"], ["Lawsuit", "Amiable settlement"],
+      ["Migrating and moving house", "Do not move"], ["Change", "Keep to original"],
+      ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Average"]
+    ],
+    "summary": null
+  },
+  "notes": "zh shiyi and summary print 此封 (typo for 此卦), verified by zoom, kept as printed. zh divination has 本份 as printed. Extra 迁徙搬家 / 'Migrating and moving house' row; zh key 畜养动物; en key 'Traveller'; en 'Birth' is last in left column."
+}

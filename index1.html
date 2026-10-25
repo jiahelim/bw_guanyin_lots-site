@@ -1,0 +1,1035 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<head>
+  <title>Goddness of Mercy Devine Lot</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<!-- The core Firebase JS SDK is always required and must be listed first -->
+	<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-auth.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-database.js"></script>	
+
+<style>
+body{
+    //background-image: url("./assets/img/GuanYin2.jpg");
+    background-repeat: no-repeat;    
+	background-position: top;
+	background-color: #ffd5e9;
+	background-image: linear-gradient(white, pink);
+	//overflow: hidden;
+}
+
+.imageBanner {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width:100%;
+    max-width: 550px;	
+}
+
+#item {
+  width: 70%;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 60%;
+   z-index: 3;
+}
+
+.imageCentre {
+  width: 100%;
+  //left: -70%;
+  display: block;
+  position: relative;
+  z-index: 2;
+  margin: 0 auto;
+  //display: none;
+}
+
+
+.qian {
+  width: 15%;
+  display: none;
+  position: absolute;
+  left: 29%;
+  //top: 550px;
+  top: 62%;
+  z-index:2;
+  -webkit-animation: floatQian 5s;
+  animation: floatQian 5s;
+  animation-fill-mode: forwards; 
+}
+
+
+@-webkit-keyframes floatQian {
+    0% {
+        top:62%;
+    }
+    100% {
+        top: 50%;
+    }
+}
+
+@keyframes floatQian {
+    0% {
+        top:62%;
+    }
+    100% {
+        top: 50%;
+    }
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+
+img {
+    width: 100%;
+}
+
+#lot_btn {
+  position: absolute;
+  display: none;
+  z-index:99;
+  top: 75%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #d9534f;
+  color: white;
+  font-size: 16px;
+  padding: 10px 18px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.counter-box{
+  position: absolute;
+  font-size: 200%;  
+  color: white;
+  top: 0px;
+  left: 5%;
+  z-index:99;
+}
+
+#test{
+  position: absolute;
+  z-index:1;
+  display: none;
+}
+
+/* Flow: steps accordion on the left, flask on the right, CTA at the bottom */
+.flow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+  padding: 24px 16px;
+}
+
+.flow .imageBanner {
+  flex: 1 1 auto;
+  margin: 0;
+}
+
+.flow-steps {
+  flex: 0 0 360px;
+  position: sticky;
+  top: 72px;
+}
+
+/* One accordion item holding all three steps */
+.flow-steps .card {
+  border: none;
+  border-radius: 12px !important;
+  margin-bottom: 10px;
+  background: rgba(255, 255, 255, 0.85);
+  overflow: hidden;
+}
+
+.flow-steps .card-header {
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+
+.flow-steps .step-toggle {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 14px 16px;
+  border: none;
+  background: transparent;
+  color: #555;
+  font-weight: 600;
+  text-align: left;
+}
+
+.flow-steps .step-toggle:focus {
+  outline: none;
+}
+
+.flow-steps .step-toggle::after {
+  content: "";
+  margin-left: auto;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #f50057;
+  border-bottom: 2px solid #f50057;
+  transform: rotate(-135deg);
+  transition: transform 0.2s;
+}
+
+.flow-steps .step-toggle.collapsed::after {
+  transform: rotate(45deg);
+}
+
+.flow-steps .card-body {
+  padding: 0 16px 16px;
+}
+
+.flow-steps .step-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.flow-steps .step-list > li {
+  display: flex;
+  padding: 12px 0;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.flow-steps .step-list > li + li {
+  border-top: 1px solid rgba(245, 0, 87, 0.15);
+}
+
+/* Sub-accordion inside a step */
+.flow-steps .sub-accordion {
+  margin-top: 10px;
+  border-radius: 8px;
+  background: rgba(245, 0, 87, 0.06);
+}
+
+.flow-steps .sub-toggle {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 8px 12px;
+  border: none;
+  background: transparent;
+  color: #f50057;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.flow-steps .sub-toggle:focus {
+  outline: none;
+}
+
+.flow-steps .sub-toggle::after {
+  content: "";
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding-left: 0;
+  width: 7px;
+  height: 7px;
+  border-right: 2px solid #f50057;
+  border-bottom: 2px solid #f50057;
+  transform: rotate(-135deg);
+  transition: transform 0.2s;
+}
+
+.flow-steps .sub-toggle.collapsed::after {
+  transform: rotate(45deg);
+}
+
+.flow-steps .sub-list {
+  margin: 0;
+  padding: 0 12px 10px 28px;
+  font-size: 14px;
+}
+
+.flow-steps .sub-list li {
+  display: list-item;
+  padding: 3px 0;
+  border: none;
+}
+
+.flow-steps .step-list strong {
+  display: block;
+  color: #333;
+}
+
+.flow-steps .step-num {
+  flex: 0 0 28px;
+  height: 28px;
+  margin-right: 12px;
+  border-radius: 50%;
+  background: #f50057;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: center;
+}
+
+.flow-cta {
+  margin-top: 6px;
+}
+
+.flow-cta .btn {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 50rem;
+  background: #f50057;
+  color: #fff;
+  font-weight: 600;
+}
+
+.flow-cta .btn:disabled {
+  opacity: 0.6;
+}
+
+@media (max-width: 991px) {
+  .flow {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    padding: 64px 16px 96px;
+  }
+
+  .flow-steps {
+    position: static;
+    flex: none;
+    width: 100%;
+    max-width: 550px;
+  }
+
+  .flow .imageBanner {
+    width: 100%;
+  }
+
+  .flow-cta {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    margin: 0;
+    padding: 12px 16px;
+    background: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
+  }
+}
+
+</style>
+
+  <script src="assets/js/lang.js"></script>
+</head>
+<body>
+<img src="./assets/img/cloud.jpg" id= "test" width="100%" height="auto">
+<div class="flow">
+<aside class="flow-steps">
+	<div class="accordion" id="flowSteps">
+		<div class="card">
+			<div class="card-header">
+				<button class="step-toggle" type="button" data-toggle="collapse" data-target="#flowGuide">
+					<span data-lang="en">How to draw a lot</span><span data-lang="zh">求签步骤</span>
+				</button>
+			</div>
+			<div id="flowGuide" class="collapse show" data-parent="#flowSteps">
+				<div class="card-body">
+					<ol class="step-list">
+						<li>
+							<span class="step-num">1</span>
+							<div>
+								<strong><span data-lang="en">Recite</span><span data-lang="zh">默念</span></strong>
+								<span data-lang="en">Please put your palms together and sincerely recite “Namo Guan Shi Yin Bodhisattva of Great Compassion” three times in silence.</span>
+								<span data-lang="zh">请合掌，虔诚地默念「南无观世音菩萨」三遍。</span>
+							</div>
+						</li>
+						<li>
+							<span class="step-num">2</span>
+							<div>
+								<strong><span data-lang="en">State your question</span><span data-lang="zh">说明事项</span></strong>
+								<span data-lang="en">Confess sincerely to Guanyin Bodhisattva, stating clearly the question you wish to ask: “I, Disciple ... wish to ask for the compassionate guidance of Avalokiteshvara (state the matter)”</span>
+								<span data-lang="zh">诚心地向观音菩萨启白，明确地提出您的问题：<br>弟子。。。有一件事想请求观世音菩萨的慈悲引导「说明事项」</span>
+								<div class="sub-accordion">
+									<button class="sub-toggle collapsed" type="button" data-toggle="collapse" data-target="#questionTips">
+										<span data-lang="en">Ask specific questions to get better results</span><span data-lang="zh">问题越具体，指引越明确</span>
+									</button>
+									<div id="questionTips" class="collapse">
+										<ul class="sub-list">
+											<li><span data-lang="en">Ask about one matter at a time.</span><span data-lang="zh">一次只问一件事。</span></li>
+											<li><span data-lang="en">Name the person, situation and timeframe, e.g. “Will my job application succeed this year?” rather than “How is my career?”</span><span data-lang="zh">说明人、事和时间，例如「我今年的工作申请能否成功？」而不是「我的事业如何？」</span></li>
+											<li><span data-lang="en">Ask what you should do, not only yes or no.</span><span data-lang="zh">可请求指引应如何做，而不只是问是否。</span></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<span class="step-num">3</span>
+							<div>
+								<strong><span data-lang="en">Draw your lot</span><span data-lang="zh">求签</span></strong>
+								<span data-lang="en">Shake or click on the divination flask.</span>
+								<span data-lang="zh">摇动或单击签桶。</span>
+							</div>
+						</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="flow-cta">
+		<button type="button" class="btn btn-lg btn-block" id="flowCta"></button>
+	</div>
+</aside>
+<div class="imageBanner" id="imgBanner" >
+	<div class="counter-box"> <span class="counter" id="counterValue">0</span>
+		<!--<h5>求签数据</h5>-->
+	</div>
+   <div class="imageLeft">
+	  <img src="./assets/img/qian-tong.png" id="item" ontouchstart="touchstart()" onmousedown="mousedown()">
+   </div>
+   <div class="imageCentre">
+	  <img src="./assets/img/GuanYinPink1-clean.jpg">
+   </div>
+   <div class="qian-container" >
+	  <img src="./assets/img/qian/qian1.png" id="qian1" class="qian">
+	  <img src="./assets/img/qian/qian2.png" id="qian2" class="qian">
+	  <img src="./assets/img/qian/qian3.png" id="qian3" class="qian">
+	  <img src="./assets/img/qian/qian4.png" id="qian4" class="qian">
+	  <img src="./assets/img/qian/qian5.png" id="qian5" class="qian">
+	  <img src="./assets/img/qian/qian6.png" id="qian6" class="qian">
+	  <img src="./assets/img/qian/qian7.png" id="qian7" class="qian">
+	  <img src="./assets/img/qian/qian8.png" id="qian8" class="qian">
+	  <img src="./assets/img/qian/qian9.png" id="qian9" class="qian">
+	  <img src="./assets/img/qian/qian10.png" id="qian10" class="qian">
+	  
+	  <img src="./assets/img/qian/qian11.png" id="qian11" class="qian">
+	  <img src="./assets/img/qian/qian12.png" id="qian12" class="qian">
+	  <img src="./assets/img/qian/qian13.png" id="qian13" class="qian">
+	  <img src="./assets/img/qian/qian14.png" id="qian14" class="qian">
+	  <img src="./assets/img/qian/qian15.png" id="qian15" class="qian">
+	  <img src="./assets/img/qian/qian16.png" id="qian16" class="qian">
+	  <img src="./assets/img/qian/qian17.png" id="qian17" class="qian">
+	  <img src="./assets/img/qian/qian18.png" id="qian18" class="qian">
+	  <img src="./assets/img/qian/qian19.png" id="qian19" class="qian">
+	  <img src="./assets/img/qian/qian20.png" id="qian20" class="qian">	
+
+	  <img src="./assets/img/qian/qian21.png" id="qian21" class="qian">
+	  <img src="./assets/img/qian/qian22.png" id="qian22" class="qian">
+	  <img src="./assets/img/qian/qian23.png" id="qian23" class="qian">
+	  <img src="./assets/img/qian/qian24.png" id="qian24" class="qian">
+	  <img src="./assets/img/qian/qian25.png" id="qian25" class="qian">
+	  <img src="./assets/img/qian/qian26.png" id="qian26" class="qian">
+	  <img src="./assets/img/qian/qian27.png" id="qian27" class="qian">
+	  <img src="./assets/img/qian/qian28.png" id="qian28" class="qian">
+	  <img src="./assets/img/qian/qian29.png" id="qian29" class="qian">
+	  <img src="./assets/img/qian/qian30.png" id="qian30" class="qian">	
+
+	  <img src="./assets/img/qian/qian31.png" id="qian31" class="qian">
+	  <img src="./assets/img/qian/qian32.png" id="qian32" class="qian">
+	  <img src="./assets/img/qian/qian33.png" id="qian33" class="qian">
+	  <img src="./assets/img/qian/qian34.png" id="qian34" class="qian">
+	  <img src="./assets/img/qian/qian35.png" id="qian35" class="qian">
+	  <img src="./assets/img/qian/qian36.png" id="qian36" class="qian">
+	  <img src="./assets/img/qian/qian37.png" id="qian37" class="qian">
+	  <img src="./assets/img/qian/qian38.png" id="qian38" class="qian">
+	  <img src="./assets/img/qian/qian39.png" id="qian39" class="qian">
+	  <img src="./assets/img/qian/qian40.png" id="qian40" class="qian">	  
+	  
+	  <img src="./assets/img/qian/qian41.png" id="qian41" class="qian">
+	  <img src="./assets/img/qian/qian42.png" id="qian42" class="qian">
+	  <img src="./assets/img/qian/qian43.png" id="qian43" class="qian">
+	  <img src="./assets/img/qian/qian44.png" id="qian44" class="qian">
+	  <img src="./assets/img/qian/qian45.png" id="qian45" class="qian">
+	  <img src="./assets/img/qian/qian46.png" id="qian46" class="qian">
+	  <img src="./assets/img/qian/qian47.png" id="qian47" class="qian">
+	  <img src="./assets/img/qian/qian48.png" id="qian48" class="qian">
+	  <img src="./assets/img/qian/qian49.png" id="qian49" class="qian">
+	  <img src="./assets/img/qian/qian50.png" id="qian50" class="qian">	 
+
+	  <img src="./assets/img/qian/qian51.png" id="qian51" class="qian">
+	  <img src="./assets/img/qian/qian52.png" id="qian52" class="qian">
+	  <img src="./assets/img/qian/qian53.png" id="qian53" class="qian">
+	  <img src="./assets/img/qian/qian54.png" id="qian54" class="qian">
+	  <img src="./assets/img/qian/qian55.png" id="qian55" class="qian">
+	  <img src="./assets/img/qian/qian56.png" id="qian56" class="qian">
+	  <img src="./assets/img/qian/qian57.png" id="qian57" class="qian">
+	  <img src="./assets/img/qian/qian58.png" id="qian58" class="qian">
+	  <img src="./assets/img/qian/qian59.png" id="qian59" class="qian">
+	  <img src="./assets/img/qian/qian60.png" id="qian60" class="qian">
+	  
+	  <img src="./assets/img/qian/qian61.png" id="qian61" class="qian">
+	  <img src="./assets/img/qian/qian62.png" id="qian62" class="qian">
+	  <img src="./assets/img/qian/qian63.png" id="qian63" class="qian">
+	  <img src="./assets/img/qian/qian64.png" id="qian64" class="qian">
+	  <img src="./assets/img/qian/qian65.png" id="qian65" class="qian">
+	  <img src="./assets/img/qian/qian66.png" id="qian66" class="qian">
+	  <img src="./assets/img/qian/qian67.png" id="qian67" class="qian">
+	  <img src="./assets/img/qian/qian68.png" id="qian68" class="qian">
+	  <img src="./assets/img/qian/qian69.png" id="qian69" class="qian">
+	  <img src="./assets/img/qian/qian70.png" id="qian70" class="qian">	  
+	  
+	  <img src="./assets/img/qian/qian71.png" id="qian71" class="qian">
+	  <img src="./assets/img/qian/qian72.png" id="qian72" class="qian">
+	  <img src="./assets/img/qian/qian73.png" id="qian73" class="qian">
+	  <img src="./assets/img/qian/qian74.png" id="qian74" class="qian">
+	  <img src="./assets/img/qian/qian75.png" id="qian75" class="qian">
+	  <img src="./assets/img/qian/qian76.png" id="qian76" class="qian">
+	  <img src="./assets/img/qian/qian77.png" id="qian77" class="qian">
+	  <img src="./assets/img/qian/qian78.png" id="qian78" class="qian">
+	  <img src="./assets/img/qian/qian79.png" id="qian79" class="qian">
+	  <img src="./assets/img/qian/qian80.png" id="qian80" class="qian">	
+
+	  <img src="./assets/img/qian/qian81.png" id="qian81" class="qian">
+	  <img src="./assets/img/qian/qian82.png" id="qian82" class="qian">
+	  <img src="./assets/img/qian/qian83.png" id="qian83" class="qian">
+	  <img src="./assets/img/qian/qian84.png" id="qian84" class="qian">
+	  <img src="./assets/img/qian/qian85.png" id="qian85" class="qian">
+	  <img src="./assets/img/qian/qian86.png" id="qian86" class="qian">
+	  <img src="./assets/img/qian/qian87.png" id="qian87" class="qian">
+	  <img src="./assets/img/qian/qian88.png" id="qian88" class="qian">
+	  <img src="./assets/img/qian/qian89.png" id="qian89" class="qian">
+	  <img src="./assets/img/qian/qian90.png" id="qian90" class="qian">	
+
+	  <img src="./assets/img/qian/qian91.png" id="qian91" class="qian">
+	  <img src="./assets/img/qian/qian92.png" id="qian92" class="qian">
+	  <img src="./assets/img/qian/qian93.png" id="qian93" class="qian">
+	  <img src="./assets/img/qian/qian94.png" id="qian94" class="qian">
+	  <img src="./assets/img/qian/qian95.png" id="qian95" class="qian">
+	  <img src="./assets/img/qian/qian96.png" id="qian96" class="qian">
+	  <img src="./assets/img/qian/qian97.png" id="qian97" class="qian">
+	  <img src="./assets/img/qian/qian98.png" id="qian98" class="qian">
+	  <img src="./assets/img/qian/qian99.png" id="qian99" class="qian">
+	  <img src="./assets/img/qian/qian100.png" id="qian100" class="qian">
+   </div>
+
+</div>
+</div>
+
+
+<script>
+    var random_num = Math.floor((Math.random() * 100) + 1);
+	var qian = "qian";	
+	var qianChosen  = "";	
+    var dragItem = document.querySelector("#item");
+    //var container = document.querySelector("#container");
+
+    var active = false;
+    var currentX;
+    var currentY;
+    var initialX;
+    var initialY;
+    var xOffset = 0;
+    var yOffset = 0;
+	var y_limit = 450;
+	
+	var env = findBootstrapEnvironment();	
+	
+	var clickSound = new Audio("./assets/audio/shake.mp3");
+	clickSound.loop = true;
+
+	function enableLoop() { 
+	  x.loop = true;
+	  x.load();
+	} 
+
+	function disableLoop() { 
+	  x.loop = false;
+	  x.load();
+	} 
+	
+	function playSound() {
+		console.log("play sound");
+		clickSound.play();
+	}
+	
+	function touchstart(){
+		console.log("touch start");
+		playSound();
+	}
+	
+	function mousedown(){
+		console.log("mouse down");
+		playSound();
+	}
+	
+
+    item.addEventListener("touchstart", dragStart, false);
+    item.addEventListener("touchend", dragEnd, false);
+    item.addEventListener("touchmove", drag, false);
+
+    item.addEventListener("mousedown", dragStart, false);
+    item.addEventListener("mouseup", dragEnd, false);
+    item.addEventListener("mousemove", drag, false);
+	
+	console.log(findBootstrapEnvironment());
+	console.log(getViewport());
+
+	// Flow: the guide lists all three steps; the CTA draws the lot, then opens its interpretation
+	var flowState = "ready"; // ready -> shaking -> drawn
+
+	function setCta(en, zh, disabled) {
+		$("#flowCta")
+			.html('<span data-lang="en">' + en + '</span><span data-lang="zh">' + zh + '</span>')
+			.prop("disabled", !!disabled);
+	}
+
+	function updateFlow() {
+		if (flowState === "shaking") {
+			setCta("Shaking...", "摇签中...", true);
+		} else if (flowState === "drawn") {
+			setCta("Interpret lot no. " + random_num, "解第 " + random_num + " 签");
+		} else {
+			setCta("Shake the flask", "摇签");
+		}
+	}
+
+	function flowShaking() {
+		flowState = "shaking";
+		updateFlow();
+	}
+
+	function flowDrawn() {
+		flowState = "drawn";
+		updateFlow();
+	}
+
+	function drawLot() {
+		document.getElementById(qian+random_num).style.display = "none";
+		reset1();
+		playSound();
+		flowShaking();
+		dragEnd();
+		if (window.innerWidth < 992) {
+			document.getElementById("imgBanner").scrollIntoView({ behavior: "smooth" });
+		}
+	}
+
+	$("#flowCta").on("click", function () {
+		if (flowState === "drawn") {
+			sessionStorage.setItem("number", random_num);
+			window.location.href = withLang("./lots/" + random_num + ".html");
+		} else {
+			drawLot();
+		}
+	});
+
+	updateFlow();
+
+    function dragStart(e) {
+	 console.log("drag start")
+	 document.getElementById(qian+random_num).style.display = "none";
+	 flowShaking();
+	  reset1();
+      if (e.type === "touchstart") {
+	  	console.log("drag touch start")
+	    //playSound();
+        initialX = e.touches[0].clientX - xOffset;
+        initialY = e.touches[0].clientY - yOffset;
+      } else {
+        initialX = e.clientX - xOffset;
+        initialY = e.clientY - yOffset;
+      }
+
+      if (e.target === dragItem) {
+        active = true;
+      }
+	  	  
+    }
+
+    function dragEnd(e) {
+	    console.log("drag end")
+		active = false;
+
+		var s = document.getElementById("item");
+		s.classList.add("shake");
+		setTimeout(stopSound, 4000);
+		s.style.WebkitAnimation = "shake 0.5s 8"; // Code for Chrome, Safari and Opera
+		s.style.animation = "shake 0.5s 8";     // Standard syntax
+		showLot();
+
+	   // active = false;
+    }
+	
+	function stopSound()
+	{
+		  clickSound.pause();
+		  flowDrawn();
+	}
+	
+	function showLot()
+	{
+
+	  random_num = Math.floor((Math.random() * 100) + 1);
+	  document.getElementById(qian+random_num).style.display = "block";
+      initialX = 0;//currentX;
+      initialY = 0;//currentY;
+	  
+	  xOffset = 0;
+	  yOffset = 0;
+	  
+	  setTranslate(0, 0, dragItem);
+
+      active = false;
+	 // timer();
+	  console.log("showLot")
+	  console.log("x", currentX)
+	  console.log("y", currentY)
+	  
+	  runHitCounter();
+	}
+
+    function drag(e) {
+      if (active) {
+      
+        e.preventDefault();
+      
+        if (e.type === "touchmove") {
+          currentX = e.touches[0].clientX - initialX;
+          currentY = e.touches[0].clientY - initialY;
+        } else {
+          currentX = e.clientX - initialX;
+          currentY = e.clientY - initialY;
+        }
+
+        xOffset = currentX;
+        yOffset = currentY;
+
+        setTranslate(currentX, currentY, dragItem);
+      }
+    }
+
+    function setTranslate(xPos, yPos, el) {
+      el.style.transform = "translate3d(" + xPos + "px, " + yPos + "px, 0)";
+    }
+	
+	//////////////////////
+	function start(){
+	    document.getElementById("lot_btn").style.display = "block";
+		document.getElementById(qian+random_num).style.display = "none";
+		random_num = Math.floor((Math.random() * 100) + 1);
+		document.getElementById(qian+random_num).style.display = "inline";
+		timer();
+	}	
+		
+	function reset1(){
+
+	console.log("reset");
+	if (typeof my_time !== 'undefined'){
+		clearTimeout(my_time);
+	}
+	
+	var el = document.getElementById('item');
+	el.style.animation = 'none';
+	el.offsetHeight; /* trigger reflow */
+	el.style.animation = null; 
+
+	console.log(qianChosen);
+	qianChosen = qian + random_num;
+	console.log(qianChosen);
+	console.log("random number",  random_num);
+	document.getElementById(qianChosen).style.left= "29%";
+	document.getElementById(qianChosen).style.top= "62%";
+
+	var y=document.getElementById(qianChosen).offsetTop;
+	var x=document.getElementById(qianChosen).offsetLeft;
+	//document.getElementById("msg").innerHTML="X: " + x  + " Y : " + y
+
+	}
+	
+	function disp(){
+		var step=1; // Change this step value
+
+		var y=document.getElementById(qian+random_num).offsetTop ;
+		var x=document.getElementById(qian+random_num).offsetLeft;
+		//console.log('y_disp', y);
+        console.log(y_limit);
+		if(y >= y_limit ){
+			dir = 'up';
+			y = y - step;
+			//console.log('y1', y);
+			
+			document.getElementById(qian+random_num).style.top= y + "px"; // vertical movment
+		}
+	}
+	
+	function timer(){
+		disp();
+		var y=document.getElementById(qian+random_num).offsetTop ;
+		var x=document.getElementById(qian+random_num).offsetLeft;
+		//console.log('x', x);
+		//console.log('y_timer', y);
+		//document.getElementById("msg").innerHTML="X: " + x  + " Y : " + y;
+		
+		my_time=setTimeout('timer()',10);
+	}
+	
+	function findBootstrapEnvironment() {
+		let envs = ['xs', 'sm', 'md', 'lg', 'xl'];
+
+		let el = document.createElement('div');
+		document.body.appendChild(el);
+
+		let curEnv = envs.shift();
+
+		for (let env of envs.reverse()) {
+			el.classList.add(`d-${env}-none`);
+
+			if (window.getComputedStyle(el).display === 'none') {
+				curEnv = env;
+				break;
+			}
+		}
+
+		document.body.removeChild(el);
+		return curEnv;
+	}
+	
+	function getViewport () {
+	  // https://stackoverflow.com/a/8876069
+	  const width = Math.max(
+		document.documentElement.clientWidth,
+		window.innerWidth || 0
+	  )
+	  
+	  const height = Math.max(
+		document.documentElement.clientHeight,
+		window.innerHeight || 0
+	  )
+	  console.log(height);
+	  
+	  if (height <= 568){
+		y_limit = 270;
+	  }
+	  
+	  if (height >= 569 && height <= 640){
+		y_limit = 290;
+	  }
+	  
+	  if (height >= 641 && height <= 653){
+		y_limit = 240;
+	  }
+	  
+	  if (height >= 654 && height <= 667){
+		y_limit = 320;
+	  }
+	  
+	  if (height >= 668 && height <= 720){
+	  document.getElementById("imgBanner").style.maxWidth = "430px";
+		y_limit = 420;
+	  }
+	  
+	  if (height >= 721 && height <= 731){
+		y_limit = 350;
+	  }
+	  
+	  if (height >= 732 && height <= 736){
+		y_limit = 355;
+	  }	
+	  
+	  if (height >= 737 && height <= 757){
+		y_limit = 415;
+	  }	
+	  
+	  if (height >= 758 && height <= 812){
+		y_limit = 310;
+	  }	  
+	  
+	  if (height >= 813 && height <= 823){
+		y_limit = 350;
+	  }
+	  
+	  if (height >= 1024 && height <= 1365){
+		document.getElementById("imgBanner").style.maxWidth = "600px";
+	  }
+	  
+	  if (height >= 1366){
+		document.getElementById("imgBanner").style.maxWidth = "790px";
+	  }
+	  
+	  if (width <= 576) return 'xs'
+	  if (width <= 768) return 'sm'
+	  if (width <= 992) return 'md'
+	  if (width <= 1200) return 'lg'
+	  return 'xl'
+	}
+	
+	function runHitCounter(){	
+		//if (location.hostname.toLowerCase() == "chanmh-dev.github.io"){
+		  // Your web app's Firebase configuration
+		  var firebaseConfig = {
+			apiKey: "AIzaSyDYCHz8eLeA5QX5BDXvLmwyRAcXnahNOuU",
+			authDomain: "hitcounter-4ecc7.firebaseapp.com",
+			databaseURL: "https://hitcounter-4ecc7.firebaseio.com",
+			projectId: "hitcounter-4ecc7",
+			storageBucket: "hitcounter-4ecc7.appspot.com",
+			messagingSenderId: "1032542240110",
+			appId: "1:1032542240110:web:1ce39ce0065cd699b4957f"
+		  };
+		  // Initialize Firebase
+		  //firebase.initializeApp(firebaseConfig);
+		  
+			 //rootRef is a reference to the whole Firebase database.
+			const rootRef = firebase.database().ref();
+			// pageCountRef is just the node that tracks hits
+			const pageCountsRef = rootRef.child("pageCounts");
+			
+			//Gets the key and current hit count for the page (if it exists)
+			let getHistory = new Promise(function (resolve, reject) {
+			  //Create an object to store copy of the saved db data.
+			  let obj = {};
+			  pageCountsRef.orderByChild("page").equalTo(location.pathname).once("value", function (snapshot) {
+				snapshot.forEach(function (child) {
+				  obj = {
+					key: child.key,
+					count: child.val().count
+				  }
+				});
+				if (obj) {
+				  resolve(obj);
+				} else {
+				  reject(error);
+				}
+			  });
+			});
+			//When getHistory promise resoves, the key is either undefined (page not in the database),
+			//Or key is a string that uniquely identifies the page in the database.
+			getHistory.then(function (fromResolve) {
+			  var key = fromResolve.key;
+			  var pastcounts = fromResolve.count;
+			  //If key is undefined, create a new key for this database item.
+			  if (key == undefined) {
+				key = pageCountsRef.push().key;
+				pastcounts = 0;
+			  }
+			  //Total hits to date.
+			  counts = pastcounts + 1;
+			  console.log("counts", counts);
+
+			  $(".counter").text(counts.toString());
+			  //Gather info to post
+			  var postData = {
+				page: location.pathname,
+				count: counts,
+				lastvisit: firebase.database.ServerValue.TIMESTAMP,
+				lastreferrer: document.referrer
+			  }
+
+			  var updates = {}
+			  updates["/pageCounts/" + key] = postData;
+			  rootRef.update(updates);
+			}).catch(function (fromReject) {
+			  console.log(error);
+			})
+		//}
+	}	
+
+</script>
+
+
+<script>
+	
+	function getHitCounter(){
+	    console.log("loc", location.hostname.toLowerCase());
+		//if (location.hostname.toLowerCase() == "chanmh-dev.github.io"){
+		  // Your web app's Firebase configuration
+		  var firebaseConfig = {
+			apiKey: "AIzaSyDYCHz8eLeA5QX5BDXvLmwyRAcXnahNOuU",
+			authDomain: "hitcounter-4ecc7.firebaseapp.com",
+			databaseURL: "https://hitcounter-4ecc7.firebaseio.com",
+			projectId: "hitcounter-4ecc7",
+			storageBucket: "hitcounter-4ecc7.appspot.com",
+			messagingSenderId: "1032542240110",
+			appId: "1:1032542240110:web:1ce39ce0065cd699b4957f"
+		  };
+		  // Initialize Firebase
+		  firebase.initializeApp(firebaseConfig);
+		  
+			 //rootRef is a reference to the whole Firebase database.
+			const rootRef = firebase.database().ref();
+			// pageCountRef is just the node that tracks hits
+			const pageCountsRef = rootRef.child("pageCounts");
+			
+			//Gets the key and current hit count for the page (if it exists)
+			let getHistory = new Promise(function (resolve, reject) {
+			  //Create an object to store copy of the saved db data.
+			  let obj = {};
+			  pageCountsRef.orderByChild("page").equalTo(location.pathname).once("value", function (snapshot) {
+				snapshot.forEach(function (child) {
+				  obj = {
+					key: child.key,
+					count: child.val().count
+				  }
+				});
+				if (obj) {
+				  resolve(obj);
+				} else {
+				  reject(error);
+				}
+			  });
+			});
+			//When getHistory promise resoves, the key is either undefined (page not in the database),
+			//Or key is a string that uniquely identifies the page in the database.
+			getHistory.then(function (fromResolve) {
+			  var key = fromResolve.key;
+			  var pastcounts = fromResolve.count;
+			  //If key is undefined, create a new key for this database item.
+			  if (key == undefined) {
+				key = pageCountsRef.push().key;
+				pastcounts = 0;
+			  }
+			  //Total hits to date.
+			  console.log("hit counts", pastcounts);
+			  
+			$(".counter").text(pastcounts.toString());
+			$('.counter').each(function () {
+			$(this).prop('Counter',0).animate({
+			Counter: $(this).text()
+			}, {
+					duration: 4000,
+					easing: 'swing',
+					step: function (now) {
+					$(this).text(Math.ceil(now));
+					}
+				});
+			});			  
+
+			}).catch(function (fromReject) {
+			  console.log(error);
+			})
+		//}
+	}	
+
+	$(document).ready(function() {
+	    getHitCounter();
+	});
+</script>
+
+</body>
+</html>

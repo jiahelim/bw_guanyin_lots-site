@@ -1,0 +1,39 @@
+{
+  "n": 16,
+  "zh": {
+    "grade": "中签",
+    "poem": ["愁眉思虑暂时开", "启出云霄喜自来", "宛如粪土中藏玉", "良工荐举出尘埃"],
+    "jieyue": ["得处无失", "损中有益", "小人逢凶", "君子顺吉"],
+    "shiyi": ["此卦阴阳和合之象。", "凡所谋皆吉也。"],
+    "explain": "愁容焦虑在短时间内就会消除，喜事也自会到来。就像宝玉埋藏在粪土中，一旦遇知音荐举，就能大展才华，出人头地。",
+    "divination": ["此签为中签。", "得到的东西没有损失，即使有损失，其间也隐藏着益处。", "是小人总要遇到厄运，是君子必定会顺利吉祥。"],
+    "items": [
+      ["家宅情况", "渐安"], ["自身情况", "下半年吉利"], ["投资理财", "成功"],
+      ["经商买卖", "成功"], ["工农商业", "应积善祈福"], ["工作事业", "真才实干，必有成就"], ["学业考试", "努力向上有佳绩"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "会有虚惊"], ["出门在外", "已到达目的地"], ["畜养动物", "一般"],
+      ["寻人", "找见"], ["寻失物", "寻找会有阻碍"], ["官司诉讼", "不利"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "不变"], ["治病健康", "应积善祈福庇佑"], ["祖坟牌位", "平安"]
+    ],
+    "summary": "此卦阴阳和合之象。所祈求之事如果有所谋划则必定吉祥。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Put aside your worries and sorrows,", "As the clouds clear, joy will follow.", "Like a piece of jade buried in a heap of dung,", "A skilled craftsman would soon uncover its value."],
+    "interpretation": ["Gain and no loss. Damage will be made good.", "The villain will meet his just deserts.", "The virtuous will be rewarded."],
+    "meaning": ["Yin and Yang in harmony, what you seek will be fortuitous."],
+    "explain": "Sadness and anxiety will clear up soon, followed naturally by happy events. Just like a precious jade buried in dirt & dung, you will be able to showcase your talent and excel above others, upon meeting one who discovers your talent.",
+    "divination": ["This is a neutral lot.", "What you get will not be lost. Even if there is a loss, there will be hidden benefits. A villain will surely meet with bad luck, while a noble person will surely have a smooth and auspicious life."],
+    "items": [
+      ["Household", "Gradually safe"], ["Self", "Auspicious in later half of the year"],
+      ["Investment and financial management", "Successful"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Pray for blessings"], ["Career", "Real talents and hard work will lead to success"],
+      ["Academic and examination", "Hard work will succeed"], ["Marriage", "Successful"],
+      ["Birth", "False alarm"], ["Traveller", "Arrived at destination"], ["Husbandry", "Average"],
+      ["Missing person", "Will find"], ["Missing things", "Obstruction"], ["Lawsuit", "Not favorable"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Don’t change"],
+      ["Sickness", "Pray & do more good deeds"], ["Ancestral grave", "Safe"]
+    ],
+    "summary": null
+  },
+  "notes": "zh divination is printed as three deliberate lines (3 array entries). en interpretation double space after 'loss.' normalized. Extra 迁徙搬家 / Migrating row present."
+}

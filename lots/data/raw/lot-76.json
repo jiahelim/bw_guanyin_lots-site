@@ -1,0 +1,38 @@
+{
+  "n": 76,
+  "zh": {
+    "grade": "中签",
+    "poem": ["鱼龙混杂意相同", "耐守深潭待运通", "不觉一朝头耸出", "禹门一跳过龙宫"],
+    "jieyue": ["虽是滋基", "也要待时", "营谋自本", "切莫妄为"],
+    "shiyi": ["此卦鱼龙未变之象，", "凡事待时至可也。"],
+    "explain": "鱼龙混杂，都想得到高升，所以最好是耐心待在深水里等待命运亨通。机缘到来时，会不知不觉一纵身就会跳过龙门。",
+    "divination": ["此签为中签。", "虽然有良好的根基，但也要静待时机。", "在谋划和行动时要根据自己的实际情况，切不要胆大妄为。"],
+    "items": [
+      ["家宅情况", "平安"], ["自身情况", "康泰"], ["投资理财", "有所收获"],
+      ["经商买卖", "等待时机"], ["工农商业", "晚些时候会丰收"], ["工作事业", "不要轻举妄动，宜小心。"], ["学业考试", "宜平日做足准备"],
+      ["爱情婚姻", "过一些时间合适"], ["怀孕生育", "男孩"], ["出门在外", "到达目的地的时间延迟"], ["畜养动物", "到年末时顺利"],
+      ["寻人", "不能遇见"], ["官司诉讼", "会延期"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "等到时机成熟"], ["治病健康", "有阻碍"], ["祖坟牌位", "护佑后代，财运亨通"]
+    ],
+    "summary": "此卦鱼龙未变之象。所祈求之事宜等待时机的到来，则可进行。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A fish? A dragon? Looks different but they are the same,", "Patiently they wait in deep waters for their luck to turn.", "Suddenly one day, one rears its head", "And in one leap, crosses the Dragon Gate."],
+    "interpretation": ["Even with a well-nourished foundation, one needs time to flourish.", "Manage and plan your own affairs and do not be arrogant and reckless."],
+    "meaning": ["A fish has yet to transform into a dragon.", "Everything will be in place if you only wait."],
+    "explain": "Fish and dragons are mixed in a pond, all hoping to rise up, so it is best to be patient in the deep water and wait for your good fortune to come. When the right time comes, you will unknowingly cross the dragon gate in one leap. (i.e. gain success effortlessly).",
+    "divination": ["This is a neutral lot.", "Although the foundations are strong, there is a need to wait patiently for the right timing. You must assess the actual situation before you decide to put your plans into action, do not be too bold and reckless."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Healthy and well"],
+      ["Investment and financial management", "Profitable"], ["Business", "Wait for right time"],
+      ["Agriculture and commerce", "Late success"], ["Career", "Do not act rashly, it is advisable to be careful."], ["Academic and examination", "Make enough preparations well in advance"],
+      ["Marriage", "Late match"], ["Birth", "Boy"], ["Traveller", "Will be delayed"], ["Husbandry", "Will be favorable at year end"],
+      ["Missing person", "Not to be found"], ["Lawsuit", "Prolonged"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Wait for the right time"],
+      ["Sickness", "Obstacles"], ["Ancestral grave", "Protect future generations then will prosper."]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages omit 寻失物 / 'Missing things' and include 迁徙搬家 / 'Migrating and moving house' (17 items). zh poem 头耸出 and jieyue 滋基 copied as printed. en uses 'Traveller'."
+}

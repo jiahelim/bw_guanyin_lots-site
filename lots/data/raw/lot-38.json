@@ -1,0 +1,37 @@
+{
+  "n": 38,
+  "zh": {
+    "grade": "下签",
+    "poem": ["月照天宅静处期", "忽遭云雾又昏迷", "宽心祈信云霞散", "此时更改好施为"],
+    "jieyue": ["家道忧凶", "人口有灾", "祈福保庆", "犹恐破财"],
+    "shiyi": ["此卦云雾遮月之象。", "凡事未遂守旧也。"],
+    "explain": "心地坦诚地期盼好光景，等来的却是云雾遮蔽，前景迷茫。与其用很多心思祈求云开雾散，还不如多做善事，礼敬佛菩萨。",
+    "divination": ["此签为下签。", "家中恐有凶险的事发生，家庭成员中也恐有人会遭遇灾难。", "想做法事祈福求保，却又担心会破财。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "积善祈求庇佑保平安"], ["投资理财", "有困难"],
+      ["经商买卖", "宜安守现况"], ["工农商业", "有损失"], ["工作事业", "等待时机"], ["学业考试", "多用功"],
+      ["爱情婚姻", "难相合"], ["怀孕生育", "防虚惊"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "会遇"], ["失物", "无法找到"], ["官司诉讼", "会和解"], ["迁徙搬家", "平安"], ["转换变更", "宜守"],
+      ["治病健康", "康复时间较长"], ["祖坟牌位", "宜作修缮"]
+    ],
+    "summary": "此卦云雾遮月之象。所祈求之事未能顺心如愿，宜保持原来的状况。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["The moon shines silently onto the house,", "Sudden clouds and fog dims the beam.", "Pray generously and wait for the fog to lift,", "Now is the time for more meaningful deeds."],
+    "interpretation": ["Outlook for the family is ominous, there may be disaster or sorrow.  Pray for protection and stay optimistic but be prepared for any loss of fortune."],
+    "meaning": ["The moon is overshadowed by clouds and fog.", "Your wishes are yet to be fulfilled, you should let things remain status quo."],
+    "explain": "You sincerely hoped for a good situation, but what came was like being covered by clouds, meaning the prospects are confused. Rather than praying for the clouds to disappear, it is better to spend time doing more charity and praying to the Buddha and deities.",
+    "divination": ["This is an inauspicious lot.", "Outlook for the family is ominous, likely to encounter disaster or grief.", "You wish to pray & seek blessings and protection, but yet you worry about the costs."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "Do good pray for blessings & protection"],
+      ["Investment and financial management", "Have difficulty"], ["Business", "Better to keep as present"],
+      ["Agriculture and commerce", "Loss"], ["Career", "Wait for opportunities"], ["Academic and examination", "Work harder"],
+      ["Marriage", "Difficult to match"], ["Birth", "False alarm"], ["Traveller", "Obstruction"], ["Husbandry", "Loss"],
+      ["Missing person", "Will meet"], ["Missing things", "Not found"], ["Lawsuit", "Amiable"], ["Migrating and moving house", "Safe"],
+      ["Change", "Keep as current"], ["Sickness", "Recovery period is long"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "zh item key printed as 失物 (not 寻失物) and 畜养动物; extra 迁徙搬家 item. en 'Sickness:' has a double space after the colon in the image (trimmed)."
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1,
+  "zh": {
+    "grade": "上签",
+    "poem": ["开天辟地作良缘", "吉日良时万物全", "若得此签非小可", "人行忠正帝王宣"],
+    "jieyue": ["急速兆速", "年末值时", "观音降笔", "先报君知"],
+    "shiyi": ["此卦盘古初开天地之象。", "诸事皆吉也。"],
+    "explain": "人生最好的机缘即将到来，但是要成功仍须下一番苦功夫；待到吉日良时，万事都能成就。因此你仍须忍耐，不可过于急切，要相信功到自然成。得到此签实属不易，只要为人正直、忠诚、行事不抱私心，便必定会得到领导的赏识，所以应当朝既定目标不懈奋进。",
+    "divination": ["此签为上签。", "好运很快就要来临，虽然好运出现的时间应在年末，但观音菩萨已用此签降下吉兆，先报给你知道了。"],
+    "items": [
+      ["家宅情况", "勤加积善祈福"], ["自身情况", "下半年兴旺"], ["投资理财", "下半年大好"],
+      ["经商买卖", "成功"], ["工农商业", "好"], ["工作事业", "厚植实力"], ["学业考试", "顺利"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "生男"], ["出门在外", "平安"], ["家养动物", "好"],
+      ["寻人", "见到"], ["寻失物", "在东北方向"], ["官司诉讼", "吉利"], ["转换变更", "顺缘"],
+      ["治病健康", "作大祈福回向"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦盘古初开天地之象。所祈求之事都非常吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The world begins and calls for opportunity, and things will fall into place at the right time,", "obtaining this lot is extremely auspicious, just like the King rewards the loyal and righteous ones."],
+    "interpretation": ["You are ready, the conditions are favorable, seize the opportunities, prosperity and success will be yours as the Goddess Guan Yin has indicated."],
+    "meaning": ["In the Pan Gu legend the creation of the world is described where all creatures will be given life.", "It signifies abundance and fortune in all matters."],
+    "explain": "You will be experiencing the best opportunity in life soon. However, in order to succeed, hard work is still required. Everything can be accomplished at the right time. Therefore, you need to be patient. Believe that achievements will take place with efforts made. It is not easy to receive this lot, and as long as one is upright, loyal and has integrity, you will be appreciated by your superior. Thus, you should make unremitting efforts towards your goal.",
+    "divination": ["This is an auspicious lot.", "Good luck is coming soon. Although good luck will come at year end, Guan Yin Bodhisattva has already given good omen here and revealed this auspicious news to you in advance."],
+    "items": [
+      ["Household", "Work hard to do more good and pray for blessings"], ["Self", "Prosperous in second half of the year"],
+      ["Investment and financial management", "Prosperous in second half of the year"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Good"], ["Career", "Build up your own strength"], ["Academic and examination", "Smooth"],
+      ["Marriage", "Successful"], ["Birth", "Boy"], ["Travel", "Safe"], ["Husbandry", "Good"],
+      ["Missing person", "Will be found"], ["Missing things", "Northeast"], ["Lawsuit", "Success"], ["Change", "Favorable"],
+      ["Sickness", "Vast offerings, pray for blessings & do dedication"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": ""
+}

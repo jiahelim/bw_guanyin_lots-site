@@ -1,0 +1,28 @@
+{
+  "n": 100,
+  "zh": {
+    "grade": "下签",
+    "poem": ["佛神灵通与君知", "痴人说事转昏迷", "老人求得灵签去", "不如守旧待时来"],
+    "jieyue": ["完满灵签", "尽报君知", "依旧勿动", "待等时至"],
+    "shiyi": ["此卦守常勿动之象。", "凡事宜待时吉也。"],
+    "explain": "灵通的佛神提醒你，不要愚昧地胡乱论事行事。如果是老年人抽到这一签，便不如守旧以等待时机到来。",
+    "divination": ["此签为下签。观音灵签至此完满终结，所有神机均已告知。", "保持原有的生活状态，不要胡乱改动，静待时机到来。"],
+    "items": [
+      ["", "这是观音签中的满签，诸事都不顺利。应广大行善积德、大做佛事，遵从菩萨的训示，获其神力护佑，方能保证平安。"]
+    ],
+    "summary": "此卦守常勿动之象。所祈求之事宜等待时机的来临，则会吉祥。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["The Buddhas and Gods have told you of changes to come,", "Pay no heed to what the foolish said.", "As the aged drew this divine Lot,", "Better to leave things as they are and wait."],
+    "interpretation": ["This is the last divine lot.", "You have been informed of what you need to know.", "Trust in the old and do not move.", "Wait patiently and bide your time."],
+    "meaning": ["Stay where you are.", "Do not make any move.", "Wait until the situation changes in your favor."],
+    "explain": "The spiritual Buddhas and Gods remind you of changes, and not to act foolishly and indiscriminately. If an elderly person draws this divine lot, it is better to remain as present and wait for the right time to come.",
+    "divination": ["This is an inauspicious lot. The Guanyin divine lots have come to an end, and all divine predictions have been revealed.", "Keep to your original lifestyle, do not make any random changes and patiently wait for the right opportunity."],
+    "items": [
+      ["", "This lot completes the Guanyin Oracle. When things are unfavourable, do your best to accumulate merits & do good, make vast offerings, pray for blessings, obey the teachings of Buddha & Bodhisattvas so that you may receive their divine protections. You can actively do good deeds, make donations, pray earnestly to Gods and the Buddhas for good outcomes in the future."]
+    ],
+    "summary": null
+  },
+  "notes": "Final lot. 事项 / Celestial Message on both pages is free text, not key/value pairs; stored as one pair with an empty key (zh text is printed on 3 lines, EN as 2 paragraphs; joined). Divination on both pages runs '此签为下签。' / 'This is an inauspicious lot.' straight into the next sentence on the same line, so it is not split off; array follows the image's line breaks (2 elements each)."
+}

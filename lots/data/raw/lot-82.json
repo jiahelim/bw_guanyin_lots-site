@@ -1,0 +1,37 @@
+{
+  "n": 82,
+  "zh": {
+    "grade": "中签",
+    "poem": ["炎炎烈火焰连天", "焰里还生一朵莲", "到底得成终不害", "枝叶生长根依然"],
+    "jieyue": ["虽然逢险", "不损其身", "营谋用事", "皆遇贵人"],
+    "shiyi": ["此卦火里生莲之象，", "凡事似险非险也。"],
+    "explain": "烈日炎炎像漫天火焰，莲花就生长在这酷热之中。它终究没有受到危害，根基未动，枝叶也依然茂盛。",
+    "divination": ["此签为中签。", "虽然遇到危险，却不会损伤根本。", "细心的谋划和所要做的事情，都能得到贵人的帮助。"],
+    "items": [
+      ["家宅情况", "不太安宁"], ["自身情况", "宜谨慎防护"], ["投资理财", "劳心费力收获少"],
+      ["经商买卖", "会遇到小人"], ["工农商业", "会有起伏，宜审慎"], ["工作事业", "虽逢难关而能跨越"], ["学业考试", "加倍用功，不进则退"],
+      ["爱情婚姻", "受阻拦"], ["怀孕生育", "会有虚惊"], ["出门在外", "在途中受阻"], ["畜养动物", "有损失"],
+      ["寻人", "在西方"], ["寻失物", "在南方"], ["官司诉讼", "会亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "安分守旧，静待机缘"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦火里生莲之象。所祈求之事看似凶险，实则并不凶险。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The fierce flames scorched the sky,", "Consumes all but a stalk of water-lily.", "Unscathed and unharmed till the end,", "It begins to blossom once again."],
+    "interpretation": ["Although there is danger, you will not be harmed.", "You will receive help from benefactors when managing your affairs."],
+    "meaning": ["The lotus survives the flames of the fire; you can still be safe even if the conditions are hazardous."],
+    "explain": "The scorching sun is like a fire in the sky and the lotus grows in such scorching heat. But it is ultimately not harmed by the flame, its roots remain firm and its leaves still lush.",
+    "divination": ["This is a neutral lot.", "Although there is danger, you are unharm.  Carefully plan what you set out to do and you will surely receive help from benefactors."],
+    "items": [
+      ["Household", "Lacks safety"], ["Self", "Need take good cautions"],
+      ["Investment and financial management", "Less profits despite working hard"], ["Business", "Will meet vile characters"],
+      ["Agriculture and commerce", "There will be ups and downs, so be cautious"], ["Career", "Meet obstacles but can overcome"], ["Academic and examination", "Must work extra hard, else will not advance"],
+      ["Marriage", "Obstruction"], ["Birth", "Have False alarm"], ["Traveller", "Obstruction on way"], ["Husbandry", "Damages"],
+      ["Missing person", "In the West"], ["Missing things", "South"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Maintain status quo"],
+      ["Change", "Stay put, & wait"], ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' on both pages. zh key printed 畜养动物; en key 'Traveller'. en verse line 1 ends with a slightly odd comma glyph (looks like a full-width/Chinese-font comma), transcribed as ','. Printed typos kept: 'you are unharm', 'Have False alarm'."
+}

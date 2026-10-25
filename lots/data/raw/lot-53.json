@@ -1,0 +1,37 @@
+{
+  "n": 53,
+  "zh": {
+    "grade": "中签",
+    "poem": ["失意翻成得意时", "龙吟虎啸两相宜", "青天自有通霄路", "许我功名必可期"],
+    "jieyue": ["教去即去", "教住即住", "自有亨通", "到头必利"],
+    "shiyi": ["此卦龙吟虎啸之象。", "凡事顺意有望也。"],
+    "explain": "由失意变为得意时，像龙吟虎啸一样，高歌腾跃都适宜。蓝天之下自然有直通云霄之路，得到功名也只是早晚的事。",
+    "divination": ["此签为中签。", "得此签者，让去就去，叫停就停。行动举止遵循对方的意愿，自然通达顺畅，到头来也必定会有好的结果。"],
+    "items": [
+      ["家宅情况", "不安宁"], ["自身情况", "不是很吉祥"], ["投资理财", "成绩平常"],
+      ["经商买卖", "不易成功"], ["工农商业", "有五成的收获"], ["工作事业", "勇敢面对困境，危机就是转机。"], ["学业考试", "继续努力，必成大器。"],
+      ["爱情婚姻", "会有好结果"], ["怀孕生育", "积善祈求庇佑保平安"], ["出门在外", "已达到目的地"], ["畜养动物", "有损"],
+      ["寻人", "自己会出现"], ["寻失物", "找到"], ["官司诉讼", "会和解"], ["迁徙搬家", "吉利"], ["转换变更", "适宜转变"],
+      ["治病健康", "会平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦龙吟虎啸之象。所祈求之事能顺从自己的意愿而有望成功。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["When disappointment turns to joy,", "The dragon’s song will blend with the tiger’s roar.", "A thoroughfare cuts through the clear blue sky,", "It’s time for one to gather fame once more."],
+    "interpretation": ["Let go of what needs to go, keep what needs to be kept.  Follow what is destined, you will understand and assimilate for your own use to pave your own path to success."],
+    "meaning": ["When the dragon calls or the tiger roars, there is hope that things will proceed as planned."],
+    "explain": "When frustration turns into success, it is appropriate to sing and dance out heartily, just like a tiger roars and a dragon exalts in triumph. Under the blue sky, there is naturally a direct way up to it, so it is just a matter of time before you achieve fame.",
+    "divination": ["This is a neutral lot.", "You will have a clear and smooth prospect when you follow the given instructions closely, let go of what needs to go, stop when told to stop, go with the flow. Eventually there will be good results."],
+    "items": [
+      ["Household", "Not safe"], ["Self", "Not v. auspicious"],
+      ["Investment and financial management", "Average"], ["Business", "Not easy to succeed"],
+      ["Agriculture and commerce", "50 % harvest is expected"], ["Career", "Face a difficult situation bravely, a crisis becomes a turning point."], ["Academic and examination", "Continue to work hard, it will become a great weapon."],
+      ["Marriage", "Will have good result"], ["Birth", "Accumulate merits, pray for protection & blessings"], ["Traveller", "Arrived"], ["Husbandry", "Damages"],
+      ["Missing person", "Appear on own"], ["Missing things", "Found"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Propitious"], ["Change", "Can change"],
+      ["Sickness", "Safe"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. Poem has 通霄路 as printed (shiyi/explain use 云霄). en interpretation line 1 (sentence break) kept within one string; 'Sickness:  Safe' has a double space after the colon on the page (trimmed in value). '50 %' spacing kept as printed."
+}

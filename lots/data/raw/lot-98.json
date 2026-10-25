@@ -1,0 +1,37 @@
+{
+  "n": 98,
+  "zh": {
+    "grade": "下签",
+    "poem": ["出入求谋事宜迟", "急恐闲愁惹是非", "如鸟飞入罗网内", "脱困能有几多时"],
+    "jieyue": ["守旧随时", "待贵人至", "若问诸般", "主事定迟"],
+    "shiyi": ["此卦守旧随缘之象。", "凡事不如意主凶也。"],
+    "explain": "在外在家谋事都要慢慢来，只怕过分着急会引起太多忧虑，招来麻烦。其结果必定如鸟儿飞进罗网里，摆脱困境要多少时日也未可知。",
+    "divination": ["此签为下签。", "保持原有的正常状态，随机缘变化而变化，以等待贵人出现。", "如果询问诸般事情的吉凶，则一定要迟稳，不可急躁冒进。"],
+    "items": [
+      ["家宅情况", "有忧愁疑惧"], ["自身情况", "会遭遇小人"], ["投资理财", "会破财"],
+      ["经商买卖", "会有损失"], ["工农商业", "勿轻举妄动，保持现状"], ["工作事业", "受阻，不能急躁"], ["学业考试", "不太理想，多下苦功"],
+      ["爱情婚姻", "有挑战"], ["怀孕生育", "防险，多调养身体"], ["出门在外", "被困在途中"], ["畜养动物", "有损夫"],
+      ["寻人", "毫无音信"], ["寻失物", "过程中有凶险"], ["官司诉讼", "会亏输"], ["迁徙搬家", "不要迁移搬动"], ["转换变更", "不变为上"],
+      ["治病健康", "疾病难康复，需长期作战"], ["祖坟牌位", "速祈福造善。"]
+    ],
+    "summary": "此卦守旧随缘之象。所祈求之事不太如意，有凶险之兆。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["Delay the journey to seek your fortune,", "Haste may breed grief and follies.", "Like a bird which has fallen into a waiting net,", "To escape will take much time."],
+    "interpretation": ["Remain and wait for your time and help from others.", "The advice is all affairs will be late in coming to fruition."],
+    "meaning": ["Stay where you are and be content with what you have.", "Situation is ominous and things are not in your favor."],
+    "explain": "Take your time to make plans at all places as haste may give rise to much worries and troubles. The result will certainly be like a bird which has flown into a waiting net,  not knowing how long it will take to be freed from its predicament.",
+    "divination": ["This is an inauspicious lot.", "Maintain the normal state that you originally have, change when the opportunity comes, wait for a benefactor to appear. If you are asking about the good or bad of things, then you must be patient, do not be rash and act prematurely."],
+    "items": [
+      ["Household", "Have worries and fears"], ["Self", "Meet vile characters"],
+      ["Investment and financial management", "Loss-making"], ["Business", "Will have losses"],
+      ["Agriculture and commerce", "Don't act rashly, keep the status quo"], ["Career", "Face obstacles, don’t be impatient."], ["Academic and examination", "The results are not as good as expected, work harder"],
+      ["Marriage", "Challenging"], ["Birth", "Take precaution & care"], ["Traveller", "Stuck on the way"], ["Husbandry", "Loss"],
+      ["Missing person", "No news at al"], ["Missing things", "Danger in the process"], ["Lawsuit", "Loss"], ["Migrating and moving house", "Should not move"], ["Change", "Best not to change"],
+      ["Sickness", "Difficult to recover, requires a long-term battle"], ["Ancestral grave", "Pray quickly for blessings & do good"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 畜养动物 value printed 有损夫 (typo for 有损失), kept as printed. EN 'No news at al' typo kept. EN image runs 'work harder Marriage: Challenging' together on one line; split into separate Academic and Marriage pairs. EN explain has a double space after 'net,' as printed."
+}

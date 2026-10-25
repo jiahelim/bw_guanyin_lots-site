@@ -1,0 +1,66 @@
+{
+  "n": 86,
+  "zh": {
+    "grade": "上签",
+    "poem": [
+      "春来花发映阳台",
+      "万里车来进宝财",
+      "若得禹门三级浪",
+      "恰如平地一声雷"
+    ],
+    "jieyue": [
+      "朝帝受职",
+      "如贫得宝",
+      "谋望从心",
+      "卦中第一"
+    ],
+    "shiyi": [
+      "此卦上朝见帝之象。",
+      "凡事大吉大利也。"
+    ],
+    "explain": "春来花开辉映门庭，招贤车来时财宝随至。如果龙门涌起波浪，就会身化为龙，像一声春雷名扬天下。",
+    "divination": [
+      "此签为上签。",
+      "若从政走仕途，能够得到职位；若是贫穷则可获得财宝，谋划展望未来的事业，也可以称心如意。这是所有卦中第一位的好卦。"
+    ],
+    "items": [
+      [
+        "",
+        "此签所昭示的神机是从心所欲，万事都吉祥顺利。"
+      ]
+    ],
+    "summary": "此卦上朝见帝之象。所祈求之事非常吉祥。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": [
+      "On the balcony, the flowers bloom as Spring arrives.",
+      "Treasures brought by vessels from miles away.",
+      "Once over the dragon’s gate, the waves surged thrice,",
+      "Shakes the earth like a sudden clap of thunder."
+    ],
+    "interpretation": [
+      "The emperor has appointed you.",
+      "This is like receiving endless wealth.",
+      "Everything will work out for the best.",
+      "This Lot is the best of all."
+    ],
+    "meaning": [
+      "An appointment conferred by the emperor (someone in higher authority).",
+      "Everything will be very auspicious and favorable."
+    ],
+    "explain": "Spring flowers bloom and brighten your door, and a chariot arrives, bringing loads of treasure. If a big wave surges at the dragon's gate, you will swiftly rise like a dragon, like a clap of thunder that brings you fame to the world.",
+    "divination": [
+      "This is an auspicious lot.",
+      "If you go into politics or government service, you can get a position; if you are poor you will receive treasure, and all plans for your future All things will work out to be the best, this is the best lot of all."
+    ],
+    "items": [
+      [
+        "",
+        "Reveals the divine sign that you can do whatever you wish, and everything will be auspicious and smooth."
+      ]
+    ],
+    "summary": null
+  },
+  "notes": "SPECIAL LAYOUT: neither page has the usual 事项 / Celestial Message key-value list; each has one sentence instead, stored as a single pseudo-pair keyed by the section label. zh shiyi line 1 ends with 。 as printed. en divination has a printed run-on 'all plans for your future All things...' (missing punctuation, capital A), kept as printed."
+}

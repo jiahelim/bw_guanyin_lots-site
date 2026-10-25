@@ -1,0 +1,39 @@
+{
+  "n": 30,
+  "zh": {
+    "grade": "中签",
+    "poem": ["劝君切莫向他求", "似鹤飞来暗箭投", "若去采薪蛇在草", "恐遭毒口也忧愁"],
+    "jieyue": ["闭口合齿", "他事莫理", "若有亏心", "到头害己"],
+    "shiyi": ["此卦安份守己之象。", "凡事小心谨防也。"],
+    "explain": "不要不择对象就随便求人，以防别人表面相助却投来暗箭。正如拾柴，要提防被草中的毒蛇咬伤，带来忧患。",
+    "divination": ["此签为中签。", "闭上嘴巴，合上牙齿，对不关乎自己的事情不要去理会。", "如果做了亏心事，到头来也定然会祸害到自己。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "平安"], ["投资理财", "等待时机"],
+      ["经商买卖", "停顿状态"], ["工农商业", "不利，宜理性判断"], ["工作事业", "安分守己，少管闲事"], ["学业考试", "不理想，勤能补拙"],
+      ["爱情婚姻", "因缘未至"], ["怀孕生育", "预防虚惊"], ["出门在外", "路途会有阻隔"], ["畜养动物", "不利"],
+      ["寻人", "会有阻隔"], ["寻失物", "不能找到"], ["官司诉讼", "亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "宜守住不变"],
+      ["治病健康", "难以痊愈"], ["祖坟牌位", "大吉"]
+    ],
+    "summary": "此卦安份守己之象。所祈求之事一定要小心谨慎。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Thou shalt not seek help from just anybody,", "Beware of a hidden arrow disguised as a flying crane.", "When gathering firewood in the field, a snake may lie in wait.", "With venom that brings none but grief."],
+    "interpretation": ["Keep your mouth shut.  Don’t get involved in others’ affairs.  You will pay the price if you do anything against your conscience."],
+    "meaning": ["Be content with your lot & not be ambitious.", "Be careful and cautious in everything."],
+    "explain": "Do not indiscriminately seek help from just anyone. This is to avoid falling into the trap of people pretending to help you on the surface, yet casting a secret arrow from behind. Just like when gathering firewood, one must guard against being bitten by poisonous snakes in the grass, which will bring misery.",
+    "divination": ["This is a neutral lot.", "Keep your mouth shut and do not get involved in affairs that do not concern you.  You will surely pay the price if you do anything against your conscience."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Safe"],
+      ["Investment and financial management", "Wait for right opportunity"], ["Business", "Standstill state"],
+      ["Agriculture and commerce", "Not favorable, rational judgment is appropriate"], ["Career", "Be content with your lot, mind your own business"],
+      ["Academic and examination", "Not favorable, be more diligent to make up for your weaknesses."],
+      ["Marriage", "Not right yet"], ["Birth", "False alarm"], ["Traveller", "Route will be cut off"], ["Husbandry", "Not favorable"],
+      ["Missing person", "Will get cut off"], ["Missing things", "Cannot be found"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Maintain status quo"], ["Change", "Best no change"],
+      ["Sickness", "Difficult to recover"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh uses 安份守己 in 诗意/签语 but 安分守己 in 工作事业, both as printed. en verse lines 3-4 are printed wrapped ('...a snake may lie in / wait. With venom...'); split at the sentence break. 'Business:  Standstill' extra space normalized."
+}

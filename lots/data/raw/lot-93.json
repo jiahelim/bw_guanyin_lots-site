@@ -1,0 +1,37 @@
+{
+  "n": 93,
+  "zh": {
+    "grade": "中签",
+    "poem": ["鸾凤翎毛雨压垂", "此时应被雀轻欺", "忽朝一日云霄霁", "依旧还教振羽衣"],
+    "jieyue": ["小人日盛", "君子莫为", "只宜守己", "待时施为"],
+    "shiyi": ["此卦鸾凤被雨之象。", "凡事待时大利也。"],
+    "explain": "高翔的鸾凤被雨淋湿了羽翼，反而被蓬间的雀鸟欺侮。但一切终究会有云开雨霁的时候，到时仍能重振羽翼胜过百鸟。",
+    "divination": ["此签为中签。", "周围的小人日渐得志，是君子便不要强行有所作为。", "只宜坚守本性，等待时机来临时才去一展身手。"],
+    "items": [
+      ["家宅情况", "不太顺利"], ["自身情况", "宜小心谨防"], ["投资理财", "有阻碍"],
+      ["经商买卖", "宜等待时机"], ["工农商业", "晚些会有业绩"], ["工作事业", "待时机成熟会顺利"], ["学业考试", "多用功会有收获"],
+      ["爱情婚姻", "会因阻碍而推迟"], ["怀孕生育", "宜多防护，注意调养身体"], ["出门在外", "在途中流连"], ["畜养动物", "有损失"],
+      ["寻人", "难以找到"], ["寻失物", "难寻"], ["官司诉讼", "会亏输"], ["迁徙搬家", "宜原地不动"], ["转换变更", "坚持努力而有更大成就"],
+      ["治病健康", "需较长时间康复"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦鸾凤被雨之象。所祈求之事需等待时机的来临，必定会顺利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["The phoenix‘s distinguished feathers soak with rain,", "Even the common bird mock and laugh at him.", "Suddenly the rains cease and the sky is clear again,", "Its plumage continues to be a regal feather robe."],
+    "interpretation": ["When vile people call the shots, you should do nothing but retreat and wait until things are in your favor again."],
+    "meaning": ["A majestic bird is soaked in the rain.", "Wait for a more favorable moment to come."],
+    "explain": "The soaring phoenix's feathers were drenched by the rain, they were even mocked by the common birds in the canopy. But these will pass when the rain stops and the sky clears, then they will once again revive their regal feathers to regain their position above all other birds.",
+    "divination": ["This is a neutral lot.", "As vile people around you grow more ambitious day by day, a gentleman like you should not impose your standards or force your way through. Instead, it is better to stick to your own duty and wait for the right opportunity to display your skills."],
+    "items": [
+      ["Household", "Conditions are not favorable"], ["Self", "Take precaution & be careful"],
+      ["Investment and financial management", "Obstruction"], ["Business", "Wait for opportunity"],
+      ["Agriculture and commerce", "Will mature later"], ["Career", "Success when time is ripe"], ["Academic and examination", "More effort will pay off"],
+      ["Marriage", "Delayed by obstacles"], ["Birth", "Take more care  and pay attention to regulate your body"], ["Traveller", "Linger on the way"], ["Husbandry", "Damage"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Difficult to find"], ["Lawsuit", "Loss"], ["Migrating/moving house", "Stay put"], ["Change", "Continue to work hard and get greater achievements"],
+      ["Sickness", "More time before recovery"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "18 items incl. 迁徙搬家 / Migrating/moving house. EN verse line 1 prints a left single quote in phoenix‘s (kept). EN Birth value has a double space ('care  and') as printed."
+}

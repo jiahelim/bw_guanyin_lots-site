@@ -1,0 +1,37 @@
+{
+  "n": 56,
+  "zh": {
+    "grade": "中签",
+    "poem": ["滩小石溪流水响", "清风明月贵人忙", "路须借问何方去", "莫取林中花草香"],
+    "jieyue": ["营谋用事", "劳心费力", "守旧待时", "凡事大吉"],
+    "shiyi": ["此封船行小滩之象。", "凡事有贵人助也。"],
+    "explain": "乘一叶小舟悠游在小溪浅滩间，山林中风清月明，花草飘香。若问前路何去何从，不如享受着山林乐趣，等贵人出现。",
+    "divination": ["此签为中签。", "谋划改变当前的现状，并去实施，是费力劳心的事情。", "保持现状，等待时机再作打算，才可能大吉大利。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "吉祥"], ["投资理财", "成绩一般"],
+      ["经商买卖", "顺利"], ["工农商业", "丰收"], ["工作事业", "稳健中求发展"], ["学业考试", "顺利"],
+      ["爱情婚姻", "如愿"], ["怀孕生育", "男孩"], ["出门在外", "已到达目的地"], ["畜养动物", "有损失"],
+      ["寻人", "自己会出现"], ["寻失物", "不易找到"], ["官司诉讼", "有理"], ["迁徙搬家", "吉利"], ["转换变更", "稳扎稳打"],
+      ["治病健康", "即将安康"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此封船行小滩之象。所祈求之事将获得贵人的协助。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Running water sounds on stones at the shallows of streams,", "Disturb not the wise on a cool, clear moonlit night.", "Need seek guidance on which path to go,", "But not be distracted by the scent and sight of flowers."],
+    "interpretation": ["Efforts spent in organizing your plans to achieve a goal will be wasted.  You should let things remain for now and wait for a time when things would augur well."],
+    "meaning": ["Riding a small boat along a stream, you will have benefactors to help you through."],
+    "explain": "Row a boat leisurely in between streams and shoals, enjoy the clear breeze, the bright moon and the fragrance of flowers in the mountain. If you wish to ask which path to go in life, it is better to relax, enjoy the beauty of the mountain and its flora,  and wait for guidance from a benefactor.",
+    "divination": ["This is a neutral lot.", "It is extremely tiring, both mentally and physically to plan and implement changes to the present situation. It is better to keep the status quo, wait for the right time to plan then everything can be auspicious."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Auspicious"],
+      ["Investment and financial management", "Average"], ["Business", "Favorable"],
+      ["Agriculture and commerce", "Bountiful harvest"], ["Career", "Seek development in stability"], ["Academic and examination", "Smooth"],
+      ["Marriage", "As desired"], ["Birth", "Boy"], ["Traveller", "Has arrived"], ["Husbandry", "Damage"],
+      ["Missing person", "Has arrived"], ["Missing things", "Hard to find"], ["Lawsuit", "Reasonable settlement"], ["Migrating and moving house", "Propitious"], ["Change", "Act steady"],
+      ["Sickness", "Will be well soon"], ["Ancestral grave", "Should make repairs"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. zh shiyi and summary print 此封 (apparent typo for 此卦) — copied as printed. en verse is wrapped mid-line on the page; split at the capitalized clause starts. en explain has double space in 'flora,  and'; 'Sickness:  Will' double space trimmed in value."
+}

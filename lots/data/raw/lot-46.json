@@ -1,0 +1,200 @@
+{
+  "n": 46,
+  "zh": {
+    "grade": "中签",
+    "poem": [
+      "劝君耐守旧生涯",
+      "把定心肠勿起歹",
+      "直待有人轻着力",
+      "枯枝老树再生花"
+    ],
+    "jieyue": [
+      "守旧守静",
+      "事自成就",
+      "动则多殃",
+      "静则无咎"
+    ],
+    "shiyi": [
+      "此卦枯木生花之象。",
+      "凡事自有成就也。"
+    ],
+    "explain": "耐心持守原有的良好品质，不要产生过多的妄想。等待有人提携佐助，就会像枯树开花一样时来运转，也自然会兴旺发达。",
+    "divination": [
+      "此签为中签。",
+      "坚持原有的行事原则，事情自然能取得成功。",
+      "如果变来变去，则可能招致祸殃，反而是安静自处，没有灾难。"
+    ],
+    "items": [
+      [
+        "家宅情况",
+        "安宁"
+      ],
+      [
+        "自身情况",
+        "吉祥"
+      ],
+      [
+        "投资理财",
+        "等待机遇"
+      ],
+      [
+        "经商买卖",
+        "成功"
+      ],
+      [
+        "工农商业",
+        "静待机缘"
+      ],
+      [
+        "工作事业",
+        "固守本分，渐入佳境"
+      ],
+      [
+        "学业考试",
+        "不尽如人意，需加倍用功。"
+      ],
+      [
+        "爱情婚姻",
+        "成功"
+      ],
+      [
+        "怀孕生育",
+        "女孩"
+      ],
+      [
+        "出门在外",
+        "在途中受阻"
+      ],
+      [
+        "畜养动物",
+        "困难"
+      ],
+      [
+        "寻人",
+        "毫无音信"
+      ],
+      [
+        "寻失物",
+        "难以找到"
+      ],
+      [
+        "官司诉讼",
+        "吉利积善祈福回向"
+      ],
+      [
+        "迁徙搬家",
+        "宜原地不动"
+      ],
+      [
+        "转换变更",
+        "宜保持原状"
+      ],
+      [
+        "治病健康",
+        "积善祈福保平安"
+      ],
+      [
+        "祖坟牌位",
+        "吉利"
+      ]
+    ],
+    "summary": "此卦枯木生花之象。所祈求之事能顺应自然便会有好结果。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": [
+      "Stay still and maintain your life as-is,",
+      "Steel your heart but create no evil.",
+      "Wait until help becomes available,",
+      "Flowers will bloom again in a withered tree."
+    ],
+    "interpretation": [
+      "Keep things as they are.  Do not change anything and nothing will go wrong.  Things will eventually fall in place.  Any movement now may bring much misfortune."
+    ],
+    "meaning": [
+      "A tree that had withered blossomed again.",
+      "Things will naturally fall in place."
+    ],
+    "explain": "Be patient and keep your current good qualities, do not have too much wishful thinking. When someone brings you up, it is like a withered tree blossoming again, progress and prosperity will come naturally.",
+    "divination": [
+      "This is a neutral lot.",
+      "Maintain the original ethical principles and things will naturally be well. If one keeps changing, it may bring misfortune. On the contrary, stay quiet and maintain things as status quo then there will be no misfortune."
+    ],
+    "items": [
+      [
+        "Household",
+        "Safe"
+      ],
+      [
+        "Self",
+        "Auspicious"
+      ],
+      [
+        "Investment and financial management",
+        "Wait for opportunity"
+      ],
+      [
+        "Business",
+        "Successful"
+      ],
+      [
+        "Agriculture and commerce",
+        "Wait for the chance"
+      ],
+      [
+        "Career",
+        "Stick to duty and get better"
+      ],
+      [
+        "Academic and examination",
+        "Not as good as you want, you need to work harder."
+      ],
+      [
+        "Marriage",
+        "Successful"
+      ],
+      [
+        "Birth",
+        "Girl"
+      ],
+      [
+        "Traveller",
+        "Obstruction enroute"
+      ],
+      [
+        "Husbandry",
+        "Challenging"
+      ],
+      [
+        "Missing person",
+        "No news at all"
+      ],
+      [
+        "Missing things",
+        "Hard to find"
+      ],
+      [
+        "Lawsuit",
+        "Propitious, do good, pray for blessing and dedicate"
+      ],
+      [
+        "Migrating and moving house",
+        "Maintain status quo"
+      ],
+      [
+        "Change",
+        "Keep as original"
+      ],
+      [
+        "Sickness",
+        "Accumulate merits and pray for blessings"
+      ],
+      [
+        "Ancestral grave",
+        "Propitious"
+      ]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages list an extra item 迁徙搬家 / 'Migrating and moving house' (18 items vs 17 in lot 1). zh uses 畜养动物 (not 家养动物); en uses 'Traveller' (not 'Travel')."
+}

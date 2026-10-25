@@ -1,0 +1,39 @@
+{
+  "n": 21,
+  "zh": {
+    "grade": "上签",
+    "poem": ["阴阳道合总由天", "女嫁男婚喜偎然", "但见龙蛇相会合", "熊罴入梦乐团圆"],
+    "jieyue": ["谋望从心", "婚姻孕男", "资财进益", "更利田蚕"],
+    "shiyi": ["此卦阴阳道合之象。", "凡事和大吉也。"],
+    "explain": "阴阳谐和是自然规律，男女婚嫁定然亲密欢喜。待到龙年蛇年，就会孕育男孩，家庭更美满，家人添欢欣。",
+    "divination": ["此签为上签。", "谋划仕途获得高升，能符合最初的愿望；婚姻也和合，并且会生育男孩；资财会有所增益，对于农事耕作，更是大有收获。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "顺利"], ["投资理财", "有收获"],
+      ["经商买卖", "成功"], ["工农商业", "有收获"], ["工作事业", "顺利"], ["学业考试", "有成"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "男孩"], ["出门在外", "已到达目的地"], ["畜养动物", "兴旺"],
+      ["寻人", "找到"], ["寻失物", "见到"], ["官司诉讼", "有理"], ["迁徙搬家", "更加昌盛"],
+      ["转换变更", "吉利"], ["治病健康", "遇到良方"], ["祖坟牌位", "大吉大利"]
+    ],
+    "summary": "此卦阴阳道合之象。所祈求之事皆谐和顺畅，非常吉利。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Heaven decrees how Yin and Yang harmonizes,", "Happy is the union of a man and his wife.", "As when the dragon or snake arrives to meet,", "A happy family reunites with dreams of heirs."],
+    "interpretation": ["Whatever you wish for will materialize, including marriage and a son.", "Wealth and money will come.", "It is even better for the crops."],
+    "meaning": ["When Yin and Yang are in harmony; things are expected to go well."],
+    "explain": "Just as the harmony of yin and yang is the law of nature, matrimony for a man and woman will certainly give rise to intimacy and happiness. In either the year of the Dragon or year of the Snake, the sign points to the birth of a boy, enhancing the family's bliss and joy.",
+    "divination": ["This is an auspicious lot.", "Prospect for career promotion is high, coinciding with one’s initial aspiration. Marriage is also harmonious, you will have a baby boy; your wealth will grow, and farming will get an even greater harvest."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Smooth"],
+      ["Investment and financial management", "Rewarding"], ["Business", "Successful"],
+      ["Agriculture and commerce", "Rewarding"], ["Career", "Smooth"],
+      ["Academic and examination", "Success"], ["Marriage", "Suitable"], ["Birth", "Boy"],
+      ["Traveller", "Has arrived"], ["Husbandry", "Thriving"], ["Missing person", "Found"],
+      ["Missing things", "Can be found"], ["Lawsuit", "Reasonable settlement"],
+      ["Migrating and moving house", "More prosperous"], ["Change", "Prosperous"],
+      ["Sickness", "Will find an excellent cure"], ["Ancestral grave", "Very Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh poem 2nd half-line 女嫁男婚喜偎然: 偎 read from small bold type (matches the traditional text). en meaning is wrapped after the semicolon; kept as one string. en double spaces (after 'son.', 'Traveller:') normalized. Extra 迁徙搬家 / Migrating row present."
+}

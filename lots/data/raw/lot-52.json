@@ -1,0 +1,37 @@
+{
+  "n": 52,
+  "zh": {
+    "grade": "中签",
+    "poem": ["水中捞月费工夫", "费尽功夫却又无", "莫说闲言并乱语", "枉劳心力强身孤"],
+    "jieyue": ["言语难思", "费力劳心", "宅中忧恼", "待遇贵人"],
+    "shiyi": ["此卦贪求费力之象。", "凡事劳心费力也。"],
+    "explain": "水中捞月，费尽工夫也没有实际效果。不要胡言乱语说是说非，那样不仅枉费心思，还会使自己孤立。",
+    "divination": ["此签为中签。", "说出的话没有正常的逻辑关系，胡言乱语，费力劳心。", "家中还有忧愁烦恼的事，需要有贵人相助才能解决。"],
+    "items": [
+      ["家宅情况", "不太安宁"], ["自身情况", "不太吉祥"], ["投资理财", "一般"],
+      ["经商买卖", "不易成功"], ["工农商业", "有五成的收获"], ["工作事业", "多观察思考并向人请教，不贸然行动。"], ["学业考试", "专注课业，多请教，不要胡思乱想。"],
+      ["爱情婚姻", "不太顺利"], ["怀孕生育", "积善祈求保平安"], ["出门在外", "恐有灾难"], ["畜养动物", "衰败"],
+      ["寻人", "凶险"], ["寻失物", "最终也难找到"], ["官司诉讼", "最终和解"], ["迁徙搬家", "平常"], ["转换变更", "一般"],
+      ["治病健康", "积善祈求庇佑保平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦贪求费力之象。所祈求之事虽劳心费力，却徒劳无功。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Fishing the moon out of waters,", "All that efforts for nothing that matters.", "Refrain from idle talk and false rumors,", "That exhausts the soul and makes the isolation stronger."],
+    "interpretation": ["Empty words are meaningless, they waste efforts and exhaust your mind.  There is sorrow and worry in your household, wait for the arrival of your distinguished patron."],
+    "meaning": ["Futile attempts to satisfy one’s greed,", "your endeavors and efforts will come to naught."],
+    "explain": "It will be in vain and a waste of effort to scoop the moon out of the water. You should refrain from talking nonsense or gossiping, as this is of no avail, and also find yourself being isolated by others.",
+    "divination": ["This is a neutral lot.", "There is no logic in your words, meaningless talk  and a waste of effort. Also, there are troubles at home. You need help from a distinguished person to solve your problems and worries."],
+    "items": [
+      ["Household", "Not very peaceful"], ["Self", "Not so auspicious"],
+      ["Investment and financial management", "Average"], ["Business", "Not easy to succeed"],
+      ["Agriculture and commerce", "50% will mature"], ["Career", "Observe, think more and ask for advice, and don't act rashly."], ["Academic and examination", "Focus on your class work, ask for advice, and don't think outside unnecessary."],
+      ["Marriage", "Yet to materialize"], ["Birth", "Accumulate merits, pray for protection & blessings"], ["Traveller", "May have disasters"], ["Husbandry", "Decline"],
+      ["Missing person", "Ominous"], ["Missing things", "Can’t be found"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Normal"], ["Change", "General"],
+      ["Sickness", "Accumulate merits, pray for protection & blessings"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house'. en divination has a double space in 'meaningless talk  and' as printed. Apostrophes: 'don't' appears straight and 'Can’t' curly on the page (best reading)."
+}

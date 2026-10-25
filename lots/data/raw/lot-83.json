@@ -1,0 +1,37 @@
+{
+  "n": 83,
+  "zh": {
+    "grade": "中签",
+    "poem": ["譬若初三四五缺", "半无半有未圆全", "等待十五良宵夜", "到处光明到处圆"],
+    "jieyue": ["守旧待时", "如月初出", "待等圆时", "无有不吉"],
+    "shiyi": ["此卦月缺未圆之象，", "凡事候时则吉也。"],
+    "explain": "譬如初三初四初五，月亮半有半无，缺损而不圆满。待到十五夜间，便会圆月当空，到处都光明。",
+    "divination": ["此签为中签。", "保持现状等待时机，就像每月初几里的月亮一样。", "待到一切条件成熟之时，就不会有不吉利的情况发生了。"],
+    "items": [
+      ["家宅情况", "需向菩萨许愿"], ["自身情况", "夏秋时节吉祥"], ["投资理财", "小心地保持现状"],
+      ["经商买卖", "宜等待时机"], ["工农商业", "时机未到，勿急躁"], ["工作事业", "静待时机成熟"], ["学业考试", "多下苦功，方见进步"],
+      ["爱情婚姻", "会延迟"], ["怀孕生育", "女孩"], ["出门在外", "在途中受阻"], ["畜养动物", "平稳"],
+      ["寻人", "难以找到"], ["寻失物", "难以找到"], ["官司诉讼", "会和解"], ["迁徙搬家", "宜原地不动"], ["转换变更", "静待时机因缘再谋求"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "宜修缮"]
+    ],
+    "summary": "此卦月缺未圆之象。所祈求之事必须静候时机才会吉利。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["On the third, fourth, fifth, a crescent,", "Half present and sometimes absent.", "Until the night of the fifteenth,", "Round and full, it brightens up the sky."],
+    "interpretation": ["Bide your time.", "As the new moon emerges, wait for it to reach its fullness, then things will proceed as you desire."],
+    "meaning": ["The new moon gradually reaches its fullness again.", "Things will turn out well if you only wait."],
+    "explain": "On the lunar 3rd, 4th and 5th of the month, the moon is crescent-shaped and not full. Until the 15th night, then the  moon becomes full, with its light shining bright and clear.",
+    "divination": ["This is a neutral lot.", "Maintain status quo and wait for the right opportunity, just like a new moon at the beginning of every lunar month. When the right conditions appear, mishaps will not happen."],
+    "items": [
+      ["Household", "Need to make a promise to the Bodhisattvas"], ["Self", "Auspicious in Autumn & Summer"],
+      ["Investment and financial management", "Carefully maintain the current situation"], ["Business", "Wait for right time"],
+      ["Agriculture and commerce", "Time is not ripe, do not rush"], ["Career", "Wait for right time"], ["Academic and examination", "Work harder to see results"],
+      ["Marriage", "Will be late"], ["Birth", "Girl"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Stable"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Difficult to find"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Maintain status quo"],
+      ["Change", "Wait for right time"], ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Should make repairs."]
+    ],
+    "summary": null
+  },
+  "notes": "Extra item 迁徙搬家 / 'Migrating and moving house' on both pages. zh key printed 畜养动物; en key 'Traveller'. Double space 'then the  moon' in en explain is as printed. 'Bide your time.' split as its own sentence in interpretation."
+}

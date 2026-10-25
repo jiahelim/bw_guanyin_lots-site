@@ -1,0 +1,37 @@
+{
+  "n": 92,
+  "zh": {
+    "grade": "上签",
+    "poem": ["自幼为商任设谋", "财禄盈丰不用求", "若是进身谋望事", "秀才出去状元游"],
+    "jieyue": ["自小至大", "无阻无碍", "作意营谋", "功名顺遂"],
+    "shiyi": ["此卦自小为商之象。", "凡事勤俭无忧也。"],
+    "explain": "从小经商谋划都十分如意，财禄丰盈也从无苦恼。如果要只身去谋求事业，也必定是秀才出去成为状元，自会功成名就。",
+    "divination": ["此签为上签。", "从小到大，顺顺利利，没有什么阻碍。", "有意去追求的事情，都可顺心如意，获得成功。"],
+    "items": [
+      ["家宅情况", "安宁"], ["自身情况", "身心康泰"], ["投资理财", "顺遂如意"],
+      ["经商买卖", "顺意"], ["工农商业", "谋事顺利吉祥"], ["工作事业", "顺利且如愿"], ["学业考试", "进步"],
+      ["爱情婚姻", "双方相合"], ["怀孕生育", "生男"], ["出门在外", "仍在途中"], ["畜养动物", "兴旺"],
+      ["寻人", "找到"], ["寻失物", "还在"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "随心如意"], ["转换变更", "前途光明"],
+      ["治病健康", "即将康复"], ["祖坟牌位", "大吉"]
+    ],
+    "summary": "此卦自小为商之象。所祈求之事如果勤奋节俭地去做，可永保无忧无愁。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["A merchant since young built his experience", "Earned fortunes and riches with little help.", "If another path is now sought,", "The scholar will return with honors."],
+    "interpretation": ["One has encountered few obstacles and troubles since young.", "Fame and honor will be as desired if the business and affairs continue to be managed well."],
+    "meaning": ["An industrious merchant since young.", "A fortuitous life built on diligence and frugality."],
+    "explain": "A merchant since young, thus he has lots of experience, amassing abundant wealth & fortune with little effort. If you wish to go into business, you will definitely be a scholar and return with honours and fame.",
+    "divination": ["This is an auspicious lot.", "Throughout your life, every undertaking has been smooth and without any obstacles. All your future undertakings will similarly be easily accomplished and successful as desired."],
+    "items": [
+      ["Household", "Safe"], ["Self", "Well"],
+      ["Investment and financial management", "As desired"], ["Business", "Successful"],
+      ["Agriculture and commerce", "All smooth-sailing, auspicious"], ["Career", "Smooth-sailing, as desired"], ["Academic and examination", "Progress"],
+      ["Marriage", "Suitable"], ["Birth", "Boy"], ["Traveller", "On the way"], ["Husbandry", "Prosper"],
+      ["Missing person", "Found"], ["Missing things", "Still around"], ["Lawsuit", "Victorious"], ["Migrating and moving house", "As you wish"], ["Change", "Bright future"],
+      ["Sickness", "Will be well soon"], ["Ancestral grave", "Very Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "18 items (extra 迁徙搬家 / Migrating and moving house vs lot 1). zh key is 畜养动物 (not 家养动物); en key is 'Traveller' (not 'Travel')."
+}

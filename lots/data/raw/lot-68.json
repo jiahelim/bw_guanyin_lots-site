@@ -1,0 +1,38 @@
+{
+  "n": 68,
+  "zh": {
+    "grade": "中签",
+    "poem": ["门庭吉庆喜非常", "积善之门大吉昌", "婚姻田蚕诸事遂", "病逢妙药即安康"],
+    "jieyue": ["积善之家", "必有余庆", "忠义之门", "拱照福星"],
+    "shiyi": ["此庭门吉庆之象，", "凡事顺遂也。"],
+    "explain": "家中延纳喜庆，欢喜异常。多施善行，定会大吉利、大昌盛。婚姻、耕种诸事顺遂，即使生病也会遇到良医，很快就会转为安康。",
+    "divination": ["此签为中签。", "施行善举的家族，一定有很多值得庆贺的喜事；", "尽忠尽义的人家，也必定福星高照。"],
+    "items": [
+      ["家宅情况", "兴旺"], ["自身情况", "平安"], ["投资理财", "春天时兴旺"],
+      ["经商买卖", "如愿以偿"], ["工农商业", "兴旺"], ["工作事业", "随顺心意，所作如愿"], ["学业考试", "顺利过关"],
+      ["爱情婚姻", "成功"], ["怀孕生育", "提防惊吓"], ["出门在外", "顺利到达目的地"], ["畜养动物", "兴旺"],
+      ["寻人", "会自己出现"], ["寻失物", "应赶快寻找"], ["官司诉讼", "会胜诉"], ["迁徙搬家", "顺心如意"],
+      ["转换变更", "心想事成"], ["治病健康", "平安"], ["祖坟牌位", "大吉"]
+    ],
+    "summary": "此庭门吉庆之象。所祈求之事能顺利及如愿的成办。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["A great joyous celebration at the gate,", "Auspices and great fortune for the kind and generous.", "Marriage, farming, everything will be as desired,", "And the sick will recover with miracles."],
+    "interpretation": ["A family who performs good deeds will accumulate good fortune.", "Descendants of the loyal will be blessed."],
+    "meaning": ["Happy celebrations at one’s gate,", "everything is going well."],
+    "explain": "When the family has celebrations, the joy is exceptional. Practise generosity and doing more virtuous deeds will certainly bring great blessings and prosperity to the family, marriage, farming and all other matters will be smoothly accomplished. Even the sick will meet good doctors and recover very quickly.",
+    "divination": ["This is a neutral lot.", "A family who performs acts of kindness and generosity will definitely have many happy occasions for celebration; a honest and righteous family will be blessed with good fortune."],
+    "items": [
+      ["Household", "Prosperous"], ["Self", "Safe"],
+      ["Investment and financial management", "Prosperous in Spring"], ["Business", "As desired"],
+      ["Agriculture and commerce", "Prosperous"], ["Career", "Follow your heart & all will be done as wished"], ["Academic and examination", "Successful"],
+      ["Marriage", "Successful"], ["Birth", "Beware of fright"], ["Traveller", "Safely arrived"], ["Husbandry", "Prosperous"],
+      ["Missing person", "Will appear on own"], ["Missing things", "Should look for it quickly"], ["Lawsuit", "Victorious"],
+      ["Migrating and moving house", "Smooth & as desired"], ["Change", "As desired"],
+      ["Sickness", "Safe"], ["Ancestral grave", "Very Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "Both pages have an extra item 迁徙搬家 / 'Migrating and moving house' (18 items). zh uses 畜养动物 (not 家养动物). zh shiyi and summary print 庭门 while the verse has 门庭; copied as printed. en uses 'Traveller' (not 'Travel')."
+}

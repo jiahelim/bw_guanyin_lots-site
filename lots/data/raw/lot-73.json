@@ -1,0 +1,38 @@
+{
+  "n": 73,
+  "zh": {
+    "grade": "上签",
+    "poem": ["春来雷震百虫鸣", "翻身一转离泥中", "始知出入还来往", "一朝变化便成龙"],
+    "jieyue": ["雷发时转", "出入两存", "一朝变化", "直到天门"],
+    "shiyi": ["此卦雷发百虫之象。", "凡事遇贵人吉兆也。"],
+    "explain": "春雷震响，冬眠的虫儿欢唱着从泥土中翻身而出，才感到自由来去的畅快。如果某天再发生质的变化，虫也会成",
+    "divination": ["此签为上签。", "春雷响起时开始发生转化，从此能出能入，轻松自如。", "如果某天转化完成，必定能获得巨大成功。"],
+    "items": [
+      ["家宅情况", "应多积善祈福庇佑"], ["自身情况", "平常"], ["投资理财", "春天时得利"],
+      ["经商买卖", "会遇到贵人"], ["工农商业", "早行动，早收成"], ["工作事业", "有被贵人提携的机会"], ["学业考试", "努力学习，多请教"],
+      ["爱情婚姻", "双方相合而且成功"], ["怀孕生育", "男孩"], ["出门在外", "已到达目的地"], ["畜养动物", "春时有利可图"],
+      ["寻人", "找到"], ["官司状况", "会胜诉"], ["迁徙搬家", "吉利"],
+      ["转换变更", "可转变，有利"], ["疾病情况", "难痊愈，好好调养"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦雷发百虫之象。所祈求之事得遇贵人，有吉祥的征兆。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["Awaken by a sudden clap of thunder in Spring,", "Worms and insects call and leap from the soil.", "As the comings and goings gather together,", "In one sweep, they are transformed into a dragon."],
+    "interpretation": ["As the thunder roars, the wheel of fortune turns.", "In one quick sweep, things change and one is soon in front of the celestial gate."],
+    "meaning": ["The thunder woke all hibernating creatures.", "Your affairs will be auspicious because of the help you will receive from others."],
+    "explain": "The spring thunder rumbles, and the hibernating worms sing and roll over from the soil, then they can feel the liberty to come and go. If one day another qualitative change occurs, worms can even become dragons.",
+    "divination": ["This is an auspicious lot.", "When the sudden thunder of spring awakens, fortune starts to change; from then on, you can get around with ease. When the day of change happens, one will definitely attain huge success."],
+    "items": [
+      ["Household", "Do good, pray for blessings & protection."], ["Self", "safe"],
+      ["Investment and financial management", "Favorable in Spring"], ["Business", "Will meet benefactor"],
+      ["Agriculture and commerce", "Early action, early harvest"], ["Career", "Have the opportunity to be promoted by distinguished persons"], ["Academic and examination", "Should study hard and ask for advice."],
+      ["Marriage", "Successful match"], ["Birth", "Boy"], ["Traveller", "Already arrived"], ["Husbandry", "Favorable in Spring"],
+      ["Missing person", "Found"], ["Lawsuit", "Victorious"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Can change, favourable"],
+      ["Sickness", "Hard to recover, need to take good care."], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh explain is cut off on the page: it ends '虫也会成' with no final word or punctuation (presumably 龙。); copied as printed, not completed. Both pages omit 寻失物 / 'Missing things' and include 迁徙搬家 / 'Migrating and moving house' (17 items). zh keys 官司状况 and 疾病情况 copied as printed. en 'Self: safe' is lowercase on the page. en uses 'Traveller'."
+}

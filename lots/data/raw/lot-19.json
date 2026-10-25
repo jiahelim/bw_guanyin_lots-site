@@ -1,0 +1,39 @@
+{
+  "n": 19,
+  "zh": {
+    "grade": "中签",
+    "poem": ["急水滩头放船归", "风波作浪欲何为", "若要安然求稳静", "等待浪静过此危"],
+    "jieyue": ["急水下船", "险处待时", "若问营谋", "不可施为"],
+    "shiyi": ["此卦船行急滩之象。", "凡事守旧待时也。"],
+    "explain": "正如行船到了急流险滩，难以排除险阻危难。要想求得安稳，只有等待风平浪静、时来运转，危难才会自然化解。",
+    "divination": ["此签为中签。", "像在激流险滩处行船一样，应当在危险时静待时机。当前不是时候，不要动作。当等待这状况过后再进行谋求。"],
+    "items": [
+      ["家宅情况", "应积善祈福"], ["自身情况", "应积善祈福"], ["投资理财", "尚未成功"],
+      ["经商买卖", "尚未成功"], ["工农商业", "宜安耐等待时机"], ["工作事业", "谨慎，不宜冒进"], ["学业考试", "尚需努力"],
+      ["爱情婚姻", "难以遂愿"], ["怀孕生育", "会有虚惊"], ["出门在外", "已到达目的地"], ["畜养动物", "有损失"],
+      ["寻人", "难找到"], ["寻失物", "难找到"], ["官司诉讼", "和解"], ["迁徙搬家", "宜原地不动"],
+      ["转换变更", "不变为佳"], ["治病健康", "应积善祈福保平安"], ["祖坟牌位", "吉利"]
+    ],
+    "summary": "此卦船行急滩之象。所祈求之事应安于现状，等待时机。"
+  },
+  "en": {
+    "grade": "Neutral",
+    "verse": ["Set the ferry homebound in treacherous waters,", "Winds and waves roll and surge to no end.", "To seek stability and calm,", "Wait for quieter waves as this danger passes."],
+    "interpretation": ["Sail the boat in precarious conditions.", "Wait for your moment in treacherous times.", "Seize your chance and press ahead when conditions improve."],
+    "meaning": ["The image of a boat traveling on the rapids.", "In everything you do, wait patiently & remain as before."],
+    "explain": "Just as a boat reaches the rapids, it is difficult to eliminate the dangers. To seek stability, the only way is to wait for calm weather to return. Then fortune will turn and the crisis will naturally be resolved.",
+    "divination": ["This is a neutral lot.", "Just like a boat sailing through swirling rapids, it is better to be patient and wait for the right moment in times of danger. Now is not the right moment to act. Wait for the situation to pass before taking action."],
+    "items": [
+      ["Household", "Accumulate merits and pray for blessings"], ["Self", "Accumulate merits and pray for blessings"],
+      ["Investment and financial management", "Not ready yet"], ["Business", "Not ready yet"],
+      ["Agriculture and commerce", "Wait for the right moment"], ["Career", "Be cautious, don't take risks"],
+      ["Academic and examination", "Need to work hard"], ["Marriage", "Difficult to fulfill"],
+      ["Birth", "Will have false alarm"], ["Traveller", "Has arrived"], ["Husbandry", "Have damages"],
+      ["Missing person", "Difficult to find"], ["Missing things", "Difficult to find"], ["Lawsuit", "Amicable settlement"],
+      ["Migrating and moving house", "Remain as before"], ["Change", "Better not to change"],
+      ["Sickness", "Accumulate merits and pray for blessings"], ["Ancestral grave", "Propitious"]
+    ],
+    "summary": null
+  },
+  "notes": "zh 工农商业 value printed 宜安耐等待时机 (安耐 as printed, standard is 按捺/安分). en double spaces after periods normalized. Extra 迁徙搬家 / Migrating row present."
+}

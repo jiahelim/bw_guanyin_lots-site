@@ -1,0 +1,38 @@
+{
+  "n": 64,
+  "zh": {
+    "grade": "下签",
+    "poem": ["游鱼却在碧波池", "撞遭罗网四边围", "思量无计翻身出", "事到头来惹是非"],
+    "jieyue": ["屋下安身", "祸从天降", "早觉先防", "免遭灾殃"],
+    "shiyi": ["此卦鱼遭罗网之象。", "凡事亦宜提防也。"],
+    "explain": "像鱼正在碧波池中畅游，却遭到罗网四面投来。费尽心机，无计脱身，始终陷身于是非灾祸之中。",
+    "divination": ["此签为下签。", "在屋中安身而坐，也有灾祸从天而降。", "要提早觉察，先作防范，才能免遭祸殃。"],
+    "items": [
+      ["家宅情况", "有凶险"], ["自身情况", "有危险"], ["投资理财", "不太顺"],
+      ["经商买卖", "中等、一般"], ["工农商业", "有所亏损"], ["工作事业", "宜谦下安忍"], ["学业考试", "宜早作准备"],
+      ["爱情婚姻", "双方不合"], ["怀孕生育", "预防虚惊"], ["出门在外", "在途中受阻碍"], ["畜养动物", "衰败"],
+      ["寻人", "毫无音信"], ["寻失物", "过程有凶险"], ["官司诉讼", "会亏输"], ["迁徙搬家", "吉利"],
+      ["转换变更", "吉祥顺利"], ["治病健康", "宜尽快治疗"], ["祖坟牌位", "宜变换方位"]
+    ],
+    "summary": "此卦鱼遭罗网之象。所祈求之事应当小心提防。"
+  },
+  "en": {
+    "grade": "Inauspicious",
+    "verse": ["A fish swimming in a clear blue pond,", "Hits upon a net that has it surrounded.", "Clueless as it tries desperately to escape,", "Yet all is in vain in the end."],
+    "interpretation": ["A roof provides shelter but calamity may still fall on you.", "Be aware and take precautions and you may be spared the disaster."],
+    "meaning": ["A fish caught in the net.", "It is better to take precautions."],
+    "explain": "Like a fish swimming in a clear blue pond, yet it is trapped by a net cast from all sides.  Exhausted and nowhere to escape, it is always trapped in the middle of disaster.",
+    "divination": ["This is an inauspicious lot.", "Though a roof gives you shelter, yet disasters may still fall on you.  It is best to be aware of them in advance and take precautions, then you can avoid disasters."],
+    "items": [
+      ["Household", "Ominous"], ["Self", "Precarious"],
+      ["Investment and financial management", "Not smooth"], ["Business", "Average"],
+      ["Agriculture and commerce", "Loss"], ["Career", "Humility and forbearance should be practised."], ["Academic and examination", "Should prepare early"],
+      ["Marriage", "Not suitable"], ["Birth", "Beware of fright"], ["Traveller", "Obstruction enroute"], ["Husbandry", "Loss"],
+      ["Missing person", "No news"], ["Missing things", "Ominous"], ["Lawsuit", "Loss"],
+      ["Migrating and moving house", "Propitious"], ["Change", "Propitious, smooth"],
+      ["Sickness", "Should be treated as soon as possible"], ["Ancestral grave", "Should change direction"]
+    ],
+    "summary": null
+  },
+  "notes": "Extra 迁徙搬家 / 'Migrating and moving house' row; zh key 畜养动物; en key 'Traveller'. en 'Birth' sits at the bottom of the left column in the image (not top of right); order kept in reading sequence. Printed double spaces after sentences kept in en explain/divination."
+}

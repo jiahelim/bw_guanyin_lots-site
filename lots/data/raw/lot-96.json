@@ -1,0 +1,37 @@
+{
+  "n": 96,
+  "zh": {
+    "grade": "上签",
+    "poem": ["巍峨宝塔不寻常", "八面玲珑尽放光", "劝君立志勤顶礼", "作善苍天降福祥"],
+    "jieyue": ["这些福份", "众人皆见", "不用心忙", "福德前定"],
+    "shiyi": ["此卦福德现身之象。", "凡事大吉利也。"],
+    "explain": "高高的宝塔神异奇特，八面透亮，永放光芒。劝您多多虔诚地顶礼膜拜，多做善事，上天自会赐给您幸福吉祥。",
+    "divination": ["此签为上签。", "世上的这些福分，大家都是经常见到的。", "不要劳心费力地追求，一切都是人在前世就修定了的。"],
+    "items": [
+      ["家宅情况", "需对菩萨许愿"], ["自身情况", "宜印经增福慧"], ["投资理财", "正在势头上"],
+      ["经商买卖", "非常吉利"], ["工农商业", "顺利"], ["工作事业", "谋事顺心"], ["学业考试", "培福修慧利考试"],
+      ["爱情婚姻", "双方欢喜融合"], ["怀孕生育", "有喜"], ["出门在外", "仍在途中"], ["畜养动物", "不太顺利"],
+      ["寻人", "找到"], ["官司诉讼", "会和解"], ["迁徙搬家", "吉祥"], ["转换变更", "安分守旧，静待机缘"],
+      ["治病健康", "宜作大祈福供养回向"], ["祖坟牌位", "平平"]
+    ],
+    "summary": "此卦福德现身之象。所祈求之事非常吉祥顺利。"
+  },
+  "en": {
+    "grade": "Auspicious",
+    "verse": ["The majestic pagoda is more than ordinary,", "In all directions, it glows exquisitely.", "Steel your mind to worship and do more good,", "Heaven will reward your charity with fortune."],
+    "interpretation": ["Your share of fortune is much the same as others.", "Do not fret as this is all preordained."],
+    "meaning": ["The signs of fortune and prosperity, everything will go very well."],
+    "explain": "Unique and extraordinary, the majestic pagoda stands tall, shining constantly in all 8 directions with brilliance. It is advisable for you to devote yourself to earnest worship, do more virtuous deeds, then Heaven will naturally bless you with good fortune and happiness.",
+    "divination": ["This is an auspicious lot.", "All these worldly good fortunes, everyone sees it frequently. Do not expend a great deal of effort chasing after it. Everything is predestined in previous life."],
+    "items": [
+      ["Household", "Need to make vow before Bodhisattva"], ["Self", "Best to print sutras to increase merits & wisdom"],
+      ["Investment and financial management", "Gaining momentum"], ["Business", "Very auspicious"],
+      ["Agriculture and commerce", "Smooth"], ["Career", "Everything is going well"], ["Academic and examination", "Cultivate merits & wisdom to help in exams"],
+      ["Marriage", "Harmonious"], ["Birth", "Expectant"], ["Traveller", "Still enroute"], ["Husbandry", "Not so favorable"],
+      ["Missing person", "Found"], ["Lawsuit", "Amiable settlement"], ["Migrating and moving house", "Propitious"], ["Change", "Stay put, & wait for opportunity"],
+      ["Sickness", "Do vast offerings for blessings and dedications"], ["Ancestral grave", "Average"]
+    ],
+    "summary": null
+  },
+  "notes": "17 items: no 寻失物 / Missing things item on either page; adds 迁徙搬家 / Migrating and moving house. zh jieyue prints 福份 while divination prints 福分 (both kept as printed)."
+}
